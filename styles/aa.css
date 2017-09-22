@@ -1,0 +1,70 @@
+body {
+  padding-top: 60px;
+}
+.starter-template {
+  padding: 40px 15px;
+}
+.pTitle {
+  font-size: 17.5px;
+  font-weight: bold;
+  /*padding-top: 60px; */ /*using the *[id]:before thing now instead*/
+  /*margin-top: -60px; */ /*using the *[id]:before thing now instead*/
+}
+.pAuthors {
+  font-size: 15px;
+  color: #999999;
+}
+.pAbstract {
+  padding-top: 5px;
+  padding-bottom: 15px;
+}
+*[id]:before { /*THIS STOPS ANCHOR LINKS (LINK WITHIN PAGE) FROM BEING COVERED BY THE NAVBAR*/
+  display: block; 
+  content: " "; 
+  margin-top: -60px; 
+  height: 60px; 
+  visibility: hidden; 
+}
+h2 {
+  overflow: hidden;
+  font-size: 25px;
+  margin: 5px 0;
+}
+.ucllogo {
+  height: 30pt;
+  vertical-align: bottom;
+  display: none;
+}
+.warwicklogo {
+  position: absolute;
+  right: 10%;
+  top: 50px;
+  /*position: relative;
+  /*padding-top: 60px;*/
+  height: 80pt;
+  /*vertical-align: bottom;*/
+  display: none;*/
+}
+.fields {
+  font-size: 15px;
+}
+.pic-me {
+  width: 175px;
+  vertical-align: middle;
+  margin: 10px;
+}
+.navbar-brand {
+  float: none;
+}
+@media (min-width: 600px) {
+  .col-md-4 {
+    float: left;
+    width: 33%;
+  }
+  .ucllogo {
+    display: inline;
+  }
+  .warwicklogo {
+    display: inline;
+  }
+}
