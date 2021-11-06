@@ -15,6 +15,9 @@
 
     <!-- Custom styles for this template -->
     <link href="styles/aa.css" rel="stylesheet">
+    
+    <!-- Lato font: DECIDED NOT TO USE -->
+    <!-- <link href='http://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'> --> 
   </head>
 
   <body>
@@ -25,19 +28,26 @@
           <ul class="nav navbar-nav">
 
             <li class="active" >
-            <a class="navbar-brand" href="index.html"> Home  </a> </li>
+              <a class="navbar-brand" href="index.html"> Home  </a> 
+            </li>
 
-              <li  > <a href="research.html"> Research </a> </li>
-              
-              <li  > <a href="policy.html"> Policy </a> </li>
+            <li class="nav-item dropdown" > 
+              <a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Research</a>
+              <div class="dropdown-menu">
+                <a class="dropdown-item" href="research.html"> Academic Research </a> 
+                <a class="dropdown-item" href="researchbytopic.html"> Research by Topic </a> 
+              </div>
+            </li>
+            
+            <li  > <a href="policy.html"> Policy </a> </li>
 
-              <li  > <a href="teaching.html"> Teaching </a> </li>
+            <li  > <a href="teaching.html"> Teaching </a> </li>
 
-              <li  > <a href="ArunAdvani_CV.pdf"> CV </a> </li>
-              
-              <li  > <a href="http://www.discovereconomics.ac.uk"> #DiscoverEconomics </a> </li>
-              
-              <li  > <a href="http://www.wealthtaxcommission.uk"> Wealth Tax Commission </a> </li>
+            <li  > <a href="ArunAdvani_CV.pdf"> CV </a> </li>
+            
+            <li  > <a href="http://www.discovereconomics.ac.uk"> #DiscoverEconomics </a> </li>
+            
+            <li  > <a href="http://www.wealthtaxcommission.uk"> Wealth Tax Commission </a> </li>
               
           </ul>
 
@@ -125,6 +135,7 @@
     </div><!-- /.container -->
 
     <script src="bootstrap/js/jquery.js"></script>
+    <script src="bootstrap/js/popper.min.js"></script>
     <script src="bootstrap/js/bootstrap.min.js"></script>
   </body>
 

@@ -28,21 +28,28 @@
      <div class="">
         <ul class="nav navbar-nav">
 
-          <li  >
-          <a class="navbar-brand" href="index.html">  Arun Advani </a> </li>
+          <li >
+            <a class="navbar-brand" href="index.html"> Home  </a> 
+          </li>
 
-            <li  > <a href="research.html"> Research </a> </li>
+          <li class="nav-item active dropdown" > 
+            <a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Research</a>
+            <div class="dropdown-menu">
+              <a class="dropdown-item" href="research.html"> Academic Research </a> 
+              <a class="dropdown-item" href="researchbytopic.html"> Research by Topic </a> 
+            </div>
+          </li>
+          
+          <li  > <a href="policy.html"> Policy </a> </li>
 
-            <li  > <a href="policy.html"> Policy </a> </li>
+          <li  > <a href="teaching.html"> Teaching </a> </li>
+
+          <li  > <a href="ArunAdvani_CV.pdf"> CV </a> </li>
+          
+          <li  > <a href="http://www.discovereconomics.ac.uk"> #DiscoverEconomics </a> </li>
+          
+          <li  > <a href="http://www.wealthtaxcommission.uk"> Wealth Tax Commission </a> </li>
             
-            <li  > <a href="teaching.html"> Teaching </a> </li>
-
-            <li  > <a href="ArunAdvani_CV.pdf"> CV </a> </li>
-            
-            <li  > <a href="http://www.discovereconomics.ac.uk"> #DiscoverEconomics </a> </li>
-              
-            <li  > <a href="http://www.wealthtaxcommission.uk"> Wealth Tax Commission </a> </li>
-
         </ul>
 
       </div><!--/.nav-collapse -->
@@ -60,19 +67,32 @@
 
       <div class='row'>
       <div class='col-md-10'>
-        <div class="btn-group btn-group-justified">
-          <a href="#Financial Inequality" class="btn btn-primary">Income/Wealth Inequality</a>
-          <a href="#Tax" class="btn btn-primary">Tax</a>
-          <a href="#Ethnicity" class="btn btn-primary">Ethnicity/Race</a>
-          <a href="#Education" class="btn btn-primary">Education</a>
-          <a href="#Environment" class="btn btn-primary">Environment</a>
-          <a href="#Development" class="btn btn-primary">Development</a>
-          <a href="#Econometrics" class="btn btn-primary">Econometrics</a>
-        </div> 
-<!--         <div class="btn-group btn-group-justified">
+
+        <div class="btn-group dropright">
+          <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            &emsp;&emsp;Research Topics&emsp;&emsp;
+          </button>
+          <div class="dropdown-menu">
+            <!-- <a class="dropdown-item" href="#Financial Inequality">Inequality</a><br> -->
+            <a class="dropdown-item" href="#IncomeInequality">Income Inequality</a><br>
+            <a class="dropdown-item" href="#WealthInequality">Wealth Inequality</a><br>
+            <!-- <a class="dropdown-item" href="#Tax">Tax</a><br> -->
+            <a class="dropdown-item" href="#TaxDesign">Tax Design</a><br>
+            <a class="dropdown-item" href="#TaxCompliance">Tax Compliance</a><br>
+            <a class="dropdown-item" href="#Ethnicity">Ethnicity/Race</a><br>
+            <a class="dropdown-item" href="#Education">Education</a><br>
+            <a class="dropdown-item" href="#Environment">Environment</a><br>
+            <a class="dropdown-item" href="#Development">Development</a><br>
+            <a class="dropdown-item" href="#Econometrics">Econometrics</a>
+          </div>
+        </div>
+
+<!--    <div class="btn-group btn-group-justified">
           <a href="research.html" class="btn btn-info">Academic research</a>
           <a href="policy.html" class="btn btn-info">Policy papers</a>
         </div>  -->
+
+        <br>
         <br>
       </div> 
       </div> 
@@ -108,7 +128,7 @@
             </div>
           </div><br>
 
-         <div class='span10 offset1'>
+          <div class='span10 offset1'>
             <div class='pTitle'>
               <a href="https://voxeu.org/article/immigration-and-top-1">Importing inequality: Immigration and the top 1% (Blog)</a> 
             </div>              
@@ -121,7 +141,8 @@
               Plus Op-ed in the 
               <a href="https://www.thetimes.co.uk/article/foreigners-don-t-take-jobs-they-create-them-and-boost-the-treasury-m8fmx6z3w">Times</a>.
             </div>
-            <div class='span10 offset1'>
+          </div>
+          <div class='span10 offset1'>
             <div class='pAbstract'>
             Top incomes have grown rapidly in recent decades and this growth has sparked a debate about rising inequality in Western societies. This column combines data from UK tax records with new information on migrant status to show that that migrants are highly represented at the top of the UK’s income distribution. Indeed, migration can account for the majority of top-income growth in the past two decades and can help explain why the UK has experienced an outsized increase in top incomes.
             </div>
@@ -147,7 +168,7 @@
 
           <div class='span10 offset1'>
             <div class='pTitle' id="MissingIncomesInTheUK">
-              <a href="https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/wp543.2021.pdf">Measuring UK top incomes</a>
+              <a href="https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/wp543.2021.pdf">Missing incomes in the UK: Evidence and policy implications</a>
             </div>
             <div class='pAuthors'>A. Advani, T. Ooms, and A. Summers (2021), CAGE Working Paper 543</div>
             <!-- <div class='pComment'><a href="papers/AdvaniSummersTarrant2021_UKTopIncomes_WIDTechnicalNote.pdf">WID Technical Note</a> and associated <a href="data/AdvaniSummersTarrant_UKTopIncomes_WIDTechnicalNote_Data.xlsx">data series</a>.</div> -->
@@ -313,7 +334,7 @@
             </div>              
             <div class='pAuthors'>A. Advani, E. Chamberlain and A. Summers (2020), Final Report of the Wealth Tax Commission</div>
             <div class="altmetric-embed" data-badge-type="2" data-badge-popover="right" data-doi="10.47445/WealthTaxFinalReport"> </div>              
-<!--               <div class='pComment'>
+            <!--               <div class='pComment'>
               <a href="data/AdvaniChamberlainSummers_IsItTimeForAUKWealthTax_data.xlsx">Data</a> for the charts.
             </div> -->
             <div class='pComment'><ins>Media coverage</ins> </div>
@@ -356,7 +377,7 @@
               <a href="https://dx.doi.org/10.47445/101">The UK’s wealth distribution and characteristics of high-wealth households</a> 
             </div>
             <div class='pAuthors'>A. Advani, G. Bangham and J. Leslie (forthcoming), <i>Fiscal Studies</i> <br>(an earlier version appeared as <a href="https://dx.doi.org/10.47445/101">Wealth and Policy Working Paper 101</a>)</div>
-            <div class="altmetric-embed" data-badge-type="2" data-badge-popover="right" data-doi="10.47445/101"> </div>   
+            <div class="altmetric-embed" data-badge-type="2" data-badge-popover="right" data-doi="10.1111/1475-5890.12286"> </div>   
             <div class='pComment'> <a href="data/AdvaniBanghamLeslie2020_TheUKWealthDistribution.xlsx">Data</a> for the charts.</div> 
             <!-- <div class='pComment'><a href="https://voxeu.org/article/immigration-and-top-1" target="_blank">VoxEU column</a> summarising some of the key points</div> -->
             <div class='pComment'><ins>Media coverage</ins> </div>
@@ -385,7 +406,6 @@
               <a href="https://dx.doi.org/10.47445/113">Revenue and distributional modelling for a wealth tax</a> 
             </div>
             <div class='pAuthors'>A. Advani, H. Hughson and H. Tarrant (forthcoming), <i>Fiscal Studies</i> <br>(an earlier version appeared as <a href="https://dx.doi.org/10.47445/113">Wealth and Policy Working Paper 113</a>)</div>
-            <!-- <div class="altmetric-embed" data-badge-type="2" data-badge-popover="right" data-doi="10.47445/113"> </div>     -->
             <div class="altmetric-embed" data-badge-type="2" data-badge-popover="right" data-doi="DOI:10.1111/1475-5890.12280"> </div>    
             <div class='pComment'><a href="https://www.economicsobservatory.com/how-much-revenue-might-be-raised-one-wealth-tax" target="_blank">Economics Observatory column</a> summarising some of the key points.</div>
             <div class='pComment'><a href="http://taxsimulator.ukwealth.tax" target="_blank">Tax Simulator</a> so you can build your own wealth tax.</div>
@@ -411,6 +431,7 @@
               <a href="https://www.ft.com/content/6166f5d2-a64b-4b57-9cb6-9699f50ca06a">Financial Times</a>, and
               <a href="https://www.thetimes.co.uk/article/new-virus-symptom-revealed-a-wealth-tax-6kb8hpcnh">Times</a>.
             </div>
+          </div>
           <div class='span10 offset1'>
             <div class='pAbstract'>
               This report introduces the UK Wealth Tax Commission, which will evaluate whether a wealth tax for the UK would be desirable and deliverable. To do this we have commissioned a series of Evidence Papers that will study each of the key issues in detail. In this report we set out initial evidence on what has been happening to wealth and wealth taxation in the UK. We examine the provisional case for a wealth tax, and map some of the difficulties in implementing it. Our intention here is not to provide the answers, but to illustrate the key issues this project will address and set out the path to our final report in December, which will contain our conclusions on whether or not the UK should have a wealth tax, and if so, how it should be designed.
@@ -429,14 +450,14 @@
         <div class='col-md-10'>
           <h2 id="Tax">Tax</h2>
 
-          <h3 id="Tax Design">Tax Design</h3>
+          <h3 id="TaxDesign">Tax Design</h3>
           
 
           <div class='span10 offset1'>
             <div class='pTitle' id="TaxationOfCapitalGains">
               <a href="https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/wp589.2021.pdf">The taxation of capital gains: principles, practice, and directions for reform</a>
             </div>
-            <div class='pAuthors'>A. Advani (2021), <i>Canadian Tax Journal (invited)</i></div>
+            <div class='pAuthors'>A. Advani (2021), <i>Canadian Tax Journal</i> (invited)</div>
             <!-- <div class='pComment'><a href="papers/AdvaniSummersTarrant2021_UKTopIncomes_WIDTechnicalNote.pdf">WID Technical Note</a> and associated <a href="data/AdvaniSummersTarrant_UKTopIncomes_WIDTechnicalNote_Data.xlsx">data series</a>.</div> -->
             <!-- <div class='pComment'><ins>Media coverage</ins> </div> -->
             <!-- <div class='pComment'>Coverage in the  -->
@@ -454,7 +475,7 @@
               <a href="https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/bn33.2021.pdf">Fixing the gaps in National Insurance: A better way to fund social care</a> 
             </div>              
             <div class='pAuthors'>A. Advani, H. Hughson, A. Summers and H. Tarrant (2021), CAGE Policy Briefing 33</div>
-            <!-- <div class="altmetric-embed" data-badge-type="2" data-badge-popover="right" data-doi="" /> </div>               -->
+            <!-- <div class="altmetric-embed" data-badge-type="2" data-badge-popover="right" data-doi=""> </div>               -->
             <div class='pComment'>
               <a href="data/AdvaniHughsonSummersTarrant_FixingTheGapsInNICs_data.xlsx">Data</a> for the charts.
             </div>
@@ -478,11 +499,10 @@
 
           <div class='span10 offset1'>
             <div class='pTitle' id="WealthTax_SpecialIssueIntro">
-              <a href="https://onlinelibrary.wiley.com/doi/10.1111/1475-5890.12292">Taxes on wealth: time for another look?</a> 
+              <a href="https://onlinelibrary.wiley.com/doi/10.1111/1475-5890.12289">Taxes on wealth: time for another look?</a> 
             </div>
-            <div class='pAuthors'>A. Advani, H. Miller and A. Summers (2021), <i>Fiscal Studies</i> <br>(Introduction to <i>Special Issue on a Wealth Tax)</i></div>
-            <!-- <div class="altmetric-embed" data-badge-type="2" data-badge-popover="right" data-doi="10.47445/113" /> </div>     -->
-            <div class="altmetric-embed" data-badge-type="2" data-badge-popover="right" data-doi="10.1111/1475-5890.12292" /> </div>    
+            <div class='pAuthors'>A. Advani, H. Miller and A. Summers (2021), <i>Fiscal Studies</i> <br>(Introduction to <a href="https://onlinelibrary.wiley.com/toc/14755890/2021/42/3-4"><i>Special Issue on a Wealth Tax</i></a>)</div>
+            <div class="altmetric-embed" data-badge-type="2" data-badge-popover="right" data-doi="10.1111/1475-5890.12289"> </div>    
           </div>
           <div class='span10 offset1'>
             <div class='pAbstract'>
@@ -495,7 +515,6 @@
               <a href="https://dx.doi.org/10.47445/113">Revenue and distributional modelling for a wealth tax</a> 
             </div>
             <div class='pAuthors'>A. Advani, H. Hughson and H. Tarrant (forthcoming), <i>Fiscal Studies</i> <br>(an earlier version appeared as <a href="https://dx.doi.org/10.47445/113">Wealth and Policy Working Paper 113</a>)</div>
-            <!-- <div class="altmetric-embed" data-badge-type="2" data-badge-popover="right" data-doi="10.47445/113"> </div>     -->
             <div class="altmetric-embed" data-badge-type="2" data-badge-popover="right" data-doi="DOI:10.1111/1475-5890.12280"> </div>    
             <div class='pComment'><a href="https://www.economicsobservatory.com/how-much-revenue-might-be-raised-one-wealth-tax" target="_blank">Economics Observatory column</a> summarising some of the key points.</div>
             <div class='pComment'><a href="http://taxsimulator.ukwealth.tax" target="_blank">Tax Simulator</a> so you can build your own wealth tax.</div>
@@ -511,8 +530,7 @@
               <a href="https://dx.doi.org/10.47445/105">Behavioural responses to a wealth tax</a> 
             </div>
             <div class='pAuthors'>A. Advani and H. Tarrant (forthcoming), <i>Fiscal Studies</i> <br>(an earlier version appeared as <a href="https://dx.doi.org/10.47445/105">Wealth and Policy Working Paper 105</a>)</div>
-            <!-- <div class="altmetric-embed" data-badge-type="2" data-badge-popover="right" data-doi="10.47445/105"> </div>     -->
-            <div class="altmetric-embed" data-badge-type="2" data-badge-popover="right" data-doi="DOI:10.1111/1475-5890.12283">
+            <div class="altmetric-embed" data-badge-type="2" data-badge-popover="right" data-doi="DOI:10.1111/1475-5890.12283"> </div>
           </div>
           <div class='span10 offset1'>
             <div class='pAbstract'>
@@ -554,14 +572,13 @@
           </div><br>
 
 
-          <h3 id="Tax Compliance">Tax Compliance</h3>
+          <h3 id="TaxCompliance">Tax Compliance</h3>
 
           <div class='span10 offset1'>
             <div class='pTitle' id="DynamicEffectsOfTaxAudits">
               <a href="https://direct.mit.edu/rest/article/doi/10.1162/rest_a_01101/107397/The-Dynamic-Effects-of-Tax-Audits">The Dynamic Effects of Tax Audits</a> 
             </div>
             <div class='pAuthors'>A. Advani, W. Elming, and J. Shaw (forthcoming), <i>Review of Economics and Statistics</i> <br> (earlier versions appeared as <a href="https://warwick.ac.uk/fac/soc/economics/research/centres/cage/414-2019_advani.pdf">CAGE Working Paper 414</a> and IFS Working Paper W17/24)</div>
-            <!-- <div class="altmetric-embed" data-badge-type="2" data-badge-popover="right" data-doi="  10.1920/wp.ifs.2017.W1724"> </div>               -->
             <div class="altmetric-embed" data-badge-type="2" data-badge-popover="right" data-doi="10.1920/BN.IFS.2017.BN0218"> </div>    
             <div class='pComment'><a href="https://voxeu.org/content/unpaid-tax">Explainer video</a>.</div>             
             <div class='pComment'><a href="https://www.ifs.org.uk/uploads/BN218.pdf" target="_blank">Briefing Note</a> drawing out some of the key points. <a href="https://www.ifs.org.uk/publications/10005">IFS Press Release</a>, <a href="https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/uw_cage_mag_aut_19_amend.pdf">Advantage magazine article</a>, and <a href="https://warwick.ac.uk/fac/soc/economics/news/2017/10/study_from_economics_professor_reveals_who_does_and_doesnt_pay_taxes/">Warwick news story</a>.</div>
@@ -653,6 +670,8 @@
           </div><br>
 
       <!-- END OF PAPERS IN THIS SECTION -->
+
+        </div>
       </div>
       <br>
 
@@ -720,6 +739,7 @@
             <div class='pComment'>
               Cited by the <a href="https://www.gov.uk/government/publications/fcdo-next-generation-economics-competition-diversity-in-economics/diversity-in-economics">FCDO</a> as part of their <a href="https://www.gov.uk/guidance/fcdo-next-generation-economics-competition">next generation economics competition</a>.
             </div>
+          </div>
           <div class='span10 offset1'>
             <div class='pAbstract'>
             Economists are central to policymaking in the UK, and to providing the research that underpins that policymaking. Despite having this important role in society, economists are not very representative of society, with a well-documented under-representation of women in the profession.
@@ -803,6 +823,18 @@
       <div class='row'>
         <div class='col-md-10'>
           <h2 id="Environment">Environment</h2>
+
+          <div class='span10 offset1'>
+            <div class='pTitle'>
+              <a href='https://www.ifs.org.uk/publications/15817'>What is the case for carbon taxes in developing countries?</a> 
+            </div>
+            <div class='pAuthors'>A. Advani, D. Prinz, A. Smurra and R. Warwick (2021), IFS Observation</div>
+          </div>
+          <div class='span10 offset1'>
+            <div class='pAbstract'>
+              Carbon pricing will be one of the most talked about policy options at COP26. The idea of carbon pricing is that putting a price on the emission of greenhouse gases (GHGs) to reflect the social costs of climate change should provide producers and consumers with strong incentives to reduce such emissions. In this observation, we consider the opportunities and risks from introducing carbon taxes in developing countries, with reference to Ethiopia and Ghana as case studies.
+            </div>
+          </div><br>
 
           <div class='span10 offset1'>
             <div class='pTitle' id="FiscalPolicyProtectThePoor">
@@ -900,6 +932,18 @@
         <div class='col-md-10'>
           <h2 id="Development">Development</h2>
 
+          <div class='span10 offset1'>
+            <div class='pTitle'>
+              <a href='https://www.ifs.org.uk/publications/15817'>What is the case for carbon taxes in developing countries?</a> 
+            </div>
+            <div class='pAuthors'>A. Advani, D. Prinz, A. Smurra and R. Warwick (2021), IFS Observation</div>
+          </div>
+          <div class='span10 offset1'>
+            <div class='pAbstract'>
+              Carbon pricing will be one of the most talked about policy options at COP26. The idea of carbon pricing is that putting a price on the emission of greenhouse gases (GHGs) to reflect the social costs of climate change should provide producers and consumers with strong incentives to reduce such emissions. In this observation, we consider the opportunities and risks from introducing carbon taxes in developing countries, with reference to Ethiopia and Ghana as case studies.
+            </div>
+          </div><br>
+            
           <div class='span10 offset1'>
             <div class='pTitle' id="JMP">
               <a href="papers/Advani2018_InsuranceNetworksAndPovertyTraps.pdf">Insurance Networks and Poverty Traps</a> 
@@ -1001,6 +1045,7 @@
   </div><!-- /.container -->
 
   <script src="bootstrap/js/jquery.js"></script>
+  <script src="bootstrap/js/popper.min.js"></script>
   <script src="bootstrap/js/bootstrap.min.js"></script>
 </body>
 
