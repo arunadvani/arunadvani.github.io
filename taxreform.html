@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Tax Reform Simulator" />
+    <meta name="author" content="Arun Advani" />
+
+    <title>Tax Reform Revenue</title>
+
+    <!-- Popper js (for tooltips) -->
+    <script src="https://unpkg.com/@popperjs/core@2"></script>
+
+    <!-- Bootstrap core CSS -->
+    <link href="bootstrap/css/bootstrap.css" rel="stylesheet" />
+
+    <!-- Custom styles for this template -->
+    <link href="styles/aa.css" rel="stylesheet" />
+
+    <!-- Javascript for altmetric badge -->
+    <script
+      type="text/javascript"
+      src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"
+    ></script>
+  </head>
+
+  <body>
+
+<!-- NAVBAR CONTENT -->
+    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="">
+          <ul class="nav navbar-nav">
+            <li>
+              <a class="navbar-brand" href="index.html"> Home </a>
+            </li>
+
+            <li class="nav-item dropdown">
+              <a
+                class="nav-link dropdown-toggle"
+                data-toggle="dropdown"
+                role="button"
+                aria-haspopup="true"
+                aria-expanded="false"
+                >Research</a
+              >
+              <div class="dropdown-menu">
+                <a class="dropdown-item" href="research.html">
+                  Academic Research
+                </a>
+                <a class="dropdown-item" href="researchbytopic.html">
+                  Research by Topic
+                </a>
+              </div>
+            </li>
+
+            <li class="active"><a href="policy.html"> Policy </a></li>
+
+            <li><a href="teaching.html"> Teaching </a></li>
+
+            <li><a href="ArunAdvani_CV.pdf"> CV </a></li>
+
+            <li>
+              <a href="http://www.discovereconomics.ac.uk">
+                #DiscoverEconomics
+              </a>
+            </li>
+
+            <li>
+              <a href="http://www.wealthtaxcommission.uk">
+                Wealth Tax Commission
+              </a>
+            </li>
+          </ul>
+        </div>
+        <!--/.nav-collapse -->
+      </div>
+      <!-- /.navbar -->
+    </div>
+
+<!-- WARWICK LOGO -->
+    <div class="container">
+      <div class="row">
+        <img class="warwicklogo" src="warwick_logo.jpg" />
+      </div>
+    </div>
+
+<!-- NON-NAVBAR CONTENT -->
+    <br />
+    <br />
+    <br />
+    <br />
+
+    <div class="container">
+      <div class="page-header">
+
+    <!-- IFRAME CONTAINING APP -->
+        <div class="row">
+          <div class="col-md-10">
+            <!-- <iframe height="800" width="120%" frameborder="no" src="https://arunadvani.shinyapps.io/TaxReformRevenue/"> </iframe> -->
+            <br />
+          </div>
+        </div>
+
+    <!-- TEXT ABOUT REFORMS -->
+         <table class="table">
+          <thead>
+          <tr>
+            <th scope="col">Tax</th>
+            <th scope="col">Proposed Reform</th>
+            <th scope="col">Revenue (standalone, 2022)</th>
+            <th scope="col">Evidence</th>
+          </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">Capital Gains Tax (CGT)</th>
+              <td>
+                Equalisation of Capital Gains Tax (CGT) rate with tax on income.<br>
+                Reintroduction of indexation (don't tax inflation).<br>
+                Removal of "death uplift" - current situation where tax is wiped out if you can afford to hold assets until you die.<br>
+                Averaging of gains over holding period, to smooth out 'lumpiness' - prevents someone with persistently low income but one-off high gains from being pushed into a high tax bracket.
+              </td>
+              <td>
+                <!-- <a href="#" data-toggle="tooltip" title="EXPLAINER OF HOW THIS NUMBER IS REACHED">16bn</a> --> <!-- USED TABLE NOTES INSTEAD -->
+                15.6bn
+              </td>
+              <td>
+                <a
+                  href="https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/bn27.2020.pdf"
+                  >How much tax do the rich really pay?</a
+                >,<br>
+                <a
+                  href="https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/bn19.2020.pdf"
+                  >Capital Gains and UK Inequality</a
+                >,<br>
+                <a
+                  href="https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/wp589.2021.pdf"
+                  >The taxation of capital gains: principles, practice, and
+                  directions for reform</a
+                ><br>
+                <!-- <a
+                  href="https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/wp465.2020.pdf"
+                  >Capital Gains and Inequality</a
+                >,<br> -->
+                <!-- <a
+                  href="https://www.resolutionfoundation.org/app/uploads/2020/05/Who-gains.pdf"
+                  >Who gains? The importance of accounting for capital gains</a
+                >,<br> -->
+              </td>
+            </tr>
+            <tr>
+              <th scope="row">Non-dom abolition/reform</th>
+              <td>
+                Abolition of the non-dom regime, which allows some people to not pay UK tax on overseas returns from investment.<br>
+                <i>Or: </i>Restriction of the remittance basis to first 3y of residence.<br>
+                <i>Or: </i>Restriction of the remittance basis to first 5y of residence.
+              </td>
+              <td>
+                3.6bn<br>
+                <i>Or: </i>2.6bn<br>
+                <i>Or: </i>1.8bn
+              </td>
+              <td>
+                <a
+                  href="https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/bn38.2022.pdf"
+                  >Reforming the non-dom regime: revenue estimates</a
+                >
+              </td>
+            </tr>
+            <tr>
+               <th scope="row">Extension of NICs to investment income</th>
+               <td>
+                 Extend National Insurance Contributions (NICs) to be paid at the same rate on income to landlords, to shareholders and from other investments as currently paid on income from work.
+               </td>
+               <td>
+                <!-- <a href="#" data-toggle="tooltip" title="EXPLAINER OF HOW THIS NUMBER IS REACHED">8.6bn</a> --> <!-- USED TABLE NOTES INSTEAD -->
+                9.6bn
+               </td>
+               <td>
+                 <a
+                  href="https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/bn33.2021.pdf"
+                  >Fixing the gaps in National Insurance: A better way to fund
+                  social care</a
+                >
+               </td>
+             </tr>
+             <tr>
+               <th scope="row">Extension of NICs to non-pension income of pensioners</th>
+               <td>
+                Extend National Insurance Contributions (NICs) to people over pension age on their income from current work and from investment, <i>but not including their pension income</i>.
+               </td>
+               <td>
+                <!-- <a href="#" data-toggle="tooltip" title="EXPLAINER OF HOW THIS NUMBER IS REACHED">3.2bn</a> --> <!-- USED TABLE NOTES INSTEAD -->
+                1.6bn <br> 
+                <i>Or:</i> 3.6bn, if first extending NICs to investment income
+               </td>
+               <td>
+                 <a
+                  href="https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/bn33.2021.pdf"
+                  >Fixing the gaps in National Insurance: A better way to fund
+                  social care</a
+                >
+               </td>
+             </tr>
+             <tr>
+               <th scope="row">Extension of NICs to `full rate' on all income</th>
+               <td>
+                 Removing the "Upper Earnings Limit" (UEL), which means that National Insurance Contributions (NICs) are paid at a lower rate after around £50k in income, dropping from 12% to 2% (currently, until April 2023, this is 13.25% to 3.25%).
+               </td>
+               <td>
+                <!-- <a href="#" data-toggle="tooltip" title="EXPLAINER OF HOW THIS NUMBER IS REACHED">19.7bn</a> --> <!-- USED TABLE NOTES INSTEAD -->
+                18.2bn <br> 
+                <i>Or:</i> 20.9b,n if first extending NICs to investment income
+               </td>
+               <td>
+                 <a
+                  href="https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/bn33.2021.pdf"
+                  >Fixing the gaps in National Insurance: A better way to fund
+                  social care</a
+                >
+               </td>
+            </tr>
+            <tr>
+              <th scope="row">Annual Wealth Tax (1% above £10m)</th>
+              <td>
+                1% tax on the value of individual wealth in excess of £10m.
+                Wealth includes net value of all assets, so includes pensions, property (accounting for share owned), and subtracts debts (including mortgages).
+                Tax applies only to the part of wealth in excess of £10m, so someone with £11m in assets would pay £10k in tax.
+              </td>
+              <td>
+                <!-- <a href="#" data-toggle="tooltip" title="EXPLAINER OF HOW THIS NUMBER IS REACHED">10bn</a> --> <!-- USED TABLE NOTES INSTEAD -->
+                11.1bn
+              </td>
+              <td>
+                <a href="https://dx.doi.org/10.47445/WealthTaxFinalReport"
+                  >A wealth tax for the UK</a
+                >,<br>
+                <a href="https://dx.doi.org/10.47445/113"
+                  >Revenue and distributional modelling for a wealth tax</a
+                >,<br>
+                <a href="https://www.wealthandpolicy.com/wp/WealthTaxFinalReport_FAQ.pdf"
+                  >Frequently Asked Questions</a
+                >
+              </td>
+            </tr>
+            <tr>
+              <th scope="row">Inheritance tax</th>
+              <td>
+                Remove Agricultural Property Relief (APR): allows agricultural land to be passed on tax-free.<br>
+                Remove Business Property Relief (BPR): allows business wealth to be passed on tax-free.<br>
+                Remove Pensions Relief: allows people to pass on pension pots tax-free if they can afford not to start taking money from the pension before death.
+              </td>
+              <td>
+                3.0bn
+              </td>
+              <td>
+                <a href="https://dx.doi.org/10.47445/113"
+                  >Revenue and distributional modelling for a wealth tax</a
+                > (Table 6)
+              </td>
+            </tr>
+          </tbody>
+          <tfoot>
+            <tr>
+              <td colspan="4">
+                <i>Notes:</i><br>
+                1. Figures in the table are based originally on the Evidence papers linked. 
+                They have been uprated by the growth in GDP (or forecast GDP for "five years time").
+                If existing trends continue, this is likely to underestimate the revenue raised, since these taxes are based on private wealth, which has been growing faster than GDP over the past few decades. Indeed, over the period that we can observe, growth in capital gains (for example) has substantially exceeded the growth rate of GDP.
+                <br>
+                2. Revenue estimates are, with the exception of the annual wealth tax and non-dom reform, static calculations. 
+              </td>
+            </tr>
+          </tfoot>
+        </table> 
+
+            
+      <br />
+
+      </div>
+      <!-- /.page-header -->
+    </div>
+    <!-- /.container -->
+
+    <script src="bootstrap/js/jquery.js"></script>
+    <script src="bootstrap/js/popper.min.js"></script>
+    <script src="bootstrap/js/bootstrap.min.js"></script>
+  </body>
+</html>
