@@ -49,6 +49,16 @@ h2 {
   vertical-align: bottom;
   display: none;
 }
+.centaxlogo {
+  position: absolute;
+  right: 25%;
+  top: 50px;
+  /*position: relative;
+  /*padding-top: 60px;*/
+  height: 80pt;
+  /*vertical-align: bottom;*/
+  display: none;*/
+}
 .warwicklogo {
   position: absolute;
   right: 10%;
@@ -79,6 +89,9 @@ h2 {
     display: inline;
   }
   .warwicklogo {
+    display: inline;
+  }
+  .centaxlogo {
     display: inline;
   }
 }
