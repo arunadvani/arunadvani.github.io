@@ -1,6 +1,6 @@
 {# Macro to render a single paper/entry.
    Expects a paper object with fields matching papers.json schema.
-   abstract_label: text for the toggle button — "Abstract" on research pages, "Summary" on policy page.
+   abstract_label: text for the abstract heading — "Abstract" on research pages, "Summary" on policy page.
 #}
 {% macro render_entry(paper, abstract_label="Abstract") %}
             <div class="span10 offset1">
@@ -11,7 +11,7 @@
                 {% endfor %}
               </div>
               <div class="pAuthors">
-                {{ paper.authors }}
+                {{ paper.authors }}{% if paper.year %} ({{ paper.year }}){% endif %}{% if paper.venue %}, {{ paper.venue }}{% elif paper.venue_detail %}, {{ paper.venue_detail }}{% endif %}
                 {% if paper.doi %}
                 <div class="altmetric-embed"
                   data-badge-type="1"
@@ -21,44 +21,42 @@
                   style="display:inline-block; vertical-align:middle; margin-left:4px;"></div>
                 {% endif %}
               </div>
+              {% if paper.award %}
+              <div class="pComment">{{ paper.award }}</div>
+              {% endif %}
               {% if paper.data %}
               <div class="pComment">
                 <a href="{{ paper.data.url }}">Data</a>
                 {{ paper.data.note | default("for the charts.") }}
               </div>
               {% endif %}
-              {% if paper.abstract or (paper.links | selectattr("label", "ne", "ungated") | list) or paper.media %}
-              <details>
-                <summary class="pComment">{{ abstract_label }}</summary>
-                {% if paper.abstract %}
-                <div class="pAbstract">
-                  {{ paper.abstract }}
-                </div>
+              {% if paper.links | selectattr("label", "ne", "ungated") | list %}
+              <div class="pComment">
+                {% for link in paper.links if link.label != "ungated" %}
+                <a href="{{ link.url }}"{% if link.target %} target="{{ link.target }}"{% endif %}>{{ link.label }}</a>{% if link.note %} {{ link.note }}{% endif %}{% if not loop.last %}, {% endif %}
+                {% endfor %}
+              </div>
+              {% endif %}
+              {% if paper.media %}
+              <div class="pComment">
+                {% if paper.media.coverage %}
+                Media coverage in
+                {% for item in paper.media.coverage %}
+                <a href="{{ item.url }}">{{ item.outlet }}</a>{% if not loop.last %}{% if loop.length == 2 %} and{% elif loop.revindex == 2 %}, and{% else %},{% endif %}{% endif %}
+                {% endfor %}.
                 {% endif %}
-                {% if paper.links | selectattr("label", "ne", "ungated") | list %}
-                <div class="pComment">
-                  {% for link in paper.links if link.label != "ungated" %}
-                  <a href="{{ link.url }}"{% if link.target %} target="{{ link.target }}"{% endif %}>{{ link.label }}</a>{% if link.note %} {{ link.note }}{% endif %}{% if not loop.last %}, {% endif %}
-                  {% endfor %}
-                </div>
+                {% if paper.media.opeds %}
+                Op-ed{{ "s" if paper.media.opeds | length > 1 else "" }} in
+                {% for item in paper.media.opeds %}
+                <a href="{{ item.url }}">{{ item.outlet }}</a>{% if not loop.last %}{% if loop.length == 2 %} and{% elif loop.revindex == 2 %}, and{% else %},{% endif %}{% endif %}
+                {% endfor %}.
                 {% endif %}
-                {% if paper.media %}
-                <div class="pComment">
-                  {% if paper.media.coverage %}
-                  Media coverage in
-                  {% for item in paper.media.coverage %}
-                  <a href="{{ item.url }}">{{ item.outlet }}</a>{% if not loop.last %}{% if loop.length == 2 %} and{% elif loop.revindex == 2 %}, and{% else %},{% endif %}{% endif %}
-                  {% endfor %}.
-                  {% endif %}
-                  {% if paper.media.opeds %}
-                  Op-ed{{ "s" if paper.media.opeds | length > 1 else "" }} in
-                  {% for item in paper.media.opeds %}
-                  <a href="{{ item.url }}">{{ item.outlet }}</a>{% if not loop.last %}{% if loop.length == 2 %} and{% elif loop.revindex == 2 %}, and{% else %},{% endif %}{% endif %}
-                  {% endfor %}.
-                  {% endif %}
-                </div>
-                {% endif %}
-              </details>
+              </div>
+              {% endif %}
+              {% if paper.abstract %}
+              <div class="pAbstract">
+                {{ paper.abstract }}
+              </div>
               {% endif %}
             </div>
             <br />

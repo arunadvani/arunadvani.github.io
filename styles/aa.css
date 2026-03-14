@@ -96,9 +96,9 @@ h2 {
   }
 }
 details > summary {
-  list-style: disclosure-closed;
+  list-style: disclosure-closed !important;
   cursor: pointer;
 }
 details[open] > summary {
-  list-style: disclosure-open;
+  list-style: disclosure-open !important;
 }
