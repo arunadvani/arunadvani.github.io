@@ -8,29 +8,40 @@
 
     <title>Tax Reform Revenue</title>
 
-    <!-- Popper js (for tooltips) -->
-    <script src="https://unpkg.com/@popperjs/core@2"></script>
-
     <!-- Bootstrap core CSS -->
     <link href="bootstrap/css/bootstrap.css" rel="stylesheet" />
 
     <!-- Custom styles for this template -->
     <link href="styles/aa.css" rel="stylesheet" />
 
+    <!-- Abstract toggle styling -->
+    <style>
+      a.abstract-toggle {
+        cursor: pointer;
+        font-style: italic;
+        text-decoration: none;
+        border-bottom: 1px dotted;
+      }
+      a.abstract-toggle:hover {
+        text-decoration: none;
+      }
+    </style>
+
     <!-- Javascript for altmetric badge -->
     <script
       type="text/javascript"
       src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"
     ></script>
+
+    
   </head>
 
   <body>
-
-<!-- NAVBAR CONTENT -->
     <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
       <div class="container">
         <div class="">
           <ul class="nav navbar-nav">
+
             <li>
               <a class="navbar-brand" href="index.html"> Home </a>
             </li>
@@ -54,11 +65,13 @@
               </div>
             </li>
 
-            <li> <a href="policy.html"> Policy </a> </li>
+            <li>
+              <a href="policy.html"> Policy </a>
+            </li>
 
-            <li> <a href="taxreform.html"> Tax Simulator </a></li>
-
-            <!-- <li> <a href="teaching.html"> Teaching </a> </li> -->
+            <li class="active">
+              <a href="taxreform.html"> Tax Simulator </a>
+            </li>
 
             <li> <a href="ArunAdvani_CV.pdf"> CV </a> </li>
 
@@ -67,28 +80,22 @@
             <li> <a href="http://www.discovereconomics.co.uk"> #DiscoverEconomics </a> </li>
 
             <li> <a href="http://www.wealthtaxcommission.uk"> Wealth Tax Commission </a> </li>
-            
+
           </ul>
-        </div>
-        <!--/.nav-collapse -->
+        </div><!--/.nav-collapse -->
       </div>
-      <!-- /.navbar -->
     </div>
 
-<!-- WARWICK LOGO -->
     <div class="container">
-      <div class='row'>
+      <div class="row">
         <a href="https://centax.org.uk"><img class="warwicklogo" src="CenTax_Warwick_logo.png" /></a>
-        <!-- <a href="https://centax.org.uk"><img class="warwicklogo" src="CenTax_logo.png" /></a> -->
-        <!-- <img class="warwicklogo" src="warwick_logo.jpg" /> -->
       </div>
     </div>
 
+    
 <!-- NON-NAVBAR CONTENT -->
     <br />
     <br />
-    <!-- <br /> -->
-    <!-- <br /> -->
 
     <div class="container">
       <div class="page-header">
@@ -149,7 +156,6 @@
                 Averaging of gains over holding period, to smooth out 'lumpiness' - prevents someone with persistently low income but one-off high gains from being pushed into a high tax bracket.
               </td>
               <td>
-                <!-- <a href="#" data-toggle="tooltip" title="EXPLAINER OF HOW THIS NUMBER IS REACHED">16bn</a> --> <!-- USED TABLE NOTES INSTEAD -->
                 16.7bn
               </td>
               <td>
@@ -166,14 +172,6 @@
                   >The taxation of capital gains: principles, practice, and
                   directions for reform</a
                 ><br>
-                <!-- <a
-                  href="https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/wp465.2020.pdf"
-                  >Capital Gains and Inequality</a
-                >,<br> -->
-                <!-- <a
-                  href="https://www.resolutionfoundation.org/app/uploads/2020/05/Who-gains.pdf"
-                  >Who gains? The importance of accounting for capital gains</a
-                >,<br> -->
               </td>
             </tr>
             <tr>
@@ -199,7 +197,6 @@
                  Extend National Insurance Contributions (NICs) to be paid at the same rate on income to landlords, to shareholders and from other investments as currently paid on income from work.
                </td>
                <td>
-                <!-- <a href="#" data-toggle="tooltip" title="EXPLAINER OF HOW THIS NUMBER IS REACHED">8.6bn</a> --> <!-- USED TABLE NOTES INSTEAD -->
                 10.2bn
                </td>
                <td>
@@ -216,8 +213,7 @@
                 Extend National Insurance Contributions (NICs) to people over pension age on their income from current work and from investment, <i>but not including their pension income</i>.
                </td>
                <td>
-                <!-- <a href="#" data-toggle="tooltip" title="EXPLAINER OF HOW THIS NUMBER IS REACHED">3.2bn</a> --> <!-- USED TABLE NOTES INSTEAD -->
-                1.7bn <br> 
+                1.7bn <br>
                 <i>Or:</i> 3.8bn, if first extending NICs to investment income
                </td>
                <td>
@@ -231,11 +227,10 @@
              <tr>
                <th scope="row">National Insurance: remove cap for higher earners</th>
                <td>
-                 Removing the "Upper Earnings Limit" (UEL), which means that National Insurance Contributions (NICs) are currently paid at a lower rate after around £50k in income, dropping from 12% to 2% (currently, until April 2023, this is 13.25% to 3.25%).
+                 Removing the "Upper Earnings Limit" (UEL), which means that National Insurance Contributions (NICs) are currently paid at a lower rate after around &pound;50k in income, dropping from 12% to 2% (currently, until April 2023, this is 13.25% to 3.25%).
                </td>
                <td>
-                <!-- <a href="#" data-toggle="tooltip" title="EXPLAINER OF HOW THIS NUMBER IS REACHED">19.7bn</a> --> <!-- USED TABLE NOTES INSTEAD -->
-                19.6bn <br> 
+                19.6bn <br>
                 <i>Or:</i> 22.5bn if first extending NICs to investment income
                </td>
                <td>
@@ -247,14 +242,13 @@
                </td>
             </tr>
             <tr>
-              <th scope="row">Annual Wealth Tax: wealth above £10m</th>
+              <th scope="row">Annual Wealth Tax: wealth above &pound;10m</th>
               <td>
-                Tax on the value of individual wealth in excess of £10m.
+                Tax on the value of individual wealth in excess of &pound;10m.
                 Wealth includes net value of all assets, so includes pensions, property (accounting for share owned), and subtracts debts (including mortgages).
-                Tax applies only to the part of wealth in excess of £10m, so someone with £11m in assets would pay £10k in tax.
+                Tax applies only to the part of wealth in excess of &pound;10m, so someone with &pound;11m in assets would pay &pound;10k in tax.
               </td>
               <td>
-                <!-- <a href="#" data-toggle="tooltip" title="EXPLAINER OF HOW THIS NUMBER IS REACHED">10bn</a> --> <!-- USED TABLE NOTES INSTEAD -->
                 1% tax raises 11.9bn
               </td>
               <td>
@@ -280,7 +274,7 @@
               <td>
                 <a href="https://ifs.org.uk/publications/reforming-inheritance-tax"
                   >Reforming Inheritance Tax</a
-                > 
+                >
               </td>
             </tr>
             <tr>
@@ -294,7 +288,7 @@
               <td>
                 <a href="https://ifs.org.uk/publications/reforming-inheritance-tax"
                   >Reforming Inheritance Tax</a
-                > 
+                >
               </td>
             </tr>
             <tr>
@@ -308,46 +302,34 @@
               <td>
                 <a href="https://ifs.org.uk/publications/reforming-inheritance-tax"
                   >Reforming Inheritance Tax</a
-                > 
+                >
               </td>
             </tr>
-<!--             <tr>
-              <th scope="row">45p rate: start at £140k </th>
-              <td>
-                Reduce the income threshold at which the 45p additional rate begins to apply<br>
-                <i>Note: this policy has been added because it has been discussed in the media as a possible reform in the Nov 2022 budget, so it seemed sensible to examine what it might raise.</i>
-              </td>
-              <td>
-                0.3bn
-              </td>
-              <td>
-                Analysis using Survey of Personal Incomes
-              </td>
-            </tr> -->
           </tbody>
           <tfoot>
             <tr>
               <td colspan="4">
                 <i>Notes:</i><br>
-                1. Figures in the table are based originally on the Evidence papers linked. 
+                1. Figures in the table are based originally on the Evidence papers linked.
                 They have been uprated from the original calculation year by the growth in GDP (or forecast GDP for "five years time").
                 If existing trends continue, this is likely to underestimate the revenue raised, since these taxes are based on private wealth, which has been growing faster than GDP over the past few decades. Indeed, over the period that we can observe, growth in capital gains (for example) has substantially exceeded the growth rate of GDP.
                 <br>
-                2. Revenue estimates are, currently, a mix of "static" and "post-behavioural" calculations. Non-dom reform accounts for behavioural responses. This <a href="http://taxsimulator.ukwealth.tax">wealth tax simulator</a> provides more detailed, post-behavioural calculations for an annual wealth tax. Other reforms currently don't account for behavioural responses. This simulator will expand to account for more reforms and more responses over time. <br> 
-                3. Tax interactions are incomplete. The simulator currently accounts for the effects any reform to the structure of National Insurance Contributions on other reforms to National Insurance Contributions. It also accounts for changes to National Insurance Contributions and Capital Gains Tax on the revenue raised from non-doms. However, other taxes interactions are not currently accounted for. For example, the introduction of an Annual Wealth Tax would also affect the revenue from non-doms. <br> 
-                4. This simulator was launched in Nov 2022. In Oct 2023 it was updated to reflect (a) GDP growth to date; (b) additional evidence for Inheritance Tax; (c) removal of the reform to the 45p tax rate, since this reform was actually implemented. <br> 
+                2. Revenue estimates are, currently, a mix of "static" and "post-behavioural" calculations. Non-dom reform accounts for behavioural responses. This <a href="http://taxsimulator.ukwealth.tax">wealth tax simulator</a> provides more detailed, post-behavioural calculations for an annual wealth tax. Other reforms currently don't account for behavioural responses. This simulator will expand to account for more reforms and more responses over time. <br>
+                3. Tax interactions are incomplete. The simulator currently accounts for the effects any reform to the structure of National Insurance Contributions on other reforms to National Insurance Contributions. It also accounts for changes to National Insurance Contributions and Capital Gains Tax on the revenue raised from non-doms. However, other taxes interactions are not currently accounted for. For example, the introduction of an Annual Wealth Tax would also affect the revenue from non-doms. <br>
+                4. This simulator was launched in Nov 2022. In Oct 2023 it was updated to reflect (a) GDP growth to date; (b) additional evidence for Inheritance Tax; (c) removal of the reform to the 45p tax rate, since this reform was actually implemented. <br>
               </td>
             </tr>
           </tfoot>
-        </table> 
+        </table>
 
-            
+
       <br />
 
       </div>
       <!-- /.page-header -->
     </div>
     <!-- /.container -->
+
 
     <script src="bootstrap/js/jquery.js"></script>
     <script src="bootstrap/js/popper.min.js"></script>
