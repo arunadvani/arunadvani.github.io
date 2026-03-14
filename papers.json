@@ -1,0 +1,3646 @@
+[
+  {
+    "id": "Incentives_RRR",
+    "order": 100,
+    "title": "Incentives to Produce Race-related Research",
+    "title_url": "papers/AdvaniAshBoltachkaCaiRasul2025_IncentivesToProduceRaceRelatedResearch.pdf",
+    "authors": "A. Advani, E. Ash, A. Boltachka, D. Cai, and I. Rasul",
+    "year": 2025,
+    "abstract": "An established literature has studied potential biases in the economics publication process based on traits of authors. We complement such work by studying whether the subject matter of study relates to publication outcomes. We do so in the context of race-related research: work that studies economic well-being across racial/ethnic groups. We investigate the implicit career incentives economists have to work on such topics by examining paths to publication for a corpus of 22,056 NBER working papers (WPs) posted from 1974 to 2015. We use an algorithm to classify whether a given WP studies race-related issues. We then construct paths to publication from WPs to data on published articles, and compare paths for race-related WPs to various counterfactual sets of WPs. We document that unconditionally, race-related NBER WPs are less likely to be published in any journal, in an economics journal, and more likely to publish in lower tier economics journals. Once we condition on observable characteristics including field and author affiliations, differences in paths to publication largely disappear, and such work is actually slightly more likely to publish in top-tier economics journals. Consistent with unconditional differences in paths to publication being salient to researchers, we find evidence of ex ante selection into WPs studying race-related issues in that they are of higher readability than other WPs. To understand the interplay with selection of researchers, we compare results to paths to publications for 10,306 CEPR WPs posted from 1984 to 2015. We conclude by discussing implications for economists' incentives to contribute to debates on race and ethnicity in the economy.",
+    "pages": [
+      "research"
+    ],
+    "topics": [
+      "Ethnicity"
+    ],
+    "research_section": "working_paper",
+    "policy_section": null,
+    "venue": null,
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "SuperrichMigration",
+    "order": 90,
+    "title": "Taxation and migration by the super-rich",
+    "title_url": "papers/AdvaniBurgherrSummers2025_TaxationAndMigrationByTheSuperRich.pdf",
+    "authors": "A. Advani, D. Burgherr, and A. Summers",
+    "year": 2025,
+    "abstract": "Using administrative data on the globally connected super-rich in the UK, we study the effect of a large tax reform on migration behaviour. Prior to 2017, offshore investment returns for 'non-doms' – individuals tax-resident in the UK but with connections to other countries – were untaxed. People making use of that tax status are strongly concentrated at the top of the income distribution: 86% are in the UK top 1% and 29% in the top 0.1% once overseas investment income is taken into account. A reform in 2017 brought long-stayers, who had been in the UK for at least 15 of the last 20 years, into the standard tax system, reducing their effective net-of-average-tax rate by 18%. We find that emigration responses were modest: our central estimate is that the emigration rate increases by 0.26 percentage points for a 1% decline in the net-of-tax rate, and we can rule out increases larger than 0.4 percentage points. Dispelling fears that the targeted taxpayers were able to circumvent the tax hike, we find large average increases in income reported and tax paid in the UK of more than 150%.",
+    "pages": [
+      "research"
+    ],
+    "topics": [
+      "Migration"
+    ],
+    "research_section": "working_paper",
+    "policy_section": null,
+    "venue": null,
+    "venue_detail": "CESifo Working Paper 11870",
+    "doi": null,
+    "ungated_url": null,
+    "award": "winner of IIPF Young Economist Award 2023",
+    "invited": false,
+    "data": null,
+    "links": [
+      {
+        "label": "Policy Brief",
+        "url": "https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/bn38.2022.pdf",
+        "note": "summarising some of the policy implications"
+      },
+      {
+        "label": "Slides",
+        "url": "slides/AdvaniBurgherrSummers2024_TaxationAndMigrationByTheSuperRich.pdf"
+      }
+    ],
+    "media": []
+  },
+  {
+    "id": "CapitalGainsTaxPrivileged",
+    "order": 80,
+    "title": "Should Capital Gains be tax privileged?",
+    "title_url": null,
+    "authors": "A. Advani, H. Hughson, A. Lonsdale, and A. Summers",
+    "year": 2024,
+    "abstract": null,
+    "pages": [
+      "research"
+    ],
+    "topics": [
+      "TaxDesign"
+    ],
+    "research_section": "working_paper",
+    "policy_section": null,
+    "venue": null,
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [
+      {
+        "label": "Slides",
+        "url": "slides/AdvaniHughsonLonsdaleSummers2024_ShouldCapitalGainsBeTaxPrivileged.pdf"
+      }
+    ],
+    "media": []
+  },
+  {
+    "id": "TopFlight",
+    "order": 70,
+    "title": "Top Flight: How responsive are top earners to tax rates?",
+    "title_url": null,
+    "authors": "A. Advani, C. Poux, and A. Summers",
+    "year": 2024,
+    "abstract": "Using administrative data on the universe of UK taxpayers, we leverage major top tax rate reforms in the UK and France to evaluate how much top earners respond to tax increases by migrating. We document four main facts. First, looking across foreigners we find a migration semi-elasticity with respect to the net-of-average-tax rate of -0.2, somewhat lower than has been found for specific groups studied previously. Second, migration responses are driven by those with the highest predicted baseline emigration probability, highlighting the importance of accounting for heterogeneity. Third, there is little migration response from natives. Finally, we estimate the long term impact of tax changes on the stock of migrants among UK top earners taking a structural approach, and find that even our modest migration elasticity implies substantial stock changes in the long run.",
+    "pages": [
+      "research"
+    ],
+    "topics": [
+      "Migration",
+      "TaxDesign"
+    ],
+    "research_section": "working_paper",
+    "policy_section": null,
+    "venue": null,
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [
+      {
+        "label": "Slides",
+        "url": "slides/AdvaniPouxSummers2024_TopFlight.pdf"
+      }
+    ],
+    "media": []
+  },
+  {
+    "id": "UKGlobalEconomicElite",
+    "order": 60,
+    "title": "The UK's Global Economic Elite: A sociological analysis using tax data",
+    "title_url": "https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/wp570.2022.pdf",
+    "authors": "A. Advani, D. Burgherr, M. Savage and A. Summers",
+    "year": 2022,
+    "abstract": "In this paper we show the importance of international ties amongst the UK's global economic elite, by exploiting administrative data derived from tax records. We show how this data can be used to shed light on the kind of transnational dynamics which have long been hypothesised to be of major significance in the UK, but which have previously proved intractable to systematic study. Our work reveals the enduring and distinctive influence of long-term imperial forces, especially to the former 'white settler' ex-dominions which have been called the 'anglosphere'. These are allied to more recent currents associated with European integration and the rise of Asian economic power. Here there are especially strong ties to the 'old EU-6' nations of France, Germany, Netherlands, Belgium, Luxembourg, and Italy. The incredible detail and universal coverage of our data means that we can study those at the very top with a level of granularity that would be impossible using traditional survey sources. We find compelling support for the public perception that non-doms are disproportionately highly affluent individuals who can be viewed as a part of a global elite. However, whilst there is some evidence for the stereotype of the global wealthy parking themselves in the UK, this underplays the significance of the working rich. Our analysis also reveals the remarkable concentration of non-doms in central areas of London.",
+    "pages": [
+      "research"
+    ],
+    "topics": [
+      "TaxDesign",
+      "Migration"
+    ],
+    "research_section": "working_paper",
+    "policy_section": null,
+    "venue": null,
+    "venue_detail": "CAGE Working Paper 570",
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": {
+      "label": "Data",
+      "url": "data/AdvaniBurgherrSavageSummers_UKGlobalEconomicElite_data.xlsx"
+    },
+    "links": [
+      {
+        "label": "Policy Brief",
+        "url": "https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/bn36.2022.pdf",
+        "note": "summarising some of the key points"
+      }
+    ],
+    "media": []
+  },
+  {
+    "id": "CapitalGains",
+    "order": 50,
+    "title": "Capital Gains and Inequality",
+    "title_url": "https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/wp465.2020.pdf",
+    "authors": "A. Advani and A. Summers",
+    "year": 2020,
+    "abstract": "Aggregate taxable capital gains in UK have tripled in past decade. Using confidential administrative data on the universe of UK taxpayers, we show that including gains changes the picture of UK inequality over the past two decades. These taxable gains are largely repackaged income, so their exclusion biases the picture of inequality. Including them changes who is at the top of the distribution, adding more business owners and older people. The share of income plus gains (both pre- and post-tax) going to the top 1% is 3pp higher than for income only, and this gap has been steadily rising.",
+    "pages": [
+      "research"
+    ],
+    "topics": [
+      "IncomeInequality",
+      "TaxDesign"
+    ],
+    "research_section": "working_paper",
+    "policy_section": null,
+    "venue": null,
+    "venue_detail": "CAGE Working Paper 465",
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": {
+      "label": "Data",
+      "url": "data/AdvaniSummers_CapitalGainsAndUKInequality_jointDistribution.xlsx",
+      "note": "on joint distribution of income and gains."
+    },
+    "links": [
+      {
+        "label": "Policy Brief",
+        "url": "https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/bn19.2020.pdf"
+      },
+      {
+        "label": "Advantage magazine article",
+        "url": "https://warwick.ac.uk/fac/soc/economics/research/centres/cage/news/03-06-20-advantage_magazine__summer/article-6/"
+      },
+      {
+        "label": "Resolution Foundation Report",
+        "url": "https://www.resolutionfoundation.org/app/uploads/2020/05/Who-gains.pdf",
+        "note": "with recommendations for the ONS"
+      },
+      {
+        "label": "Resolution Foundation Press Release",
+        "url": "https://www.resolutionfoundation.org/press-releases/top-1-per-cent-received-a-sixth-of-the-nations-income-pre-crisis-due-to-hidden-rise-of-capital-gains/"
+      },
+      {
+        "label": "Warwick news story",
+        "url": "https://warwick.ac.uk/fac/soc/economics/research/centres/cage/news/21-05-20-top_1_receive_a_sixth_of_the_nations_income_pre_crisis_due_to_hidden_rise_of_capital_gains"
+      }
+    ],
+    "media": [
+      {
+        "outlet": "Independent",
+        "url": "https://www.independent.co.uk/news/uk/politics/richest-people-uk-inequality-income-capital-gains-resolution-foundation-a9524771.html"
+      },
+      {
+        "outlet": "Guardian",
+        "url": "https://www.theguardian.com/money/2020/may/21/top-1-of-british-earners-get-17-of-nations-income"
+      },
+      {
+        "outlet": "Mirror",
+        "url": "https://www.mirror.co.uk/news/politics/britains-richest-pocket-even-more-22059153"
+      },
+      {
+        "outlet": "Evening Standard",
+        "url": "https://www.standard.co.uk/business/top-one-per-cent-earners-income-a4447626.html"
+      },
+      {
+        "outlet": "Tax Notes",
+        "url": "https://www.taxnotes.com/tax-notes-today-international/capital-gains-and-losses/new-capital-gains-research-informs-uk-tax-policy-debate/2020/05/26/2ck95"
+      },
+      {
+        "outlet": "Global Citizen",
+        "url": "https://www.globalcitizen.org/en/content/income-inequality-britain-capital-gains/"
+      },
+      {
+        "outlet": "FT",
+        "url": "https://www.ft.com/content/3771030c-b8ad-4da6-b0af-0311a8e82ec8"
+      },
+      {
+        "outlet": "Guardian",
+        "url": "https://www.theguardian.com/politics/2021/oct/26/uk-shares-property-capital-gains-tax"
+      },
+      {
+        "outlet": "Times Opinion",
+        "url": "https://www.thetimes.co.uk/article/time-for-the-wealthy-self-employed-to-pay-fair-share-of-tax-on-capital-gains-hxnm6qp59"
+      },
+      {
+        "outlet": "Guardian Opinion",
+        "url": "https://www.theguardian.com/commentisfree/2020/may/21/capital-gains-hyper-rich-new-report-coronavirus"
+      },
+      {
+        "outlet": "Independent Opinion",
+        "url": "https://www.independent.co.uk/news/business/comment/benefit-fraud-tax-avoidance-universal-credit-inequality-resolution-foundation-covid19-unemployment-a9526441.html"
+      }
+    ]
+  },
+  {
+    "id": "JMP",
+    "order": 40,
+    "title": "Insurance Networks and Poverty Traps",
+    "title_url": "papers/Advani2018_InsuranceNetworksAndPovertyTraps.pdf",
+    "authors": "A. Advani",
+    "year": 2019,
+    "abstract": "Poor households regularly borrow and lend to smooth consumption, yet we see much less borrowing for investment. This cannot be explained by a lack of investment opportunities, nor by a lack of resources available for investment. This paper provides a novel explanation for this puzzle: informal risk sharing can crowd out investment. I extend the canonical model of limited commitment in risk-sharing networks to allow for lumpy investment. The key insight is that the cost of losing insurance is lower for a household that has invested, since it has an additional stream of income. This limits its ability to credibly promise future transfers, and so limits its ability to borrow from other households. The key prediction of the model is a non-linear relationship between total income and investment at the network level – namely there is a network level poverty trap. I test this prediction using a randomised control trial in Bangladesh, that provided capital transfers to the poorest households. The data covers 27,000 households from 1,400 villages, and contain information on risk-sharing networks, income and investment. I exploit variation in the number of program recipients in a network to identify the threshold level of capital provision needed at the network level for the program to move the network out of a poverty trap and generate further investment. I also verify additional predictions of the model and rule out alternative explanations. My results highlight how capital transfer programs can be made more cost-effective by targeting communities at the threshold of the aggregate poverty trap.",
+    "pages": [
+      "research"
+    ],
+    "topics": [
+      "Development"
+    ],
+    "research_section": "working_paper",
+    "policy_section": null,
+    "venue": null,
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [
+      {
+        "label": "World Bank Development Impact Blog",
+        "url": "http://blogs.worldbank.org/impactevaluations/all-one-and-one-all-why-networks-don-t-prevent-poverty-traps-guest-post-arun-advani"
+      },
+      {
+        "label": "Financial Access Initiative Newsletter",
+        "url": "http://www.financialaccess.org/faiv/2016/12/9/week-of-december-5-2016"
+      }
+    ],
+    "media": []
+  },
+  {
+    "id": "MeltingPotOrSaladBowl",
+    "order": 30,
+    "title": "Melting Pot or Salad Bowl: The Formation of Heterogeneous Communities",
+    "title_url": "https://ifs.org.uk/publications/melting-pot-or-salad-bowl-formation-heterogeneous-communities",
+    "authors": "A. Advani and B. Reich",
+    "year": 2015,
+    "abstract": "Relatively little is known about what determines whether a heterogenous population ends up in a cooperative or divisive situation. This paper proposes a theoretical model to understand what social structures arise in heterogeneous populations. Individuals face a trade-off between cultural and economic incentives: an individual prefers to maintain his cultural practices, but doing so can inhibit interaction and economic exchange with those who adopt different practices. We find that a small minority group will adopt majority cultural practices and integrate. In contrast, minority groups above a certain critical mass, may retain diverse practices and may also segregate from the majority. The size of this critical mass depends on the cultural distance between groups, the importance of culture in day to day life, and the costs of forming a social tie. We test these predictions using data on migrants to the United States in the era of mass migration, and find support for the existence of a critical mass of migrants above which social structure in heterogeneous populations changes discretely towards cultural distinction and segregation.",
+    "pages": [
+      "research"
+    ],
+    "topics": [
+      "Migration","Ethnicity"
+    ],
+    "research_section": "working_paper",
+    "policy_section": null,
+    "venue": null,
+    "venue_detail": "IFS Working Paper W15/30",
+    "doi": "10.1920/wp.ifs.2015.1530",
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "MeasuringUKTopWealth",
+    "order": 280,
+    "title": "Measuring top wealth shares in the UK",
+    "title_url": "https://doi.org/10.1016/j.euroecorev.2025.105076",
+    "authors": "A. Advani, A. Summers, and H. Tarrant",
+    "year": 2025,
+    "abstract": "We examine how the measurement of aggregate wealth affects our understanding of wealth distribution. We explain why choices over wealth aggregates can affect the measured level and composition of wealth concentration. Applying this to the UK, we find estimates of the top 1% wealth share vary by 2.1pp – between 14.4% and 16.5% – in 2016-18, depending on the choices we make regarding aggregates and the source of distributional information. Alternative definitions for aggregates lead to a reranking of who is at the top, replacing 40% of individuals in the top 1%, and changing the share of women and older individuals. We discuss conceptual and measurement issues with the National Accounts as a source of wealth aggregates, and argue that in many cases they are poorly aligned in both regards with the measure of personal wealth one would like to target, and in practice are less comparable internationally than they initially seem. In the UK, where the wealth survey has reasonably good coverage across the distribution, we therefore prefer survey aggregates.",
+    "pages": [
+      "research"
+    ],
+    "topics": [
+      "WealthInequality"
+    ],
+    "research_section": "published",
+    "policy_section": null,
+    "venue": "European Economic Review",
+    "venue_detail": "178, 105076",
+    "doi": "10.1016/j.euroecorev.2025.105076",
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "ImportingInequality",
+    "order": 290,
+    "title": "Immigration and the top 1 percent",
+    "title_url": "https://direct.mit.edu/rest/article-abstract/doi/10.1162/rest_a_01408/119493/Immigration-and-the-Top-1-Percent",
+    "authors": "A. Advani, F. Koenig, L. Pessina and A. Summers",
+    "year": 2025,
+    "abstract": "Using administrative data on the universe of UK taxpayers, we study the contribution of migrants to the rise in UK top incomes. We show migrants are over-represented at the top of the income distribution, with migrants twice as prevalent in the top 0.01% as anywhere in the bottom 97%. These high incomes are predominantly from labour, rather than capital, and migrants are concentrated in only a handful of industries, predominantly finance. Almost all (90%) of the observed growth in the UK top 1% income share over the past 20 years has accrued to migrants.",
+    "pages": [
+      "research"
+    ],
+    "topics": [
+      "IncomeInequality",
+      "Migration"
+    ],
+    "research_section": "published",
+    "policy_section": null,
+    "venue": "Review of Economics and Statistics",
+    "venue_detail": "107(4), pp. 1–13",
+    "doi": "10.1162/rest_a_01408",
+    "ungated_url": "papers/AdvaniKoenigPessinaSummers2022_ImmigrationAndTheTop1Percent.pdf",
+    "award": null,
+    "invited": false,
+    "data": {
+      "label": "Data",
+      "url": "data/AdvaniKoenigPessinaSummers_ImportingInequality_data.xlsx"
+    },
+    "links": [
+      {
+        "label": "Explainer video",
+        "url": "https://youtu.be/hMlscNn-hKM"
+      },
+      {
+        "label": "VoxEU column",
+        "url": "https://voxeu.org/article/immigration-and-top-1"
+      }
+    ],
+    "media": [
+      {
+        "outlet": "Forbes",
+        "url": "https://www.forbes.com/sites/chantaldasilva/2020/09/21/nearly-a-quarter-of-uks-top-one-percent-are-migrants-study-finds/"
+      },
+      {
+        "outlet": "FT",
+        "url": "https://www.ft.com/content/0e7aafcf-4e69-4124-9a43-027177d8a4b9"
+      },
+      {
+        "outlet": "Guardian",
+        "url": "https://www.theguardian.com/money/2020/sep/20/about-a-quarter-of-the-uks-top-earners-are-migrants-data-shows"
+      },
+      {
+        "outlet": "Times Opinion",
+        "url": "https://www.thetimes.co.uk/article/foreigners-don-t-take-jobs-they-create-them-and-boost-the-treasury-m8fmx6z3w"
+      }
+    ]
+  },
+  {
+    "id": "RaceRelatedResearch_Economica",
+    "order": 270,
+    "title": "Race-related research in economics",
+    "title_url": "http://doi.org/10.1111/ecca.70022",
+    "authors": "A. Advani, E. Ash, A. Boltachka, D. Cai, and I. Rasul",
+    "year": 2026,
+    "abstract": "Issues of racial justice and economic inequalities between racial and ethnic groups have risen to the top of public debate. Economists' ability to contribute to these debates is based on the body of race-related research. We study the volume and content of race-related research in economics. We base our analysis on a corpus of 225,000 economics publications from 1960 to 2020 to which we apply an algorithmic approach to classify race-related work. We present three new facts. First, since 1960 less than 2% of economics publications have been race-related. There is an uptick in such work in the mid 1990s. Among the top-5 journals this is driven by the American Economic Review, Quarterly Journal of Economics and the Journal of Political Economy. Econometrica and the Review of Economic Studies have each cumulatively published fewer than 15 race-related articles since 1960. Second, on content, while over 50% of race-related publications in the 1970s focused on Black individuals, by the 2010s this had fallen to 20%. There has been a steady decline in the share of race-related research on discrimination since the 1980s, with a rise in the share of studies on identity. Finally, we apply our algorithm to NBER and CEPR working papers posted over the last four decades, to study an earlier stage of the research process. We document a balkanization of race-related research into a few fields, and its continued absence from many others – a result that holds even within the subset of research examining issues of inequality or diversity. We discuss implications of our findings for economists' ability to contribute to debates on race and ethnicity in the economy.",
+    "pages": [
+      "research"
+    ],
+    "topics": [
+      "Ethnicity"
+    ],
+    "research_section": "published",
+    "policy_section": null,
+    "venue": "Economica",
+    "venue_detail": "93, 403–438",
+    "doi": "10.1111/ecca.70022",
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "RaceRelatedResearch_CUP",
+    "order": 260,
+    "title": "Race Related Research in Economics and other Social Sciences",
+    "title_url": "https://doi.org/10.1017/9781009589888.014",
+    "authors": "A. Advani, E. Ash, D. Cai and I. Rasul",
+    "year": 2026,
+    "abstract": "How does economics compare to other social sciences in its study of issues related to race and ethnicity? We assess this using a corpus of 500,000 academic publications in economics, political science, and sociology. Using an algorithmic approach to classify race-related publications, we document that economics lags far behind the other disciplines in the volume and share of race-related research, despite having higher absolute volumes of research output. Since 1960, there have been 13,000 race-related publications in sociology, 4,000 in political science, and 3,000 in economics. Since around 1970, the share of economics publications that are race-related has hovered just below 2% (although the share is higher in top-5 journals); in political science the share has been around 4% since the mid-1990s, while in sociology it has been above 6% since the 1960s and risen to over 12% in the last decade. Finally, using survey data collected from the Social Science Prediction Platform, we find economists tend to overestimate the amount of race-related research in all disciplines, but especially so in economics.",
+    "pages": [
+      "research"
+    ],
+    "topics": [
+      "Ethnicity"
+    ],
+    "research_section": "published",
+    "policy_section": null,
+    "venue": "Advances in Economics and Econometrics: Twelfth World Congress",
+    "venue_detail": "Chapter 9, Cambridge University Press, pp. 262–281. Eds: Chernozhukov, Hörner, La Ferrara, and Werning",
+    "doi": "10.1017/9781009589888.014",
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [
+      {
+        "label": "Vox column",
+        "url": "https://voxeu.org/article/economics-and-study-race"
+      }
+    ],
+    "media": [
+      {
+        "outlet": "Financial Times",
+        "url": "https://www.ft.com/content/4f953365-6661-4329-a615-1018f5756758"
+      }
+    ]
+  },
+  {
+    "id": "HowMuchTax_Oxrep",
+    "order": 250,
+    "title": "How much tax do the rich really pay? Evidence from the UK",
+    "title_url": "https://academic.oup.com/oxrep/article/39/3/406/7245704",
+    "authors": "A. Advani, H. Hughson and A. Summers",
+    "year": 2023,
+    "abstract": "Using anonymized administrative data on the population of UK taxpayers, we show that—in line with high-profile anecdotes about the tax affairs of the rich—effective average tax rates (EATRs) decline at the top of the distribution of income and capital gains. We also document substantial variation in EATRs within remuneration level: a quarter of those in the top 1 per cent pay headline rates, while another quarter pay at least 9pp less than the headline rate. Most of this effect is driven by the composition of remuneration, with investment income having lower tax rates and capital gains having lower rates still. If all individuals with income above £100,000 paid the headline rates, this would raise tax revenue on income and gains by £23 billion on a static basis, an increase of 27 per cent in the tax paid by this group.",
+    "pages": [
+      "research"
+    ],
+    "topics": [
+      "IncomeInequality"
+    ],
+    "research_section": "published",
+    "policy_section": null,
+    "venue": "Oxford Review of Economic Policy",
+    "venue_detail": "39(3), pp. 406–437",
+    "doi": "10.1093/oxrep/grad032",
+    "ungated_url": null,
+    "award": null,
+    "invited": true,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "Deaton",
+    "order": 240,
+    "title": "Measuring and taxing top incomes and wealth",
+    "title_url": "https://doi.org/10.1093/ooec/odad063",
+    "authors": "A. Advani and A. Summers",
+    "year": 2024,
+    "abstract": "We discuss the measurement of top incomes and wealth in the UK, and options for reforming their taxation. First, we highlight the importance of capital gains and migration in understanding long-term trends in top income shares, and of survey under-coverage at the top in understanding top wealth shares. We next consider the scope for reforms to the taxation of capital to tackle these inequalities, whilst also improving the efficiency of taxation, emphasising the roles of Capital Gains Tax, Inheritance Tax and Wealth Taxes. Finally, we examine the question of who is taxed, including the tax treatment of highly mobile individuals and of trusts.",
+    "pages": [
+      "research"
+    ],
+    "topics": [
+      "IncomeInequality",
+      "WealthInequality",
+      "TaxDesign"
+    ],
+    "research_section": "published",
+    "policy_section": null,
+    "venue": "Oxford Open Economics (Deaton Special Issue)",
+    "venue_detail": "3(1), pp. i1113–i1129",
+    "doi": "10.1093/ooec/odad063",
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": {
+      "label": "Data",
+      "url": "data/AdvaniSummers2022_Deaton_data.xlsx"
+    },
+    "links": [
+      {
+        "label": "IFS Deaton Review of Inequalities",
+        "url": "https://ifs.org.uk/inequality/measuring-and-taxing-top-incomes-and-wealth/"
+      },
+      {
+        "label": "CAGE working paper",
+        "url": "https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/wp580.2022.pdf"
+      }
+    ],
+    "media": []
+  },
+  {
+    "id": "DynamicEffectsOfTaxAudits",
+    "order": 230,
+    "title": "The Dynamic Effects of Tax Audits",
+    "title_url": "https://direct.mit.edu/rest/article/doi/10.1162/rest_a_01101/107397/The-Dynamic-Effects-of-Tax-Audits",
+    "authors": "A. Advani, W. Elming, and J. Shaw",
+    "year": 2023,
+    "abstract": "We study the effects of audits on long run compliance behaviour, using a random audit program covering more than 53,000 tax returns. We find that audits raise reported tax liabilities for five years after audit, effects are longer lasting for more stable sources of income, and only individuals found to have made errors respond to audit. 60-65% of revenue from audit comes from the change in reporting behaviour. Extending the standard model of rational tax evasion, we show these results are best explained by information revealed by audits constraining future misreporting. Together these imply that more resources should be devoted to audits, audit targeting should account for reporting responses, and audit threat letters miss a key benefit of audit.",
+    "pages": [
+      "research"
+    ],
+    "topics": [
+      "TaxCompliance"
+    ],
+    "research_section": "published",
+    "policy_section": null,
+    "venue": "Review of Economics and Statistics",
+    "venue_detail": "105(3), pp. 545–561",
+    "doi": "10.1162/rest_a_01101",
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [
+      {
+        "label": "Explainer video",
+        "url": "https://voxeu.org/content/unpaid-tax"
+      },
+      {
+        "label": "IFS Briefing Note",
+        "url": "https://ifs.org.uk/publications/who-does-and-doesnt-pay-taxes"
+      },
+      {
+        "label": "IFS Press Release",
+        "url": "https://ifs.org.uk/news/36-self-assessment-tax-returns-under-report-tax-due-hmrc-bulk-self-assessment-tax-gap-due"
+      },
+      {
+        "label": "Advantage magazine article",
+        "url": "https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/uw_cage_mag_aut_19_amend.pdf"
+      },
+      {
+        "label": "Warwick news story",
+        "url": "https://warwick.ac.uk/fac/soc/economics/news/2017/10/study_from_economics_professor_reveals_who_does_and_doesnt_pay_taxes/"
+      }
+    ],
+    "media": [
+      {
+        "outlet": "Financial Times (2017 Tax Gap)",
+        "url": "https://www.ft.com/content/59c79e58-ba1c-11e7-8c12-5661783e5589"
+      },
+      {
+        "outlet": "Times (2017 Tax Gap)",
+        "url": "https://www.thetimes.co.uk/article/carelessness-in-doing-tax-returns-costs-6bn-a-year-ftgs8z2dm"
+      },
+      {
+        "outlet": "Guardian (2017 Tax Gap)",
+        "url": "https://www.theguardian.com/politics/2017/oct/26/bb-owners-and-cabbies-top-list-of-tax-shirkers"
+      },
+      {
+        "outlet": "Sun",
+        "url": "https://www.thesun.co.uk/money/4777224/brits-under-paying-tax-hmrc/"
+      },
+      {
+        "outlet": "Mirror",
+        "url": "http://www.mirror.co.uk/money/millions-brits-lying-how-much-11415415"
+      },
+      {
+        "outlet": "Daily Express",
+        "url": "http://www.express.co.uk/news/uk/871670/tax-self-assessment-hmrc-cabbies-b-b-owners-worst-offenders-under-reporters"
+      },
+      {
+        "outlet": "City AM",
+        "url": "http://www.cityam.com/274653/more-than-third-self-assessment-taxpayers-under-reporting"
+      },
+      {
+        "outlet": "Huffington Post (Paradise Papers)",
+        "url": "http://www.huffingtonpost.co.uk/entry/paradise-papers-richard-murphy_uk_5a0046e5e4b04cdbeb34a0c0"
+      },
+      {
+        "outlet": "The Times (2018 Tax Gap)",
+        "url": "https://www.thetimes.co.uk/article/renevue-fails-to-collect-33bn-in-tax-389m6pvtn"
+      },
+      {
+        "outlet": "Financial Times (2019 Tax Gap)",
+        "url": "https://www.ft.com/content/8b555ab0-9372-11e9-b7ea-60e35ef678d2"
+      },
+      {
+        "outlet": "Independent (2019 Tax Gap)",
+        "url": "https://www.independent.co.uk/voices/hmrc-tax-gap-avoidance-billions-pounds-a8968591.html"
+      },
+      {
+        "outlet": "The Economist",
+        "url": "https://www.economist.com/international/2018/05/26/government-data-are-ever-more-important-to-economic-research"
+      }
+    ]
+  },
+  {
+    "id": "MeasuringUKTopIncomes",
+    "order": 220,
+    "title": "Measuring top income shares in the UK",
+    "title_url": "https://doi.org/10.1093/jrsssa/qnac008",
+    "authors": "A. Advani, A. Summers, and H. Tarrant",
+    "year": 2023,
+    "abstract": "We compare two approaches to measuring UK top income shares—the share of income going to particular subgroups, such as the top 1%. We set out four criteria that an ideal top share series should satisfy: (i) comparability between numerator and denominator; (ii) comparability over time; (iii) international comparability; and (iv) practical sustainability. Our preferred approach meets three of these; by contrast the approach currently used to produce UK fiscal income series meets none of them. Changing to our preferred approach matters quantitatively: the share of income going to the top 1% is 2 percentage points higher, but rising more slowly, than under the alternative.",
+    "pages": [
+      "research"
+    ],
+    "topics": [
+      "IncomeInequality"
+    ],
+    "research_section": "published",
+    "policy_section": null,
+    "venue": "Journal of the Royal Statistical Society: Series A",
+    "venue_detail": "186(2), pp. 241–258",
+    "doi": "10.1093/jrsssa/qnac008",
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": {
+      "label": "Data",
+      "url": "data/AdvaniSummersTarrant_UKTopIncomes_WIDTechnicalNote_Data.xlsx"
+    },
+    "links": [
+      {
+        "label": "WID Technical Note",
+        "url": "papers/AdvaniSummersTarrant2021_UKTopIncomes_WIDTechnicalNote.pdf"
+      }
+    ],
+    "media": []
+  },
+  {
+    "id": "MissingIncomesInTheUK",
+    "order": 210,
+    "title": "Missing incomes in the UK: Evidence and policy implications",
+    "title_url": "https://www.cambridge.org/core/journals/journal-of-social-policy/article/missing-incomes-in-the-uk-evidence-and-policy-implications/6F454FD9D74613B182631F9453EDB671",
+    "authors": "A. Advani, T. Ooms, and A. Summers",
+    "year": 2024,
+    "abstract": "Policymakers tend to 'treasure what is measured' and overlook phenomena that are not. In an era of increased reliance on administrative data, existing policies also often determine what is measured in the first place. We analyse this two-way interaction between measurement and policy in the context of the investment incomes and capital gains that are missing from the UK's official income statistics. We show that these 'missing incomes' change the picture of economic inequality over the past decade, revealing rising top income shares during the period of austerity. The underestimation of these forms of income in official statistics has diverted attention from tax policies that disproportionately benefit the wealthiest. We urge a renewed focus on how policy affects and is affected by measurement.",
+    "pages": [
+      "research"
+    ],
+    "topics": [
+      "IncomeInequality"
+    ],
+    "research_section": "published",
+    "policy_section": null,
+    "venue": "Journal of Social Policy",
+    "venue_detail": "53(2), pp. 386–406",
+    "doi": "10.1017/S0047279422000290",
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "WhoDoesAndDoesntPayTaxes",
+    "order": 200,
+    "title": "Who does and doesn't pay taxes?",
+    "title_url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/1475-5890.12257",
+    "authors": "A. Advani",
+    "year": 2022,
+    "abstract": "We use administrative tax data from audits of self-assessment tax returns to understand what types individuals are most likely to be non-compliant. Non-compliance is common, with one-third of taxpayers underpaying by some amount, although half of aggregate under-reporting is done by just 2% of taxpayers. Third party reporting reduces non-compliance, while working in a cash-prevalent industry increases it. However, compliance also varies significantly with individual characteristics: non-compliance is higher for men and younger people. These results matter for measuring inequality, for understanding taxpayer behaviour, and for targeting audit resources.",
+    "pages": [
+      "research"
+    ],
+    "topics": [
+      "TaxCompliance"
+    ],
+    "research_section": "published",
+    "policy_section": null,
+    "venue": "Fiscal Studies",
+    "venue_detail": "43(1), pp. 5–22",
+    "doi": "10.1111/1475-5890.12257",
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [
+      {
+        "label": "Advantage magazine article",
+        "url": "https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/uw_cage_mag_aut_19_amend.pdf"
+      },
+      {
+        "label": "Warwick news story",
+        "url": "https://warwick.ac.uk/fac/soc/economics/news/2017/10/study_from_economics_professor_reveals_who_does_and_doesnt_pay_taxes/"
+      }
+    ],
+    "media": []
+  },
+  {
+    "id": "TaxationOfCapitalGains",
+    "order": 190,
+    "title": "The taxation of capital gains: principles, practice, and directions for reform",
+    "title_url": "https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/wp589.2021.pdf",
+    "authors": "A. Advani",
+    "year": 2021,
+    "abstract": "Capital gains are particularly complex to tax given their infrequency, the different ways in which they are generated, and worries about harming productivity. There are theoretical arguments in support of everything from zero rates to high rates of tax on capital. In this paper, I first discuss the impact of capital gains on inequality, which often motivates discussions about how gains should be taxed. I then set out the principles that determine how gains should be taxed, in particular how the tax rate should relate to income tax rates. I propose that capital gains tax rates be equalized with income tax rates, subject to provisions to allow gains to be 'smoothed' over time and to remove inflation from the tax base. I highlight key transitional issues in moving to such a tax structure. Finally, I discuss the specific lessons for Canada.",
+    "pages": [
+      "research"
+    ],
+    "topics": [
+      "TaxDesign"
+    ],
+    "research_section": "published",
+    "policy_section": null,
+    "venue": "Canadian Tax Journal",
+    "venue_detail": "69(4), pp. 1231–1250",
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": true,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "WealthTax_SpecialIssueIntro",
+    "order": 180,
+    "title": "Taxes on wealth: time for another look?",
+    "title_url": "https://onlinelibrary.wiley.com/doi/10.1111/1475-5890.12289",
+    "authors": "A. Advani, H. Miller and A. Summers",
+    "year": 2021,
+    "abstract": "This paper introduces a special issue on a Wealth Tax, which draws together the latest thinking on wealth taxes with the aim of filling this gap. It draws heavily on international experience and evidence, applying these insights to the UK context. The papers build on work undertaken for the Wealth Tax Commission, which delivered its final report in December 2020. The contributors to this special issue include tax practitioners and academic lawyers as well as economists, reflecting our view that this range of expertise is essential to evaluating the practice, as well as principles, of a wealth tax. In this paper we touch upon some common themes arising across the papers. We also highlight some important remaining gaps in the evidence base on wealth taxes, particularly on the measurement of wealth and behavioural responses at the very top of the wealth distribution.",
+    "pages": [
+      "research"
+    ],
+    "topics": [
+      "TaxDesign"
+    ],
+    "research_section": "published",
+    "policy_section": null,
+    "venue": "Fiscal Studies",
+    "venue_detail": "42(3-4), pp. 389–395",
+    "doi": "10.1111/1475-5890.12289",
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": [],
+    "note": "Introduction to Special Issue on a Wealth Tax"
+  },
+  {
+    "id": "WealthTax_Modelling",
+    "order": 170,
+    "title": "Revenue and distributional modelling for a wealth tax",
+    "title_url": "https://onlinelibrary.wiley.com/doi/10.1111/1475-5890.12280",
+    "authors": "A. Advani, H. Hughson and H. Tarrant",
+    "year": 2021,
+    "abstract": "In this paper we model the revenue that could be raised from an annual and a one-off wealth tax of the design recommended by Advani, Chamberlain and Summers (2020). We examine the distributional effects of the tax, both in terms of wealth and other characteristics. We also estimate the share of taxpayers who would face liquidity constraints in meeting their tax liability. We find that an annual wealth tax charging 0.18% on wealth above £500,000 could generate £10 billion in revenue, before admin costs. Alternatively, a one-off tax charging 4.8% (effectively 0.96% per year, paid over a 5-year period) on wealth above the same threshold, would generate £250 billion in revenue. To put our revenue estimates into context, we present revenue estimates and costings for some commonly-proposed reforms to the existing set of taxes on capital.",
+    "pages": [
+      "research"
+    ],
+    "topics": [
+      "WealthInequality",
+      "TaxDesign"
+    ],
+    "research_section": "published",
+    "policy_section": null,
+    "venue": "Fiscal Studies",
+    "venue_detail": "42(3-4), pp. 699–736",
+    "doi": "10.1111/1475-5890.12280",
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [
+      {
+        "label": "Wealth and Policy Working Paper 113",
+        "url": "https://dx.doi.org/10.47445/113",
+        "note": "earlier version"
+      },
+      {
+        "label": "Economics Observatory column",
+        "url": "https://www.economicsobservatory.com/how-much-revenue-might-be-raised-one-wealth-tax"
+      },
+      {
+        "label": "Tax Simulator",
+        "url": "http://taxsimulator.ukwealth.tax",
+        "note": "build your own wealth tax"
+      }
+    ],
+    "media": []
+  },
+  {
+    "id": "WealthTax_BehaviouralResponses",
+    "order": 160,
+    "title": "Behavioural responses to a wealth tax",
+    "title_url": "https://onlinelibrary.wiley.com/doi/10.1111/1475-5890.12283",
+    "authors": "A. Advani and H. Tarrant",
+    "year": 2021,
+    "abstract": "In this paper, we review the existing empirical evidence on how individuals respond to the incentives created by a net wealth tax. Variation in the overall magnitude of behavioural responses is substantial: estimates of the elasticity of taxable wealth vary by a factor of 800. We explore three key reasons for this variation: tax design, context, and methodology. We then discuss what is known about the importance of individual margins of response and how these interact with policy choices. Finally, we use our analysis to systematically narrow down and reconcile the range of elasticity estimates. We argue that a well-designed wealth tax would reduce the tax base (of reported wealth) by 7-17% if levied at a tax rate of 1%.",
+    "pages": [
+      "research"
+    ],
+    "topics": [
+      "TaxDesign"
+    ],
+    "research_section": "published",
+    "policy_section": null,
+    "venue": "Fiscal Studies",
+    "venue_detail": "42(3-4), pp. 509–537",
+    "doi": "10.1111/1475-5890.12283",
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [
+        {
+            "label": "Wealth and Policy Working Paper 105",
+            "url": "https://dx.doi.org/10.47445/105",
+            "note": "earlier version"
+        }
+    ],
+    "media": []
+  },
+  {
+    "id": "WealthTax_WealthDistribution",
+    "order": 150,
+    "title": "The UK's wealth distribution and characteristics of high-wealth households",
+    "title_url": "https://onlinelibrary.wiley.com/doi/10.1111/1475-5890.12286",
+    "authors": "A. Advani, G. Bangham and J. Leslie",
+    "year": 2021,
+    "abstract": "Household wealth is profoundly important for living standards. We show that wealth inequality in the UK is high and has increased slightly over the past decade as financial asset prices increased in the wake of the financial crisis. But data deficiencies are a major barrier in understanding the true distribution, composition and size of household wealth. We find that the most comprehensive survey of household wealth in the UK does a good job of capturing the vast majority of the wealth distribution, but that nearly £800 billion of wealth held by the very wealthiest UK households is missing. We also find tentative evidence to suggest that survey measures of high-wealth families undervalue their assets – our central estimate of the true value of wealth held by households in the UK is 5% higher than the survey data suggests.",
+    "pages": [
+      "research"
+    ],
+    "topics": [
+      "WealthInequality"
+    ],
+    "research_section": "published",
+    "policy_section": null,
+    "venue": "Fiscal Studies",
+    "venue_detail": "42(3-4), pp. 397–430",
+    "doi": "10.1111/1475-5890.12286",
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": {
+      "label": "Data",
+      "url": "data/AdvaniBanghamLeslie2021_TheUKWealthDistribution.xlsx"
+    },
+    "links": [
+        {
+            "label": "Wealth and Policy Working Paper 101",
+            "url": "https://dx.doi.org/10.47445/101",
+            "note": "earlier version"
+        }
+    ],
+    "media": [
+      {
+        "outlet": "Times",
+        "url": "https://www.thetimes.co.uk/article/taxman-missing-out-on-800bn-from-richest-housebolds-63g6p28s6"
+      },
+      {
+        "outlet": "Guardian",
+        "url": "https://www.theguardian.com/inequality/2021/jan/03/richest-1-have-almost-a-quarter-of-uk-wealth-study-claims"
+      },
+      {
+        "outlet": "Sun",
+        "url": "https://www.thesun.co.uk/news/13633705/rishi-sunak-tax-britain-wealthiest-coronavirus/"
+      },
+      {
+        "outlet": "Express",
+        "url": "https://www.express.co.uk/news/uk/1378824/wealth-tax-capital-gains-inheritance-tax-rishi-sunak-chancellor-resolution-foundation-taxe"
+      },
+      {
+        "outlet": "Metro",
+        "url": "https://metro.co.uk/2021/01/03/800000000000-missing-in-official-data-on-uks-wealthiest-1-13840790/"
+      },
+      {
+        "outlet": "Times Opinion",
+        "url": "https://www.thetimes.co.uk/article/a-wealth-tax-would-be-popular-but-that-does-not-make-it-right-2ckfcjbn2"
+      },
+      {
+        "outlet": "i newspaper Opinion",
+        "url": "https://inews.co.uk/opinion/wealth-tax-inequality-uk-richest-poorest-816952"
+      }
+    ]
+  },
+  {
+    "id": "EMCS",
+    "order": 140,
+    "title": "Mostly Harmless Simulations? Using Monte Carlo Studies for Estimator Selection",
+    "title_url": "https://onlinelibrary.wiley.com/doi/10.1002/jae.2724",
+    "authors": "A. Advani, T. Kitagawa and T. Słoczyński",
+    "year": 2019,
+    "abstract": "We consider two recent suggestions for how to perform an empirically motivated Monte Carlo study to help select a treatment effect estimator under unconfoundedness. We show theoretically that neither is likely to be informative except under restrictive conditions that are unlikely to be satisfied in many contexts. To test empirical relevance, we also apply the approaches to a real-world setting where estimator performance is known. Both approaches are worse than random at selecting estimators which minimise absolute bias. They are better when selecting estimators that minimise mean squared error. However, using a simple bootstrap is at least as good and often better. For now researchers would be best advised to use a range of estimators and compare estimates for robustness.",
+    "pages": [
+      "research"
+    ],
+    "topics": [
+      "Econometrics"
+    ],
+    "research_section": "published",
+    "policy_section": null,
+    "venue": "Journal of Applied Econometrics",
+    "venue_detail": "34(6), pp. 893–910",
+    "doi": "10.1002/jae.2724",
+    "ungated_url": "https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/411-2019_advani.pdf",
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "CrediblyIdentifyingSocialEffects",
+    "order": 130,
+    "title": "Credibly Identifying Social Effects: Accounting for Network Formation and Measurement Error",
+    "title_url": "http://onlinelibrary.wiley.com/doi/10.1111/joes.12256",
+    "authors": "A. Advani and B. Malde",
+    "year": 2018,
+    "abstract": "Understanding whether and how connections between agents (networks) such as declared friendships in classrooms, transactions between firms, and extended family connections, influence their socio-economic outcomes has been a growing area of research within economics. Early methods developed to identify these social effects assumed that networks had formed exogenously, and were perfectly observed, both of which are unlikely to hold in practice. A more recent literature, both within economics and in other disciplines, develops methods that relax these assumptions. This paper reviews that literature. It starts by providing a general econometric framework for linear models of social effects, and illustrates how network endogeneity and missing data on the network complicate identification of social effects. Thereafter, it discusses methods for overcoming the problems caused by endogenous formation of networks. Finally, it outlines the stark consequences of missing data on measures of the network, and regression parameters, before describing potential solutions.",
+    "pages": [
+      "research"
+    ],
+    "topics": [
+      "Econometrics"
+    ],
+    "research_section": "published",
+    "policy_section": null,
+    "venue": "Journal of Economic Surveys",
+    "venue_detail": "32(4), pp. 1016–1044",
+    "doi": "10.1111/joes.12256",
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "CheaperGreenerAndMoreEfficient",
+    "order": 120,
+    "title": "Cheaper, Greener, and More Efficient: Rationalising UK Carbon Prices",
+    "title_url": "http://onlinelibrary.wiley.com/doi/10.1111/1475-5890.12097/full",
+    "authors": "A. Advani and G. Stoye",
+    "year": 2017,
+    "abstract": "Current UK energy use policies, which primarily aim to reduce carbon emissions, provide abatement incentives which vary by user and fuel, creating inefficiency. Distributional concerns are often given as a justification for the lower carbon price faced by households, but there is little rationale for carbon prices associated with the use of gas to be lower than those for electricity. We consider reforms that raise carbon prices faced by households, and reduce the variation in carbon prices across gas and electricity use, improving the efficiency of emissions reduction. We show that the revenue raised from this can be recycled in a way that ameliorates some of the distributional concerns. Whilst such recycling is not able to protect all poorer households, existing policy also makes distributional trade-offs, but does this in an opaque and inefficient way.",
+    "pages": [
+      "research"
+    ],
+    "topics": [
+      "Environment"
+    ],
+    "research_section": "published",
+    "policy_section": null,
+    "venue": "Fiscal Studies",
+    "venue_detail": "38(2), pp. 269–299",
+    "doi": "10.1111/1475-5890.12097",
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "MethodsToIdentifyLinearNetworkModels",
+    "order": 110,
+    "title": "Methods to Identify Linear Network Models: A Review",
+    "title_url": "https://link.springer.com/article/10.1186/s41937-017-0011-x",
+    "authors": "A. Advani and B. Malde",
+    "year": 2018,
+    "abstract": "In many contexts we may be interested in understanding whether direct connections between agents, such as declared friendships in a classroom or family links in a rural village, affect their outcomes. In this paper we review the literature studying econometric methods for the analysis of linear models of social effects, a class that includes the 'linear-in-means' local average model, the local aggregate model, and models where network statistics affect outcomes. We provide an overview of the underlying theoretical models, before discussing conditions for identification using observational and experimental/quasi-experimental data.",
+    "pages": [
+      "research"
+    ],
+    "topics": [
+      "Econometrics"
+    ],
+    "research_section": "published",
+    "policy_section": null,
+    "venue": "Swiss Journal of Economics and Statistics",
+    "venue_detail": "154, 12",
+    "doi": "10.1186/s41937-017-0011-x",
+    "ungated_url": null,
+    "award": null,
+    "invited": true,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "EmpiricalMethodsForNetworksData",
+    "order": 10,
+    "title": "Empirical Methods for Networks Data: Social Effects, Network Formation and Measurement Error",
+    "title_url": "https://ifs.org.uk/sites/default/files/output_url_files/WP201434.pdf",
+    "authors": "A. Advani and B. Malde",
+    "year": 2014,
+    "abstract": "In many contexts we may be interested in understanding whether direct connections between agents, such as declared friendships in a classroom or family links in a rural village, affect their outcomes. In this paper we review the literature studying econometric methods for the analyis of social networks. We begin by providing a common framework for models of social effects, a class that includes the 'linear-in-means' local average model, the local aggregate model, and models where network statistics affect outcomes. We discuss identification of these models using both observational and experimental/quasi-experimental data. We then discuss models of network formation, drawing on a range of literatures to cover purely predictive models, reduced form models, and structural models, including those with a strategic element. Finally we discuss how one might collect data on networks, and the measurement error issues caused by sampling of networks, as well as measurement error more broadly.",
+    "pages": [
+      "research"
+    ],
+    "topics": [
+      "Econometrics"
+    ],
+    "research_section": "older",
+    "policy_section": null,
+    "venue": null,
+    "venue_detail": "IFS Working Paper W14/34",
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [
+      {
+        "label": "Collecting network data in surveys (slides)",
+        "url": "http://www.ifs.org.uk/docs/DataCollectionPresentation.pdf"
+      },
+      {
+        "label": "Identifying social effects from policy experiments (slides)",
+        "url": "http://www.cemmap.ac.uk/uploads/Advani_Malde_RMF2014.pdf"
+      }
+    ],
+    "media": [],
+    "notes": "Parts of this Working Paper have been published as Credibly Identifying Social Effects and Methods to Identify Linear Network Models"
+  },
+  {
+    "id": "BudgetResponse2025",
+    "order": 600,
+    "title": "CenTax Budget Response 2025",
+    "title_url": "https://centax.org.uk/wp-content/uploads/2025/12/Budget_response_25.pdf",
+    "authors": "CenTax",
+    "year": 2025,
+    "abstract": "CenTax's response to Budget 2025, covering income tax thresholds, taxation of property and savings income, pensions, the high-value council tax surcharge, electric vehicle road pricing, employee ownership trusts, and agricultural and business property relief for inheritance tax.",
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "TaxDesign"
+    ],
+    "research_section": null,
+    "policy_section": "policy_paper",
+    "venue": null,
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "TaxReformsForGrowth",
+    "order": 590,
+    "title": "Tax Reforms for Growth",
+    "title_url": "https://centax.org.uk/tax-reforms-for-growth/",
+    "authors": "A. Summers, A. Advani, C. Jung, C. Belfield, D. Neidle, H. Peaker, J. Howat, J. Lawson, R. Colvile and R. Shorthouse",
+    "year": 2025,
+    "abstract": "The Government has stated that economic growth is its overwhelming priority. One of the main barriers to growth is the tax system, which contains many arbitrary and nonsensical rules. This document – authored by experts from think tanks across the political spectrum – provides a set of packages that would move the UK towards a fairer, more effective and more pro-growth tax system. This is a framework for the direction of reform, not a precise blueprint.",
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "TaxDesign"
+    ],
+    "research_section": null,
+    "policy_section": "policy_paper",
+    "venue": "CenTax",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "PartnershipNICs",
+    "order": 580,
+    "title": "Equalising National Insurance on Partnership Income: Revenue and Distributional Effects",
+    "title_url": "https://centax.org.uk/policy-report-equalising-national-insurance-on-partnership-income-revenue-and-distributional-effects/",
+    "authors": "A. Advani, S. Gazmuri-Barker, A. Lonsdale and A. Summers",
+    "year": 2025,
+    "abstract": "Partnerships do not pay an equivalent of Employer National Insurance Contributions, meaning that they face significantly lower effective tax rates on their labour costs than companies. This report argues that introducing a 'Partnerships NICs' would improve productivity and raise £1.9 billion per year. We present novel statistics on the distribution of partnership profits in the UK and discuss how much revenue could be raised from our proposed reform. Our analysis draws on pseudonymised administrative data accessed via HMRC, which provides information on all taxpayers with partnership profits in the 2020 tax year.",
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "TaxDesign"
+    ],
+    "research_section": null,
+    "policy_section": "policy_paper",
+    "venue": "CenTax Policy Report",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": {
+      "label": "Data",
+      "url": "data/AdvaniGazmuribarkerLonsdaleSummers_PartnershipNICs_data.xlsx"
+    },
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "IHT_farm",
+    "order": 570,
+    "title": "The Impact of Changes to Inheritance Tax on Farm Estates",
+    "title_url": "https://centax.org.uk/policy-brief-the-impact-of-changes-to-inheritance-tax-on-farm-estates/",
+    "authors": "A. Advani, S. Gazmuri-Barker, S. Mahajan and A. Summers",
+    "year": 2025,
+    "abstract": "In the Autumn Budget 2024, the Government announced a reform to Inheritance Tax (IHT) that reduced the reliefs available for agricultural and business property ('APR' and 'BPR'). From April 2026, the first £1 million of combined qualifying agricultural and business property (the 'combined allowance') will continue to receive 100% relief, but above this threshold, relief will be reduced to 50%. The new combined allowance of £1 million per estate is in addition to the Nil Rate Band (NRB) and Residential Nil Rate Band (RNRB) covering up to £1 million per couple. As a result of the reform, the value of farmland and business assets exceeding these allowances will face an effective tax rate of up to 20%, whereas previously these assets had been tax-free. The tax can be paid in interest-free instalments over ten years. The reform has proved highly controversial, especially regarding its potential impact on farmers. This report presents the first independent, evidence-based analysis of the impact of the planned reform using HMRC Inheritance Tax data. We provide a detailed impact assessment and model potential adjustments to the reform.",
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "TaxDesign"
+    ],
+    "research_section": null,
+    "policy_section": "policy_paper",
+    "venue": "CenTax Policy Report",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": {
+      "label": "Data",
+      "url": "data/AdvaniGazmuribarkerMahajanSummers_IHTfarm_data.xlsx"
+    },
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "Carry_KeyFacts",
+    "order": 560,
+    "title": "Ten Key Facts about Carried Interest",
+    "title_url": "https://centax.org.uk/ten-key-facts-about-carried-interest/",
+    "authors": "A. Advani, S. Gazmuri-Barker, S. Mahajan and A. Summers",
+    "year": 2024,
+    "abstract": "'Carried interest' (or 'carry') is one of the main forms of pay in the private equity industry. Unlike earnings, which are taxed at a top marginal rate of 47%, carried interest is currently taxed as a capital gain at the rate of 28%. The tax treatment of carried interest is highly controversial. Following the 2024 General Election, the Government reiterated its intention to 'close the carried interest loophole' by taxing carry like other performance-related rewards. However, it has come under significant pressure to scale back these plans following claims by industry insiders that increasing taxes on private equity executives could lead to a mass exodus of individuals and investment from the UK. Despite extensive public interest in this debate, there is virtually no statistical evidence in the public domain about how much carried interest private equity executives actually receive, how often they receive it, their demographic characteristics, how much (if any) of their own capital they put at risk in their funds, and so on.",
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "TaxDesign"
+    ],
+    "research_section": null,
+    "policy_section": "policy_paper",
+    "venue": "CenTax Policy Report",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": {
+      "label": "Data",
+      "url": "data/AdvaniGazmuribarkerMahajanSummers_CarryKeyFacts_data.xlsx"
+    },
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "Carry_reform",
+    "order": 550,
+    "title": "Reforming the Taxation of Carried Interest: Revenue Modelling",
+    "title_url": "https://centax.org.uk/reforming-the-taxation-of-carried-interest-revenue-modeling/",
+    "authors": "A. Advani, S. Gazmuri-Barker, S. Mahajan, C. Poux and A. Summers",
+    "year": 2024,
+    "abstract": "'Carried interest' (or 'carry') is one of the main forms of pay in the private equity (PE) industry. Only around 0.01% of the UK population (6,440 individuals) reported any carried interest between 2017 and 2023, but over that period their total carry exceeded £22 billion. Carried interest is extremely concentrated amongst top executives. In 2020, the top 100 executives received an average of £15 million in carry each and paid an average effective tax rate of 29% on their total income and gains (including gains on co-investments taxed at 20%).",
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "TaxDesign"
+    ],
+    "research_section": null,
+    "policy_section": "policy_paper",
+    "venue": "CenTax Policy Report",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "IHT_reliefs",
+    "order": 540,
+    "title": "Inheritance Tax reliefs: time for reform?",
+    "title_url": "https://centax.org.uk/wp-content/uploads/2024/10/AdvaniDisslbacherForresterSummers2024_IHTReliefs.pdf",
+    "authors": "A. Advani, F. Disslbacher, J. Forrester and A. Summers",
+    "year": 2024,
+    "abstract": "Inheritance Tax (IHT) applies at a flat rate of 40% to estates worth over £325,000. This 40% rate has extremely high salience with the public and may be one of the reasons why IHT is regularly cited as the UK's most unpopular tax. And yet, most estates do not actually pay 40% tax, or anywhere close to this. The explanation lies in the proliferation of allowances, exemptions and reliefs for IHT (referred to as 'reliefs' for short), which mean that the statutory tax rate is not a good guide to the effective tax rates that estates actually pay. In this report, we use de-identified tax data covering all estates filing for IHT between 2018-2020 to shed new light on IHT reliefs and their role in driving differences in effective tax rates across estates. We also evaluate whether these apparent inequities can be justified in light of other policy objectives. Finally, we discuss options for reforming IHT reliefs and provide evidence on the revenues that could be raised.",
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "TaxDesign"
+    ],
+    "research_section": null,
+    "policy_section": "policy_paper",
+    "venue": "CenTax Policy Report",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": {
+      "label": "Data",
+      "url": "data/AdvaniDisslbacherForresterSummers2024_IHTReliefs_data.xlsx"
+    },
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "CGT_reform",
+    "order": 530,
+    "title": "Reforming Capital Gains Tax: Revenue and Distributional Effects",
+    "title_url": "https://centax.org.uk/wp-content/uploads/2024/10/AdvaniLonsdaleSummers2024_CGTReform.pdf",
+    "authors": "A. Advani, A. Lonsdale and A. Summers",
+    "year": 2024,
+    "abstract": "Few UK policies have faced as turbulent a history over recent decades as Capital Gains Tax (CGT). The current CGT regime is the product of a series of contradictory reforms that have rendered the rules needlessly complex, inefficient, and unfair. Laying out a roadmap for much-needed change, this report recommends a comprehensive package of CGT reforms going beyond changes to the tax rate. We use de-identified tax data accessed via His Majesty's Revenue and Customs (HMRC) to provide estimates of the revenue and distributional impacts of these recommendations. Importantly, our policy proposals include changes to the tax base that will shut down opportunities for tax avoidance and improve investment incentives and growth. We emphasise that these measures are essential alongside any increases in the tax rate in order for CGT reform to be effective.",
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "TaxDesign"
+    ],
+    "research_section": null,
+    "policy_section": "policy_paper",
+    "venue": "CenTax Policy Report",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": {
+      "label": "Data",
+      "url": "data/AdvaniLonsdaleSummers_CGTReform_data.xlsx"
+    },
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "CGT_misallocation",
+    "order": 520,
+    "title": "The productivity cost of low Capital Gains Tax rates",
+    "title_url": "https://centax.org.uk/wp-content/uploads/2024/10/AdvaniHughsonInkleyLonsdaleSummers2024_ProductivityCostOfLowCapitalGainsTaxRates.pdf",
+    "authors": "A. Advani, H. Hughson, J. Inkley, A. Lonsdale and A. Summers",
+    "year": 2024,
+    "abstract": "Capital gains are currently taxed at much lower rates than income. This encourages individuals to work in a form that allows them to be paid in capital gains. While many small companies are highly productive, these personal service companies are typically not designed to ever grow. A negative side effect of low CGT rates is the proliferation of these businesses, which not only reduce the overall tax take, but hamper productivity by having people working in ways that are less efficient but are individually optimal because of the tax saving. We present new quantitative evidence that a large share of capital gains in the UK are, in fact, the returns to labour rather than capital.",
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "TaxDesign"
+    ],
+    "research_section": null,
+    "policy_section": "policy_paper",
+    "venue": "CenTax Policy Briefing",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "ROADDD_Empirics",
+    "order": 510,
+    "title": "Business owners who emigrate: Evidence from Companies House records",
+    "title_url": "https://centax.org.uk/wp-content/uploads/2024/10/AdvaniPouxSummers2024_BusinessOwnersWhoEmigrate.pdf",
+    "authors": "A. Advani, C. Poux and A. Summers",
+    "year": 2024,
+    "abstract": "The UK is unusual amongst international peers in not levying any tax on people who leave the country after making substantial capital gains whilst living here. We provide the first quantitative evidence on UK nationals who leave the UK after building a UK business, studying where they went and how much CGT revenue is potentially lost. We recommend that the UK should follow the approach of Australia and Canada by levying a 'deemed disposal on departure' (DDD) for people who leave the UK, accompanied by 'rebasing on arrival' (ROA) for people arriving in the UK.",
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "TaxDesign",
+      "Migration"
+    ],
+    "research_section": null,
+    "policy_section": "policy_paper",
+    "venue": "CenTax Policy Briefing",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "CGT_IFS",
+    "order": 500,
+    "title": "Capital Gains Tax reform",
+    "title_url": "https://ifs.org.uk/publications/capital-gains-tax-reform",
+    "authors": "S. Adam, A. Advani, H. Miller and A. Summers",
+    "year": 2024,
+    "abstract": "Removing the harmful distortions created by the poor design of the UK's CGT should be a key focus of policy. This chapter sets out how the tax base could be reformed to greatly reduce – and in some cases largely remove – the distortions to saving, investment and risk-taking. With a reformed tax base, tax rates could be increased with much less distortion to choices over whether, when or how to invest. We summarise a 'big-picture solution' that involves reforming the tax base while aligning overall marginal tax rates across all forms of gains and income. We also discuss steps that could be taken towards this end goal and who would win and lose from reforms.",
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "TaxDesign"
+    ],
+    "research_section": null,
+    "policy_section": "policy_paper",
+    "venue": "IFS Green Budget",
+    "venue_detail": "IFS Report R336",
+    "doi": "10.1920/re.ifs.2024.0336",
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": {
+      "label": "Data",
+      "url": "https://ifs.org.uk/sites/default/files/2024-10/IFS-Green-Budget-2024-Chapter-7-Capital-gains-tax-reform-data.xlsx"
+    },
+    "links": [
+      {
+        "label": "Video summary",
+        "url": "https://youtu.be/0futhYRXbL4"
+      }
+    ],
+    "media": []
+  },
+  {
+    "id": "MoneyForNothing",
+    "order": 490,
+    "title": "Money for Nothing? Critically assessing inheritance tax reliefs",
+    "title_url": "https://www.brightblue.org.uk/wp-content/uploads/2024/03/BB-Essay-Collection-March2024_PRF08-Interactive.pdf",
+    "authors": "A. Advani and D. Sturrock",
+    "year": 2024,
+    "abstract": "We critically assess the main reliefs from inheritance tax, including agricultural property relief and business property relief, the exemption of pension pots from inheritance tax, and the design of the residence nil-rate band. We examine whether these aspects of Inheritance Tax are well-targeted and what reform might look like.",
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "TaxDesign"
+    ],
+    "research_section": null,
+    "policy_section": "policy_paper",
+    "venue": "A Wealth of Opportunities",
+    "venue_detail": "Bright Blue/abrdn Financial Fairness Trust, pp. 80–85",
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "CGT_descriptives",
+    "order": 480,
+    "title": "Who would be affected by Capital Gains Tax reform?",
+    "title_url": "https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/bn40.2024.pdf",
+    "authors": "A. Advani, A. Lonsdale and A. Summers",
+    "year": 2024,
+    "abstract": "This briefing presents new research on the distribution of capital gains and characteristics of taxpayers who receive them. It contributes to the debate on Capital Gain Tax (CGT) reform by outlining who would be most affected by changes to this tax. We investigate this question using de-identified, confidential data accessed via HMRC, which provides information on all individuals with taxable capital gains from 1997 to 2020. We show that only 3% of adults paid CGT over the decade up to 2020. Most gains go to high income individuals, with almost half going to individuals earning above £150,000. More than half of all gains go to just 5000 people - 0.01% of the population - who receive £6.8m each on average. Gains are also geographically concentrated, with more gains in Kensington than all of Wales, and more gains in Hampstead than the entire North East. Notting Hill West - a neighbourhood of 6,400 people - received more in gains over a five year period than Liverpool, Manchester and Newcastle combined.",
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "TaxDesign"
+    ],
+    "research_section": null,
+    "policy_section": "policy_paper",
+    "venue": "CAGE Policy Briefing 40",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": {
+      "label": "Data",
+      "url": "data/AdvaniLonsdaleSummers_WhoWouldBeAffectedByCGTReform_data.xlsx"
+    },
+    "links": [],
+    "media": [
+      {
+        "outlet": "Guardian",
+        "url": "https://www.theguardian.com/money/2024/feb/20/notting-hill-residents-capital-gains-exceed-people-of-three-cities-combined"
+      },
+      {
+        "outlet": "Times",
+        "url": "https://www.thetimes.co.uk/article/notting-hill-capital-gains-tax-exceeds-that-of-norths-biggest-cities-0jxm6tmrg"
+      },
+      {
+        "outlet": "Telegraph",
+        "url": "https://www.telegraph.co.uk/money/tax/capital-gains/notting-hill-capital-gains-liverpool-newcastle-manchester/"
+      },
+      {
+        "outlet": "Financial Times",
+        "url": "https://www.ft.com/content/4e0918c0-979f-446b-be06-7770249d3740"
+      },
+      {
+        "outlet": "Guardian Opinion",
+        "url": "https://www.theguardian.com/commentisfree/2024/feb/20/tory-press-tax-avoidance-rich-flee-labour-government-britain-wealthy"
+      },
+      {
+        "outlet": "FT Opinion",
+        "url": "https://on.ft.com/3uPbIpB"
+      },
+      {
+        "outlet": "The Conversation (op-ed)",
+        "url": "https://theconversation.com/capital-gains-sunak-and-starmers-tax-bills-show-how-the-system-benefits-the-rich-224010"
+      }
+    ]
+  },
+  {
+    "id": "IHT_GB",
+    "order": 470,
+    "title": "Reforming Inheritance Tax",
+    "title_url": "https://ifs.org.uk/publications/reforming-inheritance-tax",
+    "authors": "A. Advani and D. Sturrock",
+    "year": 2023,
+    "abstract": "The IFS Green Budget Chapter looks at the effects of inheritance tax reforms on tax revenue and distributional outcomes. We begin by setting out the status quo position for inheritance tax, and the likely trends in the absence of reform. We highlight a number of problems with the current form of inheritance tax, and make recommendations for reform. We then provide static costings for these reforms, as well as for increasing or decreasing the scope of the tax. This includes the possibility of abolition. Finally we study who would benefit from these reforms, by wealth level of the person leaving the inheritance, by region of the country, and for recipients by wealth level of their parent.",
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "TaxDesign"
+    ],
+    "research_section": null,
+    "policy_section": "policy_paper",
+    "venue": "IFS Green Budget Chapter",
+    "venue_detail": null,
+    "doi": "10.1920/re.ifs.2023.0275",
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": {
+      "label": "Data",
+      "url": "data/AdvaniSturrock2023_IHT_data.xlsx"
+    },
+    "links": [],
+    "media": [
+      {
+        "outlet": "FT",
+        "url": "https://www.ft.com/content/88dd6f98-2d08-43dd-bfe9-5fb2bb1c9727"
+      },
+      {
+        "outlet": "Times",
+        "url": "https://www.thetimes.co.uk/article/number-of-people-paying-inheritance-tax-set-to-rise-by-a-quarter-jb9vm87kw"
+      },
+      {
+        "outlet": "Guardian",
+        "url": "https://www.theguardian.com/money/2023/sep/27/scrapping-inheritance-tax-would-cost-15bn-a-year-by-2032-says-ifs"
+      },
+      {
+        "outlet": "Sky",
+        "url": "https://news.sky.com/story/inheritance-tax-whos-paying-it-how-much-is-it-generating-and-is-it-just-the-rich-who-benefit-from-its-abolition-12969642"
+      },
+      {
+        "outlet": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2023-09-26/uk-s-top-1-would-gain-most-from-inheritance-tax-cut-ifs-says"
+      },
+      {
+        "outlet": "Independent",
+        "url": "https://www.independent.co.uk/money/inheritance-tax-cut-rishi-sunak-ifs-report-b2419079.html"
+      },
+      {
+        "outlet": "i",
+        "url": "https://inews.co.uk/inews-lifestyle/money/how-much-uk-wealthiest-children-inherit-tax-2644424"
+      },
+      {
+        "outlet": "Express",
+        "url": "https://www.express.co.uk/news/politics/1817192/Tory-MPs-inheritance-tax-attack"
+      },
+      {
+        "outlet": "Daily Mail",
+        "url": "https://www.dailymail.co.uk/news/article-12563939/Inheritance-tax-rise-report-finds.html"
+      },
+      {
+        "outlet": "New Statesman (op-ed)",
+        "url": "https://www.newstatesman.com/spotlight/economic-growth/economic-policy/2023/09/what-point-inheritance-tax"
+      }
+    ]
+  },
+  {
+    "id": "ROE",
+    "order": 460,
+    "title": "Catch me if you can: Gaps in the Register of Overseas Entities",
+    "title_url": "https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/wp680.2023.pdf",
+    "authors": "A. Advani, C. Poux, A. Powell-Smith and A. Summers",
+    "year": 2023,
+    "abstract": "The Register of Overseas Entities (ROE) was introduced by the government in Spring 2022 with the commitment that it would \"require anonymous foreign owners of UK property to reveal their real identities\". We use data released by Companies House and HM Land Registry to assess to what extent the ROE is currently delivering on this aim. We identify and quantify several major 'gaps' in the scope and operation of the register and make recommendations for how the register could be improved.",
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "TaxCompliance"
+    ],
+    "research_section": null,
+    "policy_section": "policy_paper",
+    "venue": "CAGE Working Paper 680",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": [
+      {
+        "outlet": "The Times",
+        "url": "https://www.thetimes.co.uk/article/most-offshore-owners-remain-a-mystery-0tkhrvjx3"
+      },
+      {
+        "outlet": "Guardian",
+        "url": "https://www.theguardian.com/business/2023/sep/03/owners-of-100000-properties-held-by-foreign-shell-companies-unknown-despite-new-uk-laws"
+      },
+      {
+        "outlet": "The World Tonight (BBC)",
+        "url": "https://www.bbc.co.uk/sounds/play/m001q656"
+      },
+      {
+        "outlet": "House of Commons (Hansard)",
+        "url": "https://hansard.parliament.uk/commons/2023-09-04/debates/1938A744-A662-4FD7-929C-F45A1DA9C538/EconomicCrimeAndCorporateTransparencyBill"
+      },
+      {
+        "outlet": "Property Week",
+        "url": "https://www.propertyweek.com/news/flawed-laws-leave-two-thirds-of-offshore-property-owners-anonymous/5126565.article"
+      },
+      {
+        "outlet": "Guardian (op-ed)",
+        "url": "https://www.theguardian.com/business/2023/sep/04/five-ways-kleptocrats-can-keep-hold-of-their-uk-assets"
+      },
+      {
+        "outlet": "Guardian (op-ed)",
+        "url": "https://www.theguardian.com/business/2023/jul/21/mps-must-close-loophole-to-drive-out-dirty-money-from-uk-property"
+      }
+    ]
+  },
+  {
+    "id": "TaxPolicyEvidence",
+    "order": 450,
+    "title": "How is evidence used in tax policy making?",
+    "title_url": "https://www.instituteforgovernment.org.uk/publication/evidence-used-tax-policy-making",
+    "authors": "T. Pope, G. Tetlow and A. Advani",
+    "year": 2023,
+    "abstract": "A key tenet of good policy making is use of the best available evidence. Tax is an important policy area, and one where a wealth of evidence – quantitative and qualitative analysis, and broader intelligence and insights – is generated by researchers, practitioners and officials. This report documents how different types of evidence feed into tax policy making. By highlighting the role evidence plays, and which types of evidence have an impact at different stages of the process, we aim to help external stakeholders to understand how the evidence they produce is used and how they could better feed into policy making. We also provide recommendations for how government can further shift its approach, already improved in recent years, to enhance the quality of the evidence base and to use this more effectively.",
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "TaxDesign"
+    ],
+    "research_section": null,
+    "policy_section": "policy_paper",
+    "venue": "Institute for Government",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "WealthTaxDebateContinues",
+    "order": 440,
+    "title": "Wealth tax: the debate continues",
+    "title_url": "https://www.taxjournal.com/articles/wealth-tax-the-debate-continues",
+    "authors": "A. Advani, E. Chamberlain and A. Summers",
+    "year": 2023,
+    "abstract": "A lively article in this journal asks the question 'Is now a sensible time to introduce a wealth tax in the UK?' Its subtitle contains the answer 'Not if Norway is any guide.' The search for international examples is a natural one, but it is also fraught with danger unless we try to understand the overall policy context. We explain why the example of Norway is not a lesson about modest tweaks to a wealth tax.",
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "WealthInequality",
+      "TaxDesign"
+    ],
+    "research_section": null,
+    "policy_section": "policy_paper",
+    "venue": "Tax Journal",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "UKNondoms_basics",
+    "order": 430,
+    "title": "Non-doms: basics and case for reform",
+    "title_url": "papers/AdvaniBurgherrSummers_NondomBasics.pdf",
+    "authors": "A. Advani, D. Burgherr and A. Summers",
+    "year": 2022,
+    "abstract": "This short note summarises some key facts about non-doms, and explains the case for reform to the current regime. It first explains briefly what it means to be a non-dom, the tax advantages this can bring, the costs associated with use of these tax benefits, and past reforms to the regime. It then provides some key statistics on non-doms in the UK. Finally, we explain why the regime is in need of reform.",
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "IncomeInequality",
+      "TaxDesign",
+      "Migration"
+    ],
+    "research_section": null,
+    "policy_section": "policy_paper",
+    "venue": null,
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "UKNondoms_revenueEstimates",
+    "order": 420,
+    "title": "Reforming the non-dom regime: revenue estimates",
+    "title_url": "https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/bn38.2022.pdf",
+    "authors": "A. Advani, D. Burgherr and A. Summers",
+    "year": 2022,
+    "abstract": "This CAGE Policy Briefing studies the offshore income and capital gains of the UK's 'non-doms' – individuals who are resident in the UK but who claim on their tax return that their permanent home ('domicile') is abroad. We use de-identified confidential data accessed via HMRC to analyse all individuals who have claimed non-dom status between 1997 and 2018. We show non-doms at least £10.9 billion in offshore income and gains. Most of these unreported income and gains (55%) belong to non-doms who arrived in the UK in the past five years. Looking at previous reforms that restricted access to the non-dom regime, we see these led to very little emigration. Those who did leave were paying hardly any tax. Consequently, abolishing the non-dom regime would raise at least £3.2 billion even after accounting for migration and other tax planning, and the loss of existing revenue from the remittance basis charge.",
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "IncomeInequality",
+      "TaxDesign",
+      "Migration"
+    ],
+    "research_section": null,
+    "policy_section": "policy_paper",
+    "venue": "CAGE Policy Briefing 38",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": {
+      "label": "Data",
+      "url": "data/AdvaniBurgherrSummers_NondomReformRevenueEstimates_data.xlsx"
+    },
+    "links": [
+      {
+        "label": "Video summary",
+        "url": "https://www.youtube.com/watch?v=ki-OxtySV-c"
+      }
+    ],
+    "media": [
+      {
+        "outlet": "Guardian",
+        "url": "https://www.theguardian.com/news/2022/sep/27/super-rich-uk-non-doms-avoiding-32bn-in-tax-each-year-report-finds"
+      },
+      {
+        "outlet": "Independent",
+        "url": "https://www.independent.co.uk/news/uk/politics/nondom-tax-status-abolition-b2175725.html"
+      },
+      {
+        "outlet": "Financial Times",
+        "url": "https://www.ft.com/content/02903c0c-0017-4a8e-8b8d-d7b081396278"
+      },
+      {
+        "outlet": "FT Adviser",
+        "url": "https://www.ftadviser.com/investments/2022/09/27/abolishing-non-doms-would-raise-3-2bn-report-says/"
+      },
+      {
+        "outlet": "New Statesman (op-ed)",
+        "url": "https://www.newstatesman.com/spotlight/investment/2022/09/taxing-non-doms-fairly-would-raise-billions"
+      }
+    ]
+  },
+  {
+    "id": "UKNondoms_whoWhatWhere",
+    "order": 410,
+    "title": "The UK's 'non-doms': Who are they, what do they do, and where do they live?",
+    "title_url": "https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/bn36.2022.pdf",
+    "authors": "A. Advani, D. Burgherr, M. Savage and A. Summers",
+    "year": 2022,
+    "abstract": "This CAGE Policy Briefing studies the UK's 'non-doms' – individuals who are resident in the UK but who claim on their tax return that their permanent home ('domicile') is abroad. We use de-identified confidential data accessed via HMRC to analyse all individuals who have claimed non-dom status between 1997 and 2018. We show non-doms are globally connected and economically elite: almost all were either born abroad or have lived abroad for substantial periods, and their incomes are very high. Non-doms are highly likely to work in finance and other 'City' jobs. They tend to come from Western Europe, India and the US. Within the UK they largely reside in and around London, although there are sizeable shares in Oxford and Cambridge, working in research and education, and in Aberdeen, working in oil.",
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "IncomeInequality",
+      "TaxDesign",
+      "Migration"
+    ],
+    "research_section": null,
+    "policy_section": "policy_paper",
+    "venue": "CAGE Policy Briefing 36",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": {
+      "label": "Data",
+      "url": "data/AdvaniBurgherrSavageSummers_UKGlobalEconomicElite_data.xlsx"
+    },
+    "links": [
+      {
+        "label": "Longer working paper",
+        "url": "https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/wp570.2022.pdf"
+      }
+    ],
+    "media": []
+  },
+  {
+    "id": "STRL_WealthAndConnections",
+    "order": 400,
+    "title": "Who are the super-rich? The wealth and connections of the Sunday Times Rich List",
+    "title_url": "https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/bn37.2022.pdf",
+    "authors": "A. Advani, A. Summers and H. Tarrant",
+    "year": 2022,
+    "abstract": "This CAGE Policy Briefing studies the individuals who make up the UK's Sunday Times Rich List (STRL). These are the 1000 richest people or families with strong ties to the UK. We link together information in the STRL with multiple other data sources to analyse the foreign connections of STRL members, the industries with which they are associated, and their corporate ties to UK land and property. One in seven appear not to be UK resident for tax purposes. Among billionaires, one in seven are located in tax havens. Collectively they own almost £2 trillion in UK wealth.",
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "WealthInequality"
+    ],
+    "research_section": null,
+    "policy_section": "policy_paper",
+    "venue": "CAGE Policy Briefing 37",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": [
+      {
+        "outlet": "Independent",
+        "url": "https://www.independent.co.uk/news/business/news/non-dom-tax-hmrc-b2133041.html"
+      }
+    ]
+  },
+  {
+    "id": "NICs",
+    "order": 390,
+    "title": "Fixing the gaps in National Insurance: A better way to fund social care",
+    "title_url": "https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/bn33.2021.pdf",
+    "authors": "A. Advani, H. Hughson, A. Summers and H. Tarrant",
+    "year": 2021,
+    "abstract": "This CAGE Policy Briefing studies alternatives to the government's new Health and Social Care Levy. Using publicly accessible tax data from HMRC, we find that removing the current National Insurance exemptions for investment income and people of pension age would raise £12 billion. This is the same amount of revenue as the Government is targeting from its new Levy. Equalising National Insurance on higher earnings with the rates already paid by lower earners could raise an additional £20 billion. This would be enough to fund a cut in the main rate of NICs by 1.25p, instead of raising these rates, as the government is planning. Under this alternative package of reforms, more of the revenue would come from London and the South East, and from older, wealthier individuals.",
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "TaxDesign"
+    ],
+    "research_section": null,
+    "policy_section": "policy_paper",
+    "venue": "CAGE Policy Briefing 33",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": {
+      "label": "Data",
+      "url": "data/AdvaniHughsonSummersTarrant_FixingTheGapsInNICs_data.xlsx"
+    },
+    "links": [
+      {
+        "label": "Technical Appendix",
+        "url": "https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/bn33.2021appendices.pdf"
+      }
+    ],
+    "media": [
+      {
+        "outlet": "Guardian",
+        "url": "https://www.theguardian.com/politics/2021/sep/10/if-national-insurance-must-fund-social-care-at-least-make-it-fair"
+      },
+      {
+        "outlet": "Times",
+        "url": "https://www.thetimes.co.uk/article/after-this-dogs-dinner-can-we-sustain-record-taxes-qhz8pvpws"
+      }
+    ]
+  },
+  {
+    "id": "WealthTax_CaseForOneOff",
+    "order": 380,
+    "title": "The case for a one-off wealth tax",
+    "title_url": "https://www.taxjournal.com/articles/the-case-for-a-one-off-wealth-tax",
+    "authors": "A. Advani, E. Chamberlain and A. Summers",
+    "year": 2021,
+    "abstract": "A thoughtful analysis appeared in this journal of our final report on a wealth tax for the UK. For a full discussion of the final report, we would refer readers to the frequently asked questions that deal with some of the misunderstandings that have emerged and the longer final report. However, we here respond to some specific points raised in the article.",
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "WealthInequality",
+      "TaxDesign"
+    ],
+    "research_section": null,
+    "policy_section": "policy_paper",
+    "venue": "Tax Journal",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [
+      {
+        "label": "FAQ",
+        "url": "https://www.wealthandpolicy.com/wp/WealthTaxFinalReport_FAQ.pdf"
+      },
+      {
+        "label": "Executive summary",
+        "url": "https://www.wealthandpolicy.com/wp/WealthTaxFinalReport_ExecSummary.pdf"
+      }
+    ],
+    "media": []
+  },
+  {
+    "id": "WealthTax_FinalReport",
+    "order": 370,
+    "title": "A wealth tax for the UK",
+    "title_url": "https://dx.doi.org/10.47445/WealthTaxFinalReport",
+    "authors": "A. Advani, E. Chamberlain and A. Summers",
+    "year": 2020,
+    "abstract": "This report presents the final findings of the Wealth Tax Commission into whether the UK should have a wealth tax. It concludes that if the government chooses to raise taxes in response to COVID, it should implement a one-off wealth tax in preference to increasing taxes on work or consumption.",
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "WealthInequality",
+      "TaxDesign"
+    ],
+    "research_section": null,
+    "policy_section": "policy_paper",
+    "venue": "Final Report of the Wealth Tax Commission",
+    "venue_detail": null,
+    "doi": "10.47445/WealthTaxFinalReport",
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [
+      {
+        "label": "Campaign for Social Science blog",
+        "url": "https://campaignforsocialscience.org.uk/news/rebuilding-government-finances-after-covid-is-a-wealth-tax-part-of-the-answer/"
+      },
+      {
+        "label": "LSE Business Review blog",
+        "url": "https://blogs.lse.ac.uk/businessreview/2020/12/09/is-it-time-for-a-wealth-tax-to-offset-the-economic-damage-from-covid-19/"
+      }
+    ],
+    "media": [
+      {
+        "outlet": "BBC",
+        "url": "https://www.bbc.co.uk/news/business-55236851"
+      },
+      {
+        "outlet": "FT",
+        "url": "https://www.ft.com/content/36c35939-c06e-4758-8dcd-711d083f4192"
+      },
+      {
+        "outlet": "Guardian",
+        "url": "https://www.theguardian.com/business/2020/dec/09/economic-cost-of-covid-crisis-prompts-call-for-one-off-uk-wealth-tax"
+      },
+      {
+        "outlet": "Sky",
+        "url": "https://news.sky.com/story/covid-19-experts-make-case-for-one-off-260bn-tax-raid-on-wealthy-12155275"
+      },
+      {
+        "outlet": "Telegraph",
+        "url": "https://www.telegraph.co.uk/tax/news/tax-property-pensions-1pc-raise-260bn-commission-tells-government/"
+      },
+      {
+        "outlet": "Times",
+        "url": "https://www.thetimes.co.uk/article/emergency-wealth-tax-could-wipe-out-uks-pandemic-bill-jdtbr3pgn"
+      }
+    ]
+  },
+  {
+    "id": "EthnicDiversityInUKEconomics",
+    "order": 360,
+    "title": "Ethnic diversity in UK economics",
+    "title_url": "https://ifs.org.uk/publications/ethnic-diversity-uk-economics",
+    "authors": "A. Advani, S. Sen and R. Warwick",
+    "year": 2020,
+    "abstract": "Economists are central to policymaking in the UK, and to providing the research that underpins that policymaking. Despite having this important role in society, economists are not very representative of society, with a well-documented under-representation of women in the profession. In this briefing note, we examine the ethnic diversity of academic economists who provide much of the research that ultimately feeds into policymaking. We use data from the Higher Education Statistics Agency (HESA) to look at which groups are more or less well represented as academic economic researchers. We then examine economics students, to understand both the source of current under-representation and the prospects for change. Finally, we study some of the barriers faced by economics students.",
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "Ethnicity",
+      "Education"
+    ],
+    "research_section": null,
+    "policy_section": "policy_paper",
+    "venue": "IFS Briefing Note 307",
+    "venue_detail": null,
+    "doi": "10.1920/BN.IFS.2020.BN0307",
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": {
+      "label": "Data",
+      "url": "data/AdvaniSenWarwick2020_EthnicDiversityInUKEconomics.xlsx"
+    },
+    "links": [],
+    "media": [
+      {
+        "outlet": "Guardian",
+        "url": "https://www.theguardian.com/education/2020/oct/26/minority-ethnic-economists-under-represented-at-top-uk-universities"
+      },
+      {
+        "outlet": "Telegraph",
+        "url": "https://www.telegraph.co.uk/news/2020/10/26/lack-black-economists-leading-absence-passion-solving-societys/"
+      },
+      {
+        "outlet": "Resolution Foundation",
+        "url": "https://www.resolutionfoundation.org/comment/lacking-economic-diversity-and-losing-creativity/"
+      }
+    ]
+  },
+  {
+    "id": "WealthTax_InitialReport",
+    "order": 350,
+    "title": "Is it time for a UK Wealth Tax?",
+    "title_url": "https://www.ukwealth.tax/s/Is-It-Time-For-A-UK-Wealth-Tax.pdf",
+    "authors": "A. Advani, E. Chamberlain and A. Summers",
+    "year": 2020,
+    "abstract": "This report introduces the UK Wealth Tax Commission, which will evaluate whether a wealth tax for the UK would be desirable and deliverable. To do this we have commissioned a series of Evidence Papers that will study each of the key issues in detail. In this report we set out initial evidence on what has been happening to wealth and wealth taxation in the UK. We examine the provisional case for a wealth tax, and map some of the difficulties in implementing it.",
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "WealthInequality",
+      "TaxDesign"
+    ],
+    "research_section": null,
+    "policy_section": "policy_paper",
+    "venue": "Initial Report of the Wealth Tax Commission",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [
+      {
+        "label": "Launch event video",
+        "url": "https://www.youtube.com/watch?v=Yx4r4G7ZIP4"
+      }
+    ],
+    "media": [
+      {
+        "outlet": "Times Red Box",
+        "url": "https://www.thetimes.co.uk/article/the-rich-pay-more-tax-than-ever-but-some-hand-over-more-than-others-txk2pxcd3"
+      },
+      {
+        "outlet": "Financial Times",
+        "url": "https://www.ft.com/content/6166f5d2-a64b-4b57-9cb6-9699f50ca06a"
+      },
+      {
+        "outlet": "Times",
+        "url": "https://www.thetimes.co.uk/article/new-virus-symptom-revealed-a-wealth-tax-6kb8hpcnh"
+      }
+    ]
+  },
+  {
+    "id": "HowMuchTax",
+    "order": 340,
+    "title": "How much tax do the rich really pay? New evidence from tax microdata",
+    "title_url": "https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/bn27.2020.pdf",
+    "authors": "A. Advani and A. Summers",
+    "year": 2020,
+    "abstract": "This CAGE Policy Briefing summarises new research on the taxes paid by the UK's richest individuals, using anonymised data collected from the personal tax returns of everyone who received over £100,000 in total remuneration (taxable income plus taxable capital gains). It shows how tax paid as a share of income or total remuneration varies across individuals. It shows effective tax rates are much lower than headline rates, regressive at high levels of income or remuneration, and vary by up to a factor of five across people with the same remuneration. An Alternative Minimum Tax of 35% could raise around £11bn, equivalent to 2p on the basic rate or 5p on both the higher and additional rates.",
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "IncomeInequality",
+      "TaxDesign"
+    ],
+    "research_section": null,
+    "policy_section": "policy_paper",
+    "venue": "CAGE Policy Briefing 27",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": {
+      "label": "Data",
+      "url": "data/AdvaniSummers_HowMuchTaxDoTheRichReallyPay_data.xlsx"
+    },
+    "links": [
+      {
+        "label": "LSE Press Release",
+        "url": "http://www.lse.ac.uk/News/Latest-news-from-LSE/2020/f-June-20/Reform-UK-tax-to-rebuild-post-COVID-19-public-finances"
+      },
+      {
+        "label": "Launch event video",
+        "url": "https://www.youtube.com/watch?v=3AuehjY5Mfs"
+      },
+      {
+        "label": "LSE Business Review blogpost",
+        "url": "https://blogs.lse.ac.uk/businessreview/2020/06/15/raising-money-from-the-rich-doesnt-require-increasing-tax-rates/"
+      }
+    ],
+    "media": [
+      {
+        "outlet": "Financial Times",
+        "url": "https://www.ft.com/content/09f373cb-bda7-4989-8793-472ac338956a"
+      },
+      {
+        "outlet": "Independent",
+        "url": "https://www.independent.co.uk/news/business/news/wealthy-uk-tax-cost-rate-capital-gains-income-tax-a9566211.html"
+      },
+      {
+        "outlet": "Times",
+        "url": "https://www.thetimes.co.uk/article/minimum-tax-on-wealthy-would-raise-an-extra-11bn-dtkgkb6g9"
+      },
+      {
+        "outlet": "Accountancy Daily",
+        "url": "https://www.accountancydaily.co/call-alternative-minimum-tax-uks-richest"
+      },
+      {
+        "outlet": "London Economic",
+        "url": "https://www.thelondoneconomic.com/politics/a-tenth-of-uk-millionaires-paid-lower-rate-of-tax-than-someone-earning-just-15k/15/06/"
+      },
+      {
+        "outlet": "FT (later)",
+        "url": "https://www.ft.com/content/3771030c-b8ad-4da6-b0af-0311a8e82ec8"
+      },
+      {
+        "outlet": "Guardian (later)",
+        "url": "https://www.theguardian.com/politics/2021/oct/26/uk-shares-property-capital-gains-tax"
+      },
+      {
+        "outlet": "Guardian (column)",
+        "url": "https://www.theguardian.com/uk-news/2021/oct/26/why-capital-gains-tax-reform-should-be-top-of-rishi-sunak-list-budget"
+      }
+    ]
+  },
+  {
+    "id": "CapitalGainsAndInequality",
+    "order": 330,
+    "title": "Capital Gains and UK Inequality: New evidence from tax microdata",
+    "title_url": "https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/bn19.2020.pdf",
+    "authors": "A. Advani and A. Summers",
+    "year": 2020,
+    "abstract": "This CAGE Policy Briefing summarises new research on the impact of capital gains – which are excluded from existing income statistics – on measured inequality in the UK. It shows gains are highly concentrated, are persistent for a minority, and are rising. The richest have a larger share of total resources than previously thought, and it has been growing over time.",
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "IncomeInequality"
+    ],
+    "research_section": null,
+    "policy_section": "policy_paper",
+    "venue": "CAGE Policy Briefing 19",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": {
+      "label": "Data",
+      "url": "data/AdvaniSummers_CapitalGainsAndUKInequality_data.xlsx"
+    },
+    "links": [
+      {
+        "label": "Resolution Foundation Press Release",
+        "url": "https://www.resolutionfoundation.org/press-releases/top-1-per-cent-received-a-sixth-of-the-nations-income-pre-crisis-due-to-hidden-rise-of-capital-gains/"
+      },
+      {
+        "label": "Launch event video",
+        "url": "https://www.youtube.com/watch?v=GujKPL4HZKM&feature=youtu.be"
+      },
+      {
+        "label": "Advantage magazine article",
+        "url": "https://warwick.ac.uk/fac/soc/economics/research/centres/cage/news/03-06-20-advantage_magazine__summer/article-6/"
+      }
+    ],
+    "media": [
+      {
+        "outlet": "Independent",
+        "url": "https://www.independent.co.uk/news/uk/politics/richest-people-uk-inequality-income-capital-gains-resolution-foundation-a9524771.html"
+      },
+      {
+        "outlet": "Guardian",
+        "url": "https://www.theguardian.com/money/2020/may/21/top-1-of-british-earners-get-17-of-nations-income"
+      },
+      {
+        "outlet": "Mirror",
+        "url": "https://www.mirror.co.uk/news/politics/britains-richest-pocket-even-more-22059153"
+      },
+      {
+        "outlet": "Evening Standard",
+        "url": "https://www.standard.co.uk/business/top-one-per-cent-earners-income-a4447626.html"
+      },
+      {
+        "outlet": "Global Citizen",
+        "url": "https://www.globalcitizen.org/en/content/income-inequality-britain-capital-gains/"
+      },
+      {
+        "outlet": "Times Opinion",
+        "url": "https://www.thetimes.co.uk/article/time-for-the-wealthy-self-employed-to-pay-fair-share-of-tax-on-capital-gains-hxnm6qp59"
+      },
+      {
+        "outlet": "Guardian Opinion",
+        "url": "https://www.theguardian.com/commentisfree/2020/may/21/capital-gains-hyper-rich-new-report-coronavirus"
+      },
+      {
+        "outlet": "Independent Opinion",
+        "url": "https://www.independent.co.uk/news/business/comment/benefit-fraud-tax-avoidance-universal-credit-inequality-restoration-foundation-covid19-unemployment-a9526441.html"
+      },
+      {
+        "outlet": "Church Times",
+        "url": "https://www.churchtimes.co.uk/articles/2021/19-november/comment/opinion/richest-must-pay-up-for-costs-of-climate-crisis"
+      }
+    ]
+  },
+  {
+    "id": "WhoGains",
+    "order": 320,
+    "title": "Who gains? The importance of accounting for capital gains",
+    "title_url": "https://www.resolutionfoundation.org/app/uploads/2020/05/Who-gains.pdf",
+    "authors": "A. Corlett, A. Advani and A. Summers",
+    "year": 2020,
+    "abstract": "Capital gains (the profits from disposing of an asset for more than it was worth when you acquired it) are generally excluded from analysis of incomes in the UK, despite being a significant driver of some people's lifetime living standards. This Resolution Foundation Report looks at what we know about taxable capital gains; how our understanding of top income shares changes if we include capital gains in our analysis; and whether definitions of income used in official statistics should be changed or supplemented.",
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "IncomeInequality"
+    ],
+    "research_section": null,
+    "policy_section": "policy_paper",
+    "venue": "Resolution Foundation Report",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [
+      {
+        "label": "Resolution Foundation Press Release",
+        "url": "https://www.resolutionfoundation.org/press-releases/top-1-per-cent-received-a-sixth-of-the-nations-income-pre-crisis-due-to-hidden-rise-of-capital-gains/"
+      },
+      {
+        "label": "Launch event video",
+        "url": "https://www.youtube.com/watch?v=GujKPL4HZKM&feature=youtu.be"
+      },
+      {
+        "label": "Advantage magazine article",
+        "url": "https://warwick.ac.uk/fac/soc/economics/research/centres/cage/news/03-06-20-advantage_magazine__summer/article-6/"
+      }
+    ],
+    "media": [
+      {
+        "outlet": "Independent",
+        "url": "https://www.independent.co.uk/news/uk/politics/richest-people-uk-inequality-income-capital-gains-resolution-foundation-a9524771.html"
+      },
+      {
+        "outlet": "Guardian",
+        "url": "https://www.theguardian.com/money/2020/may/21/top-1-of-british-earners-get-17-of-nations-income"
+      },
+      {
+        "outlet": "Mirror",
+        "url": "https://www.mirror.co.uk/news/politics/britains-richest-pocket-even-more-22059153"
+      },
+      {
+        "outlet": "Evening Standard",
+        "url": "https://www.standard.co.uk/business/top-one-per-cent-earners-income-a4447626.html"
+      },
+      {
+        "outlet": "Global Citizen",
+        "url": "https://www.globalcitizen.org/en/content/income-inequality-britain-capital-gains/"
+      },
+      {
+        "outlet": "Times Opinion",
+        "url": "https://www.thetimes.co.uk/article/time-for-the-wealthy-self-employed-to-pay-fair-share-of-tax-on-capital-gains-hxnm6qp59"
+      },
+      {
+        "outlet": "Guardian Opinion",
+        "url": "https://www.theguardian.com/commentisfree/2020/may/21/capital-gains-hyper-rich-new-report-coronavirus"
+      },
+      {
+        "outlet": "Independent Opinion",
+        "url": "https://www.independent.co.uk/news/business/comment/benefit-fraud-tax-avoidance-universal-credit-inequality-resolution-foundation-covid19-unemployment-a9526441.html"
+      }
+    ]
+  },
+  {
+    "id": "WhoDoesAndDoesntPayTaxes_BN",
+    "order": 310,
+    "title": "Who does and doesn't pay taxes?",
+    "title_url": "https://ifs.org.uk/publications/who-does-and-doesnt-pay-taxes",
+    "authors": "A. Advani",
+    "year": 2017,
+    "abstract": "This IFS Briefing note uses data from HMRC's random audit programme to show which types of people are more likely to be under-reporting taxes and how their behaviour changes after a tax audit. The results are based on data from audits covering tax returns for the years 1999–2009.",
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "TaxCompliance"
+    ],
+    "research_section": null,
+    "policy_section": "policy_paper",
+    "venue": "IFS Briefing Note BN218",
+    "venue_detail": null,
+    "doi": "10.1920/BN.IFS.2017.BN0218",
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [
+      {
+        "label": "Press Release",
+        "url": "https://ifs.org.uk/news/36-self-assessment-tax-returns-under-report-tax-due-hmrc-bulk-self-assessment-tax-gap-due"
+      },
+      {
+        "label": "Advantage magazine article",
+        "url": "https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/uw_cage_mag_aut_19_amend.pdf"
+      }
+    ],
+    "media": []
+  },
+  {
+    "id": "FiscalPolicyProtectThePoor",
+    "order": 300,
+    "title": "How Can Fiscal Policies Be Designed To Protect The Poor? The Equity-efficiency Trade-off in Environmental Taxation",
+    "title_url": "papers/Advani2019_HowCanFiscalPoliciesBeDesignedToProtectThePoor.pdf",
+    "authors": "A. Advani",
+    "year": 2019,
+    "abstract": "This CAGE Policy Report chapter describes how policy can do more to protect the environment without having to hurt the least well-off.",
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "Environment"
+    ],
+    "research_section": null,
+    "policy_section": "policy_paper",
+    "venue": "Which way now? Economic policy after a decade of upheaval",
+    "venue_detail": "CAGE Policy Report",
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [
+      {
+        "label": "Video",
+        "url": "https://vimeo.com/82187318"
+      }
+    ],
+    "media": []
+  },
+  {
+    "id": "UncollectedTaxRevenue",
+    "order": 295,
+    "title": "Uncollected Tax Revenue – who is underpaying and what should we do about it?",
+    "title_url": "http://www.smf.co.uk/wp-content/uploads/2019/06/SMFBriefing_Advani_TaxCompliance-final-version.pdf",
+    "authors": "A. Advani",
+    "year": 2019,
+    "abstract": "This SMF-CAGE Briefing Paper explains which types of individuals are most likely to be non-compliant on their tax returns, and what can be done to improve compliance and raise tax revenue.",
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "TaxCompliance"
+    ],
+    "research_section": null,
+    "policy_section": "policy_paper",
+    "venue": "SMF-CAGE Briefing Paper",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [
+      {
+        "label": "SMF Press Release",
+        "url": "http://www.smf.co.uk/one-in-three-self-assessment-taxpayers-under-pay-costing-treasury-8-billion-a-year/"
+      },
+      {
+        "label": "Launch event video",
+        "url": "https://t.co/tZvdVvMhjx"
+      }
+    ],
+    "media": [
+      {
+        "outlet": "Times Red Box",
+        "url": "https://www.thetimes.co.uk/edition/news/want-extra-nurses-and-police-then-give-the-taxman-more-auditors-86lf8q7pp"
+      },
+      {
+        "outlet": "Financial Times",
+        "url": "https://t.co/VbTVDcLaA9"
+      },
+      {
+        "outlet": "Moneywise",
+        "url": "https://www.moneywise.co.uk/news/2019-06-11/third-self-assessed-workers-underpay-taxes-costing-the-treasury-billions-tax"
+      },
+      {
+        "outlet": "Financial Times (2019 Tax Gap)",
+        "url": "https://www.ft.com/content/8b555ab0-9372-11e9-b7ea-60e35ef678d2"
+      },
+      {
+        "outlet": "Independent (2019 Tax Gap)",
+        "url": "https://www.independent.co.uk/voices/hmrc-tax-gap-avoidance-billions-pounds-a8968591.html"
+      }
+    ]
+  },
+  {
+    "id": "CarbonTax_Efficiency",
+    "order": 285,
+    "title": "Energy use policies and carbon pricing in the UK",
+    "title_url": "https://ifs.org.uk/publications/energy-use-policies-and-carbon-pricing-uk",
+    "authors": "A. Advani, S. Bassi, A. Bowen, S. Fankhauser, P. Johnson, A. Leicester, and G. Stoye",
+    "year": 2013,
+    "abstract": "The report analyses and assesses: the rationale and objectives of energy policy; the current policy landscape faced by UK energy users; how current and future policy has led to inconsistencies in the implicit carbon prices faced by different users; and potential ways in which to improve policy affecting domestic and business energy users.",
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "Environment"
+    ],
+    "research_section": null,
+    "policy_section": "policy_paper",
+    "venue": "IFS Report 84",
+    "venue_detail": null,
+    "doi": "10.1920/re.ifs.2013.0084",
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [
+      {
+        "label": "Slides",
+        "url": "http://www.ifs.org.uk/sites/default/files/output_url_files/Stoye%2520presentation.pdf"
+      },
+      {
+        "label": "Press Release",
+        "url": "https://ifs.org.uk/news/inconsistent-taxes-energy-use-raise-costs-meeting-carbon-targets-and-need-be-overhauled"
+      }
+    ],
+    "media": []
+  },
+  {
+    "id": "CarbonTax_Equity",
+    "order": 275,
+    "title": "Household energy use in Britain: a distributional analysis",
+    "title_url": "https://ifs.org.uk/publications/household-energy-use-britain-distributional-analysis",
+    "authors": "A. Advani, P. Johnson, A. Leicester, and G. Stoye",
+    "year": 2013,
+    "abstract": "Government wants both to reduce carbon emissions and to reduce 'fuel poverty'. Energy prices have risen in part because of a multitude of policies aimed at reducing emissions. There are also multiple policies aimed at ameliorating these effects. Altogether, this leads to a complex policy landscape, inefficient pricing and opaque distributional effects. In this report, we show the effects of energy price rises over the recent past, look at what current policies mean for effective carbon prices and their impact on bills, and consider the distributional consequences of a more consistent approach to carbon pricing, alongside possible changes to the tax and benefit system that could mitigate these effects.",
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "Environment"
+    ],
+    "research_section": null,
+    "policy_section": "policy_paper",
+    "venue": "IFS Report 85",
+    "venue_detail": null,
+    "doi": "10.1920/re.ifs.2013.0085",
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [
+      {
+        "label": "Slides",
+        "url": "https://ifs.org.uk/sites/default/files/output_url_files/Advani%2520presentation.pdf"
+      },
+      {
+        "label": "Press Release",
+        "url": "https://ifs.org.uk/news/inconsistent-taxes-energy-use-raise-costs-meeting-carbon-targets-and-need-be-overhauled"
+      }
+    ],
+    "media": []
+  },
+  {
+    "id": "oped_Telegraph2025",
+    "order": 1000,
+    "title": "Britain's tax system is actively holding back the economy",
+    "title_url": "https://www.telegraph.co.uk/business/2025/11/05/britains-tax-system-is-actively-holding-back-the-economy/",
+    "authors": "A. Advani and A. Summers",
+    "year": 2025,
+    "abstract": null,
+    "pages": [
+      "policy"
+    ],
+    "topics": [],
+    "research_section": null,
+    "policy_section": "comment_oped",
+    "venue": "Telegraph",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "oped_FTLetter2025",
+    "order": 990,
+    "title": "Letter: Does the UK tax system 'eat the rich'? We don't think so",
+    "title_url": "https://www.ft.com/content/8a8ae59f-da6a-45a9-a7af-a53abf1326ff",
+    "authors": "A. Advani, K. Berg and W. Leenders",
+    "year": 2025,
+    "abstract": null,
+    "pages": [
+      "policy"
+    ],
+    "topics": [],
+    "research_section": null,
+    "policy_section": "comment_oped",
+    "venue": "Financial Times",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "oped_LSEInequalitiesCGT2024",
+    "order": 980,
+    "title": "The UK's Capital Gains Tax system needs reforming — here's how",
+    "title_url": "https://blogs.lse.ac.uk/inequalities/2024/10/23/the-uks-capital-gains-tax-system-needs-reforming-heres-how/",
+    "authors": "A. Advani, A. Lonsdale and A. Summers",
+    "year": 2024,
+    "abstract": null,
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "TaxDesign"
+    ],
+    "research_section": null,
+    "policy_section": "comment_oped",
+    "venue": "LSE Inequalities Blog",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "oped_NewStatesman2024growth",
+    "order": 970,
+    "title": "What kind of tax reforms would stimulate growth?",
+    "title_url": "https://www.newstatesman.com/spotlight/2024/10/what-kind-of-tax-reforms-would-stimulate-growth",
+    "authors": "A. Advani",
+    "year": 2024,
+    "abstract": null,
+    "pages": [
+      "policy"
+    ],
+    "topics": [],
+    "research_section": null,
+    "policy_section": "comment_oped",
+    "venue": "New Statesman",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "oped_NewStatesman2024nondom",
+    "order": 960,
+    "title": "The abolition of non-dom status is murkier than it looks",
+    "title_url": "https://www.newstatesman.com/comment/2024/03/abolition-non-dom-status-hunt",
+    "authors": "A. Advani, D. Burgherr and A. Summers",
+    "year": 2024,
+    "abstract": null,
+    "pages": [
+      "policy"
+    ],
+    "topics": [],
+    "research_section": null,
+    "policy_section": "comment_oped",
+    "venue": "New Statesman",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "oped_Conversation2024",
+    "order": 950,
+    "title": "Capital gains: Sunak and Starmer's tax bills show how the system benefits the rich",
+    "title_url": "https://theconversation.com/capital-gains-sunak-and-starmers-tax-bills-show-how-the-system-benefits-the-rich-224010",
+    "authors": "A. Advani, A. Lonsdale and A. Summers",
+    "year": 2024,
+    "abstract": null,
+    "pages": [
+      "policy"
+    ],
+    "topics": [],
+    "research_section": null,
+    "policy_section": "comment_oped",
+    "venue": "The Conversation",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "oped_LSEInequalitiesIHT2024",
+    "order": 940,
+    "title": "Too little, too late: Why we need to rethink inheritance tax",
+    "title_url": "https://blogs.lse.ac.uk/inequalities/2024/02/14/too-little-too-late-inheritance-tax/",
+    "authors": "A. Advani and D. Sturrock",
+    "year": 2024,
+    "abstract": null,
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "TaxDesign"
+    ],
+    "research_section": null,
+    "policy_section": "comment_oped",
+    "venue": "LSE Inequalities Blog",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "oped_EcoObs2024",
+    "order": 930,
+    "title": "#ElectionEconomics: What are the parties proposing on taxes?",
+    "title_url": "https://www.economicsobservatory.com/electioneconomics-what-are-the-parties-proposing-on-taxes",
+    "authors": "A. Advani",
+    "year": 2024,
+    "abstract": null,
+    "pages": [
+      "policy"
+    ],
+    "topics": [],
+    "research_section": null,
+    "policy_section": "comment_oped",
+    "venue": "Economics Observatory",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "oped_NewStatesman2023IHT",
+    "order": 920,
+    "title": "What is the point of inheritance tax?",
+    "title_url": "https://www.newstatesman.com/spotlight/economic-growth/economic-policy/2023/09/what-point-inheritance-tax",
+    "authors": "A. Advani and D. Sturrock",
+    "year": 2023,
+    "abstract": null,
+    "pages": [
+      "policy"
+    ],
+    "topics": [],
+    "research_section": null,
+    "policy_section": "comment_oped",
+    "venue": "New Statesman",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "oped_Guardian2023Zahawi",
+    "order": 910,
+    "title": "Nadhim Zahawi's tax row reveals an even bigger scandal: the rich are getting a tax break that those on low incomes can only dream of",
+    "title_url": "https://www.theguardian.com/uk-news/2023/feb/03/nadhim-zahawi-it-was-the-paltry-size-of-his-tax-bill-that-should-shock-us",
+    "authors": "A. Advani",
+    "year": 2023,
+    "abstract": null,
+    "pages": [
+      "policy"
+    ],
+    "topics": [],
+    "research_section": null,
+    "policy_section": "comment_oped",
+    "venue": "Guardian",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "oped_Guardian2023kleptocrats",
+    "order": 900,
+    "title": "Five ways kleptocrats can keep hold of their UK assets",
+    "title_url": "https://www.theguardian.com/business/2023/sep/04/five-ways-kleptocrats-can-keep-hold-of-their-uk-assets",
+    "authors": "A. Advani",
+    "year": 2023,
+    "abstract": null,
+    "pages": [
+      "policy"
+    ],
+    "topics": [],
+    "research_section": null,
+    "policy_section": "comment_oped",
+    "venue": "Guardian",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "oped_Guardian2023dirtymoney",
+    "order": 890,
+    "title": "MPs must close loophole to drive out dirty money from UK property",
+    "title_url": "https://www.theguardian.com/business/2023/jul/21/mps-must-close-loophole-to-drive-out-dirty-money-from-uk-property",
+    "authors": "A. Advani, A. Powell-Smith and A. Summers",
+    "year": 2023,
+    "abstract": null,
+    "pages": [
+      "policy"
+    ],
+    "topics": [],
+    "research_section": null,
+    "policy_section": "comment_oped",
+    "venue": "Guardian",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "oped_Guardian2022Hunt",
+    "order": 880,
+    "title": "Timid Jeremy Hunt fails to reform how rich are taxed",
+    "title_url": "https://www.theguardian.com/uk-news/2022/nov/18/timid-jeremy-hunt-fails-to-reform-how-rich-are-taxed",
+    "authors": "A. Advani",
+    "year": 2022,
+    "abstract": null,
+    "pages": [
+      "policy"
+    ],
+    "topics": [],
+    "research_section": null,
+    "policy_section": "comment_oped",
+    "venue": "Guardian",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "oped_Guardian2022_45p",
+    "order": 870,
+    "title": "Rationale behind abolition of 45p tax rate reflects failed ideology",
+    "title_url": "https://www.theguardian.com/business/2022/sep/29/rationale-behind-abolition-of-45p-tax-rate-reflects-failed-ideology",
+    "authors": "A. Advani, D. Burgherr and A. Summers",
+    "year": 2022,
+    "abstract": null,
+    "pages": [
+      "policy"
+    ],
+    "topics": [],
+    "research_section": null,
+    "policy_section": "comment_oped",
+    "venue": "Guardian",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "oped_NewStatesman2022nondom",
+    "order": 860,
+    "title": "Taxing non-doms fairly would raise billions",
+    "title_url": "https://www.newstatesman.com/spotlight/investment/2022/09/taxing-non-doms-fairly-would-raise-billions",
+    "authors": "A. Advani, D. Burgherr and A. Summers",
+    "year": 2022,
+    "abstract": null,
+    "pages": [
+      "policy"
+    ],
+    "topics": [],
+    "research_section": null,
+    "policy_section": "comment_oped",
+    "venue": "New Statesman",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "oped_Guardian2022energy",
+    "order": 850,
+    "title": "Three ways Sunak could raise £10bn to help Britons struggling with energy bills",
+    "title_url": "https://www.theguardian.com/money/2022/may/19/rishi-sunak-energy-bills-tax",
+    "authors": "A. Advani",
+    "year": 2022,
+    "abstract": null,
+    "pages": [
+      "policy"
+    ],
+    "topics": [],
+    "research_section": null,
+    "policy_section": "comment_oped",
+    "venue": "Guardian",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "oped_LSEWealthInequality2022",
+    "order": 840,
+    "title": "Official statistics underestimate wealth inequality in Britain",
+    "title_url": "https://blogs.lse.ac.uk/politicsandpolicy/official-statistics-underestimate-wealth-inequality/",
+    "authors": "A. Advani and H. Tarrant",
+    "year": 2022,
+    "abstract": "The latest statistics on Household Total Wealth in Great Britain from the ONS are a welcome but limited insight into what has been happening to wealth in Great Britain. Limitations in survey response means they will underestimate the share of wealth at the top. While they will not tell us what has happened as a result of the pandemic, we can use them to provide an educated guess.",
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "WealthInequality"
+    ],
+    "research_section": null,
+    "policy_section": "comment_oped",
+    "venue": "LSE Blog",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": {
+      "label": "Data",
+      "url": "data/AdvaniTarrant2022_OfficialStatsUnderestimateWealthInequality_data.xlsx"
+    },
+    "links": [
+      {
+        "label": "CAGE version",
+        "url": "https://warwick.ac.uk/fac/soc/economics/research/centres/cage/news/07-01-22-official_statistics_underestimate_wealth_inequality"
+      }
+    ],
+    "media": [
+      {
+        "outlet": "Guardian",
+        "url": "https://www.theguardian.com/money/2022/jan/07/richest-uk-households-worth-at-least-36m-each"
+      },
+      {
+        "outlet": "Independent",
+        "url": "https://www.independent.co.uk/news/business/household-wealth-richest-one-percent-poorest-ons-b1989181.html"
+      },
+      {
+        "outlet": "Financial Times",
+        "url": "https://www.ft.com/content/d52743ca-c669-4c71-941f-8281230a21b5"
+      }
+    ]
+  },
+  {
+    "id": "oped_Guardian2021CGT",
+    "order": 830,
+    "title": "Why capital gains tax reform should be top of Rishi Sunak's list",
+    "title_url": "https://www.theguardian.com/uk-news/2021/oct/26/why-capital-gains-tax-reform-should-be-top-of-rishi-sunak-list-budget",
+    "authors": "A. Advani",
+    "year": 2021,
+    "abstract": null,
+    "pages": [
+      "policy"
+    ],
+    "topics": [],
+    "research_section": null,
+    "policy_section": "comment_oped",
+    "venue": "Guardian",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "oped_NewStatesman2021CGT",
+    "order": 820,
+    "title": "Fix the taxation of capital gains",
+    "title_url": "https://www.newstatesman.com/spotlight/2021/09/fix-the-taxation-of-capital-gains",
+    "authors": "A. Advani",
+    "year": 2021,
+    "abstract": null,
+    "pages": [
+      "policy"
+    ],
+    "topics": [],
+    "research_section": null,
+    "policy_section": "comment_oped",
+    "venue": "New Statesman",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "oped_Guardian2021G7tax",
+    "order": 810,
+    "title": "The G7 corporate tax plan could make the world a fairer place to do business",
+    "title_url": "https://www.theguardian.com/commentisfree/2021/jun/10/g7-corporate-tax-plan-fairer-business",
+    "authors": "A. Advani and L. Gadenne",
+    "year": 2021,
+    "abstract": null,
+    "pages": [
+      "policy"
+    ],
+    "topics": [],
+    "research_section": null,
+    "policy_section": "comment_oped",
+    "venue": "Guardian",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "oped_Guardian2021Bidentax",
+    "order": 800,
+    "title": "Biden's corporate tax plan is simple, yet revolutionary. Will the UK sign up?",
+    "title_url": "https://www.theguardian.com/commentisfree/2021/apr/15/biden-corporate-tax-uk-economic-covid",
+    "authors": "A. Advani and L. Gadenne",
+    "year": 2021,
+    "abstract": null,
+    "pages": [
+      "policy"
+    ],
+    "topics": [],
+    "research_section": null,
+    "policy_section": "comment_oped",
+    "venue": "Guardian",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "oped_FTInvestorsChronicle2021",
+    "order": 790,
+    "title": "A wealth tax isn't perfect but it's better than the alternatives",
+    "title_url": "https://www.investorschronicle.co.uk/news/2021/01/14/a-wealth-tax-isn-t-perfect-but-it-s-better-than-the-alternatives/",
+    "authors": "A. Advani",
+    "year": 2021,
+    "abstract": null,
+    "pages": [
+      "policy"
+    ],
+    "topics": [],
+    "research_section": null,
+    "policy_section": "comment_oped",
+    "venue": "Financial Times Investors Chronicle",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "oped_VoxEU2021race",
+    "order": 780,
+    "title": "Economics and the study of race",
+    "title_url": "https://voxeu.org/article/economics-and-study-race",
+    "authors": "A. Advani, E. Ash, D. Cai and I. Rasul",
+    "year": 2021,
+    "abstract": "In the wake of last summer's Black Lives Matter protests, many have asked themselves what they are doing to tackle racial injustice. For economists, one central question is the extent to which the profession has examined the causes and consequences of racial inequality. This column reports evidence that race-related research in economic journals constitutes a far lower share than in comparable publications in sociology and political science. What's more, economists over-estimate the extent of race-related research done by the profession. Understanding why economists produce so little race-related research is essential if the discipline is going to be able to reform.",
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "Ethnicity"
+    ],
+    "research_section": null,
+    "policy_section": "comment_oped",
+    "venue": "VoxEU",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": [
+      {
+        "outlet": "Financial Times",
+        "url": "https://www.ft.com/content/4f953365-6661-4329-a615-1018f5756758"
+      },
+      {
+        "outlet": "Resolution Foundation",
+        "url": "https://www.resolutionfoundation.org/comment/poor-neighbourhoods-powerful-firms-and-missing-research-on-race/"
+      },
+      {
+        "outlet": "Center for Global Development",
+        "url": "https://www.cgdev.org/blog/economics-marginalia-may-28-2021"
+      }
+    ]
+  },
+  {
+    "id": "oped_Times2020rich",
+    "order": 770,
+    "title": "The rich pay more tax than ever — but some hand over more than others",
+    "title_url": "https://www.thetimes.co.uk/article/the-rich-pay-more-tax-than-ever-but-some-hand-over-more-than-others-txk2pxcd3",
+    "authors": "A. Advani and A. Summers",
+    "year": 2020,
+    "abstract": null,
+    "pages": [
+      "policy"
+    ],
+    "topics": [],
+    "research_section": null,
+    "policy_section": "comment_oped",
+    "venue": "Times",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "oped_LSEBusinessReview2020",
+    "order": 760,
+    "title": "Raising money from 'the rich' doesn't require increasing tax rates",
+    "title_url": "https://blogs.lse.ac.uk/businessreview/2020/06/15/raising-money-from-the-rich-doesnt-require-increasing-tax-rates/",
+    "authors": "A. Advani and A. Summers",
+    "year": 2020,
+    "abstract": null,
+    "pages": [
+      "policy"
+    ],
+    "topics": [],
+    "research_section": null,
+    "policy_section": "comment_oped",
+    "venue": "LSE Business Review",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "oped_VoxEU2020immigration",
+    "order": 750,
+    "title": "Importing inequality: Immigration and the top 1%",
+    "title_url": "https://voxeu.org/article/immigration-and-top-1",
+    "authors": "A. Advani, F. Koenig, L. Pessina and A. Summers",
+    "year": 2020,
+    "abstract": "Top incomes have grown rapidly in recent decades and this growth has sparked a debate about rising inequality in Western societies. This column combines data from UK tax records with new information on migrant status to show that migrants are highly represented at the top of the UK's income distribution. Indeed, migration can account for the majority of top-income growth in the past two decades and can help explain why the UK has experienced an outsized increase in top incomes.",
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "IncomeInequality",
+      "Migration"
+    ],
+    "research_section": null,
+    "policy_section": "comment_oped",
+    "venue": "VoxEU",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "oped_VoxEU2019diversity",
+    "order": 740,
+    "title": "Economics in the UK has a diversity problem that starts in schools and colleges",
+    "title_url": "https://voxeu.org/article/increasing-diversity-uk-economics",
+    "authors": "A. Advani, R. Griffith and S. Smith",
+    "year": 2019,
+    "abstract": "The future of UK economics is looking predominantly male and disproportionately privately educated. This column introduces #DiscoverEconomics – a campaign to increase diversity in economics led by the Royal Economic Society. The campaign aims to attract more women, ethnic minority students, and students from state schools and colleges to study the subject at university.",
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "Ethnicity",
+      "Education"
+    ],
+    "research_section": null,
+    "policy_section": "comment_oped",
+    "venue": "VoxEU",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [
+      {
+        "label": "Podcast discussion",
+        "url": "https://voxeu.org/vox-talks/increasing-diversity-economics"
+      }
+    ],
+    "media": [
+      {
+        "outlet": "The Economist",
+        "url": "https://www.economist.com/britain/2019/10/19/economists-try-to-broaden-the-appeal-of-the-dismal-science"
+      },
+      {
+        "outlet": "Financial Times",
+        "url": "https://www.ft.com/content/dac3b1d8-20fc-11ea-b8a1-584213ee7b2b"
+      },
+      {
+        "outlet": "Telegraph",
+        "url": "https://www.telegraph.co.uk/business/2019/10/14/can-new-campaign-help-women-break-economics-boys-club/"
+      }
+    ]
+  },
+  {
+    "id": "oped_Times2019auditors",
+    "order": 730,
+    "title": "Want extra nurses and police? Give the taxman more auditors",
+    "title_url": "https://www.thetimes.co.uk/article/want-extra-nurses-and-police-then-give-the-taxman-more-auditors-86lf8q7pp",
+    "authors": "A. Advani",
+    "year": 2019,
+    "abstract": null,
+    "pages": [
+      "policy"
+    ],
+    "topics": [],
+    "research_section": null,
+    "policy_section": "comment_oped",
+    "venue": "Times",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "oped_NewStatesman2019auditing",
+    "order": 720,
+    "title": "Recovering the missing billions: how auditing can improve tax collection",
+    "title_url": "https://www.newstatesman.com/business/economics/2019/09/recovering-missing-billions-how-auditing-can-improve-tax-collection",
+    "authors": "A. Advani",
+    "year": 2019,
+    "abstract": null,
+    "pages": [
+      "policy"
+    ],
+    "topics": [],
+    "research_section": null,
+    "policy_section": "comment_oped",
+    "venue": "New Statesman",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "oped_IFSGenderPayGap2021",
+    "order": 710,
+    "title": "Gender differences in subject choice leads to gender pay gap immediately after graduation",
+    "title_url": "https://ifs.org.uk/articles/gender-differences-subject-choice-leads-gender-pay-gap-immediately-after-graduation",
+    "authors": "A. Advani, S. Smith, B. Waltmann and X. Xu",
+    "year": 2021,
+    "abstract": "The gender pay gap opens up immediately after graduation, with male graduates earning 5% more than female graduates on average at age 25. Ten years after graduation – before most graduates start having children – the gender pay gap stands at 25%. Most of the initial gap can be explained by university subject choices, with women less likely to study subjects that lead to high-paying jobs.",
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "Education"
+    ],
+    "research_section": null,
+    "policy_section": "comment_oped",
+    "venue": "IFS Observation",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": [
+      {
+        "outlet": "Evening Standard",
+        "url": "https://www.standard.co.uk/news/uk/institute-for-fiscal-studies-ifs-male-women-economics-b958743.html"
+      },
+      {
+        "outlet": "i News",
+        "url": "https://inews.co.uk/news/education/male-graduates-earn-more-than-women-degree-choices-gap-1231466"
+      },
+      {
+        "outlet": "Telegraph",
+        "url": "https://www.telegraph.co.uk/news/2021/10/04/women-earn-less-choose-wrong-degrees-study-finds/"
+      }
+    ]
+  },
+  {
+    "id": "oped_IFSCarbonTaxDev2021",
+    "order": 700,
+    "title": "What is the case for carbon taxes in developing countries?",
+    "title_url": "https://ifs.org.uk/articles/what-case-carbon-taxes-developing-countries",
+    "authors": "A. Advani, D. Prinz, A. Smurra and R. Warwick",
+    "year": 2021,
+    "abstract": "Carbon pricing will be one of the most talked about policy options at COP26. The idea of carbon pricing is that putting a price on the emission of greenhouse gases (GHGs) to reflect the social costs of climate change should provide producers and consumers with strong incentives to reduce such emissions. In this observation, we consider the opportunities and risks from introducing carbon taxes in developing countries, with reference to Ethiopia and Ghana as case studies.",
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "Environment",
+      "Development"
+    ],
+    "research_section": null,
+    "policy_section": "comment_oped",
+    "venue": "IFS Observation",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "oped_IFSALevel2021",
+    "order": 690,
+    "title": "A Level Economics is a gateway to the economics profession",
+    "title_url": "https://ifs.org.uk/articles/level-economics-gateway-economics-profession",
+    "authors": "A. Advani, S. Sen and R. Warwick",
+    "year": 2021,
+    "abstract": "The economics profession – and the current student population studying economics – is not representative of society, with women, some ethnic minorities, and state school students underrepresented. While more than 7% of private school boys doing an undergraduate degree were studying economics in 2018/19, less than 1% of state school girls were. We highlight that interventions aimed at changing this picture need to consider the choices students make early on in their educational career.",
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "Education"
+    ],
+    "research_section": null,
+    "policy_section": "comment_oped",
+    "venue": "IFS Observation",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "oped_IFSCarbonPrices2011",
+    "order": 680,
+    "title": "Inconsistent and inefficient UK carbon prices",
+    "title_url": "https://ifs.org.uk/articles/inconsistent-and-inefficient-uk-carbon-prices",
+    "authors": "A. Advani, P. Levell, and G. Stoye",
+    "year": 2011,
+    "abstract": "An IFS Observation on the current state of carbon prices and environmental policy in the UK.",
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "Environment"
+    ],
+    "research_section": null,
+    "policy_section": "comment_oped",
+    "venue": "IFS Observation",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "oped_IFSHypothecation2011",
+    "order": 670,
+    "title": "Hyping hypothecation: should green tax revenues be earmarked?",
+    "title_url": "https://ifs.org.uk/articles/hyping-hypothecation-should-green-tax-revenues-be-earmarked",
+    "authors": "A. Advani, A. Leicester, and P. Levell",
+    "year": 2011,
+    "abstract": "An IFS Observation on the costs of hypothecating green taxes.",
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "Environment"
+    ],
+    "research_section": null,
+    "policy_section": "comment_oped",
+    "venue": "IFS Observation",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [
+      {
+        "label": "House of Commons Library Note SN01480",
+        "url": "http://researchbriefings.files.parliament.uk/documents/SN01480/SN01480.pdf",
+        "note": "cited here"
+      }
+    ],
+    "media": []
+  },
+  {
+    "id": "consult_TrustTransparency2024",
+    "order": 2000,
+    "title": "Submission to DBT/DLUHC/HMRC/HMT 'Transparency of Land Ownership Involving Trusts' Consultation",
+    "title_url": "papers/AdvaniPouxSummers2024_TrustTransparencySubmission.pdf",
+    "authors": "A. Advani, C. Poux and A. Summers",
+    "year": 2024,
+    "abstract": null,
+    "pages": [
+      "policy"
+    ],
+    "topics": [],
+    "research_section": null,
+    "policy_section": "consultation",
+    "venue": null,
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "consult_HMRCStats2023",
+    "order": 1990,
+    "title": "Submission to HMRC 'Changes to HMRC Statistics Publications' Consultation",
+    "title_url": "papers/AdvaniBurgherrHughsonSummers2023_ChangesToHMRCStatisticsPublicationsSubmission.pdf",
+    "authors": "A. Advani, D. Burgherr, H. Hughson and A. Summers",
+    "year": 2023,
+    "abstract": null,
+    "pages": [
+      "policy"
+    ],
+    "topics": [],
+    "research_section": null,
+    "policy_section": "consultation",
+    "venue": null,
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "consult_HMRCData2022",
+    "order": 1980,
+    "title": "Submission to HMRC 'Improving the data HMRC collects from its customers' Consultation",
+    "title_url": "papers/Advani2022_ImprovingTheDataHMRCCollectsFromItsCustomersSubmission.pdf",
+    "authors": "A. Advani",
+    "year": 2022,
+    "abstract": null,
+    "pages": [
+      "policy"
+    ],
+    "topics": [],
+    "research_section": null,
+    "policy_section": "consultation",
+    "venue": null,
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "consult_InclusiveStats2021",
+    "order": 1970,
+    "title": "Submission to UK Statistics Authority 'Inclusive Statistics' Consultation",
+    "title_url": "papers/Advani2021_InclusiveDataConsultationSubmission.pdf",
+    "authors": "A. Advani",
+    "year": 2021,
+    "abstract": null,
+    "pages": [
+      "policy"
+    ],
+    "topics": [],
+    "research_section": null,
+    "policy_section": "consultation",
+    "venue": null,
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "consult_HMRCReducingStats2021",
+    "order": 1960,
+    "title": "Submission to HMRC 'Reducing and Consolidating Official Statistics' Consultation",
+    "title_url": "papers/AdvaniSummersTarrant2021_ReducingAndConsolidatingOfficialStatisticsSubmission.pdf",
+    "authors": "A. Advani, A. Summers and H. Tarrant",
+    "year": 2021,
+    "abstract": null,
+    "pages": [
+      "policy"
+    ],
+    "topics": [],
+    "research_section": null,
+    "policy_section": "consultation",
+    "venue": null,
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "consult_CorporateTransparency2021",
+    "order": 1950,
+    "title": "Submission to BEIS 'Corporate Transparency and Register Reform' Consultation",
+    "title_url": "papers/AdvaniSummersTarrant2021_CorporateTransparencyAndRegisterReformSubmission.pdf",
+    "authors": "A. Advani, A. Summers and H. Tarrant",
+    "year": 2021,
+    "abstract": null,
+    "pages": [
+      "policy"
+    ],
+    "topics": [],
+    "research_section": null,
+    "policy_section": "consultation",
+    "venue": null,
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "consult_OTSCapitalGains2020",
+    "order": 1940,
+    "title": "Submission to OTS Capital Gains Tax review",
+    "title_url": "papers/AdvaniHughsonSummers2020_CapitalGainsTaxReviewSubmission.pdf",
+    "authors": "A. Advani, H. Hughson and A. Summers",
+    "year": 2020,
+    "abstract": null,
+    "pages": [
+      "policy"
+    ],
+    "topics": [],
+    "research_section": null,
+    "policy_section": "consultation",
+    "venue": null,
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "consult_TaxAfterCovid2020",
+    "order": 1930,
+    "title": "Submission to Treasury Select Committee 'Tax After Covid' Inquiry",
+    "title_url": "papers/AdvaniHughsonSummers2020_TaxAfterCoronavirusSubmission.pdf",
+    "authors": "A. Advani, H. Hughson and A. Summers",
+    "year": 2020,
+    "abstract": null,
+    "pages": [
+      "policy"
+    ],
+    "topics": [],
+    "research_section": null,
+    "policy_section": "consultation",
+    "venue": null,
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [
+      {
+        "label": "Submission relating to HMRC Datalab",
+        "url": "papers/AdvaniSummers2020_Datalab.pdf"
+      }
+    ],
+    "media": []
+  },
+  {
+    "id": "oped_Guardian2023IHTsugar",
+    "order": 915,
+    "title": "Why chancellor should avoid inheritance tax sugar rush in budget",
+    "title_url": "https://www.theguardian.com/politics/2023/dec/28/why-uk-chancellor-should-avoid-inheritance-tax-sugar-rush-in-budget",
+    "authors": "A. Advani",
+    "year": 2023,
+    "abstract": null,
+    "pages": [
+      "policy"
+    ],
+    "topics": [],
+    "research_section": null,
+    "policy_section": null,
+    "venue": "Guardian",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "NonDomReformsRevenueRealities",
+    "order": 575,
+    "title": "Non-dom reforms and revenue realities",
+    "title_url": "https://www.taxjournal.com/articles/non-dom-reforms-revenue-realities",
+    "authors": "A. Advani, D. Burgherr and A. Summers",
+    "year": 2025,
+    "abstract": null,
+    "pages": ["policy"],
+    "topics": ["TaxDesign", "Migration"],
+    "research_section": null,
+    "policy_section": "policy_paper",
+    "venue": "Tax Journal",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "IntroducingCenTax",
+    "order": 574,
+    "title": "Introducing CenTax: a new tax research centre",
+    "title_url": "https://www.taxjournal.com/articles/introducing-centax-a-new-tax-research-centre",
+    "authors": "A. Advani and A. Summers",
+    "year": 2025,
+    "abstract": null,
+    "pages": ["policy"],
+    "topics": null,
+    "research_section": null,
+    "policy_section": "comment_oped",
+    "venue": "Tax Journal",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "IHTSugarRush",
+    "order": 895,
+    "title": "Why chancellor should avoid inheritance tax sugar rush in budget",
+    "title_url": "https://www.theguardian.com/politics/2023/dec/28/why-uk-chancellor-should-avoid-inheritance-tax-sugar-rush-in-budget",
+    "authors": "A. Advani",
+    "year": 2023,
+    "abstract": null,
+    "pages": ["policy"],
+    "topics": ["TaxDesign"],
+    "research_section": null,
+    "policy_section": "comment_oped",
+    "venue": "Guardian",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "WealthTaxCovid_LSE",
+    "order": 765,
+    "title": "Is it time for a wealth tax to offset the economic damage from COVID-19?",
+    "title_url": "https://blogs.lse.ac.uk/businessreview/2020/12/09/is-it-time-for-a-wealth-tax-to-offset-the-economic-damage-from-covid-19/",
+    "authors": "A. Advani, E. Chamberlain and A. Summers",
+    "year": 2020,
+    "abstract": null,
+    "pages": ["policy"],
+    "topics": ["WealthInequality", "TaxDesign"],
+    "research_section": null,
+    "policy_section": "comment_oped",
+    "venue": "LSE Business Review",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  }
+]

@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+{% from "entry_macros.html" import render_entry %}
+
+{% set active_page = "researchbytopic" %}
+{% set meta_description = "Arun Advani's Research" %}
+
+{% block content %}
+    <div class="container">
+      <div class="page-header">
+        <div class="row">
+          <div class="col-md-10">
+            <div class="btn-group dropright">
+              <button
+                type="button"
+                class="btn btn-primary dropdown-toggle"
+                data-toggle="dropdown"
+                aria-haspopup="true"
+                aria-expanded="false"
+              >
+                &emsp;&emsp;Research Topics&emsp;&emsp;
+              </button>
+              <div class="dropdown-menu">
+                {% for topic in topics %}
+                <a class="dropdown-item" href="#{{ topic.id }}">{{ topic.name }}</a>
+                {% if not loop.last %}<br />{% endif %}
+                {% endfor %}
+              </div>
+            </div>
+
+            <br />
+            <br />
+          </div>
+        </div>
+
+        {% for topic in topics %}
+        {# --- {{ topic.name }} --- #}
+        <div class="row">
+          <div class="col-md-10">
+            <h2 id="{{ topic.id }}">{{ topic.name }}</h2>
+
+            {% for paper in topic.papers %}
+            {{ render_entry(paper) }}
+            {% endfor %}
+
+          </div>
+        </div>
+        {% if not loop.last %}<br />{% endif %}
+        {% endfor %}
+
+      </div>
+    </div>
+{% endblock %}

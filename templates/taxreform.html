@@ -1,0 +1,244 @@
+{% extends "base.html" %}
+
+{% set active_page = "taxreform" %}
+{% set page_title = "Tax Reform Revenue" %}
+{% set meta_description = "Tax Reform Simulator" %}
+
+{% block content %}
+<!-- NON-NAVBAR CONTENT -->
+    <br />
+    <br />
+
+    <div class="container">
+      <div class="page-header">
+
+    <!-- INTRO FRAMING -->
+         <div class="row">
+          <div class="col-md-10">
+            <h1 id="WealthTaxReforms">Reforms to the taxation of wealth</h1>
+            <div class="span10 offset1">
+              <div class="pAbstract">
+                The calculator below shows how much revenue could be raised from reforming the taxation of wealth. The table beneath provides more details on the reform proposal and links for further reading. <br>
+                <br>
+                <i>Note: if you are viewing this on a mobile, it currently works best in landscape orientation.</i>
+              </div>
+            </div>
+            <br>
+          </div>
+        </div>
+
+
+    <!-- IFRAME CONTAINING APP -->
+        <div class="row">
+          <div class="col-md-12">
+            <iframe height="800" width="100%" frameborder="no" src="https://arunadvani.shinyapps.io/TaxReformRevenue/"> </iframe>
+            <br />
+          </div>
+        </div>
+
+
+    <!-- TEXT ABOUT REFORMS -->
+         <div class="row">
+          <div class="col-md-12">
+            <div class="span10 offset1">
+              <div class="pAbstract">
+                The table below provides details for the reforms proposed, the standalone revenue raised (i.e. not accounting for the interactions modelled in the above simulator), and where further evidence on the revenue raised and details of reform can be found. <br>
+              </div>
+            </div>
+            <br>
+          </div>
+        </div>
+         <table class="table">
+          <thead>
+          <tr>
+            <th scope="col">Reform</th>
+            <th scope="col">Policy details</th>
+            <th scope="col">Revenue (standalone, 2023)</th>
+            <th scope="col">Evidence</th>
+          </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">Capital Gains Tax: equalise rates</th>
+              <td>
+                Equalisation of Capital Gains Tax (CGT) rate with tax on income.<br>
+                <i>Other reforms that would be valuable (but are not currently costed here) include</i><br>
+                Reintroduction of indexation (don't tax inflation).<br>
+                Removal of "death uplift" - current situation where tax is wiped out if you can afford to hold assets until you die.<br>
+                Averaging of gains over holding period, to smooth out 'lumpiness' - prevents someone with persistently low income but one-off high gains from being pushed into a high tax bracket.
+              </td>
+              <td>
+                16.7bn
+              </td>
+              <td>
+                <a
+                  href="https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/bn27.2020.pdf"
+                  >How much tax do the rich really pay?</a
+                >,<br>
+                <a
+                  href="https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/bn19.2020.pdf"
+                  >Capital Gains and UK Inequality</a
+                >,<br>
+                <a
+                  href="https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/wp589.2021.pdf"
+                  >The taxation of capital gains: principles, practice, and
+                  directions for reform</a
+                ><br>
+              </td>
+            </tr>
+            <tr>
+              <th scope="row">Non-dom regime: abolish or restrict</th>
+              <td>
+                Abolition of the non-dom regime, which allows some people to not pay UK tax on overseas returns from investment.<br>
+                <i>Or: </i>Restriction of the remittance basis to first 1-7y of residence.
+              </td>
+              <td>
+                3.8bn<br>
+                <i>Or: </i>3.5-1.4bn<br>
+              </td>
+              <td>
+                <a
+                  href="https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/bn38.2022.pdf"
+                  >Reforming the non-dom regime: revenue estimates</a
+                >
+              </td>
+            </tr>
+            <tr>
+               <th scope="row">National Insurance: extend to investment income</th>
+               <td>
+                 Extend National Insurance Contributions (NICs) to be paid at the same rate on income to landlords, to shareholders and from other investments as currently paid on income from work.
+               </td>
+               <td>
+                10.2bn
+               </td>
+               <td>
+                 <a
+                  href="https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/bn33.2021.pdf"
+                  >Fixing the gaps in National Insurance: A better way to fund
+                  social care</a
+                >
+               </td>
+             </tr>
+             <tr>
+               <th scope="row">National Insurance: extend to pensioners</th>
+               <td>
+                Extend National Insurance Contributions (NICs) to people over pension age on their income from current work and from investment, <i>but not including their pension income</i>.
+               </td>
+               <td>
+                1.7bn <br>
+                <i>Or:</i> 3.8bn, if first extending NICs to investment income
+               </td>
+               <td>
+                 <a
+                  href="https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/bn33.2021.pdf"
+                  >Fixing the gaps in National Insurance: A better way to fund
+                  social care</a
+                >
+               </td>
+             </tr>
+             <tr>
+               <th scope="row">National Insurance: remove cap for higher earners</th>
+               <td>
+                 Removing the "Upper Earnings Limit" (UEL), which means that National Insurance Contributions (NICs) are currently paid at a lower rate after around &pound;50k in income, dropping from 12% to 2% (currently, until April 2023, this is 13.25% to 3.25%).
+               </td>
+               <td>
+                19.6bn <br>
+                <i>Or:</i> 22.5bn if first extending NICs to investment income
+               </td>
+               <td>
+                 <a
+                  href="https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/bn33.2021.pdf"
+                  >Fixing the gaps in National Insurance: A better way to fund
+                  social care</a
+                >
+               </td>
+            </tr>
+            <tr>
+              <th scope="row">Annual Wealth Tax: wealth above &pound;10m</th>
+              <td>
+                Tax on the value of individual wealth in excess of &pound;10m.
+                Wealth includes net value of all assets, so includes pensions, property (accounting for share owned), and subtracts debts (including mortgages).
+                Tax applies only to the part of wealth in excess of &pound;10m, so someone with &pound;11m in assets would pay &pound;10k in tax.
+              </td>
+              <td>
+                1% tax raises 11.9bn
+              </td>
+              <td>
+                <a href="https://dx.doi.org/10.47445/WealthTaxFinalReport"
+                  >A wealth tax for the UK</a
+                >,<br>
+                <a href="https://dx.doi.org/10.47445/113"
+                  >Revenue and distributional modelling for a wealth tax</a
+                >,<br>
+                <a href="https://www.wealthandpolicy.com/wp/WealthTaxFinalReport_FAQ.pdf"
+                  >Frequently Asked Questions</a
+                >
+              </td>
+            </tr>
+            <tr>
+              <th scope="row">Inheritance tax: remove business relief</th>
+              <td>
+                Allows business wealth to be passed on tax-free.<br>
+              </td>
+              <td>
+                1.4bn
+              </td>
+              <td>
+                <a href="https://ifs.org.uk/publications/reforming-inheritance-tax"
+                  >Reforming Inheritance Tax</a
+                >
+              </td>
+            </tr>
+            <tr>
+              <th scope="row">Inheritance tax: remove pensions relief</th>
+              <td>
+                Allows people to pass on pension pots tax-free if they can afford not to start taking money from the pension before death.
+              </td>
+              <td>
+                0.2bn
+              </td>
+              <td>
+                <a href="https://ifs.org.uk/publications/reforming-inheritance-tax"
+                  >Reforming Inheritance Tax</a
+                >
+              </td>
+            </tr>
+            <tr>
+              <th scope="row">Inheritance tax: remove special treatment of housing</th>
+              <td>
+                Limits the tax-free amount for people who have little housing wealth, which is geographically very unequal, or who don't have children.
+              </td>
+              <td>
+                -0.7bn
+              </td>
+              <td>
+                <a href="https://ifs.org.uk/publications/reforming-inheritance-tax"
+                  >Reforming Inheritance Tax</a
+                >
+              </td>
+            </tr>
+          </tbody>
+          <tfoot>
+            <tr>
+              <td colspan="4">
+                <i>Notes:</i><br>
+                1. Figures in the table are based originally on the Evidence papers linked.
+                They have been uprated from the original calculation year by the growth in GDP (or forecast GDP for "five years time").
+                If existing trends continue, this is likely to underestimate the revenue raised, since these taxes are based on private wealth, which has been growing faster than GDP over the past few decades. Indeed, over the period that we can observe, growth in capital gains (for example) has substantially exceeded the growth rate of GDP.
+                <br>
+                2. Revenue estimates are, currently, a mix of "static" and "post-behavioural" calculations. Non-dom reform accounts for behavioural responses. This <a href="http://taxsimulator.ukwealth.tax">wealth tax simulator</a> provides more detailed, post-behavioural calculations for an annual wealth tax. Other reforms currently don't account for behavioural responses. This simulator will expand to account for more reforms and more responses over time. <br>
+                3. Tax interactions are incomplete. The simulator currently accounts for the effects any reform to the structure of National Insurance Contributions on other reforms to National Insurance Contributions. It also accounts for changes to National Insurance Contributions and Capital Gains Tax on the revenue raised from non-doms. However, other taxes interactions are not currently accounted for. For example, the introduction of an Annual Wealth Tax would also affect the revenue from non-doms. <br>
+                4. This simulator was launched in Nov 2022. In Oct 2023 it was updated to reflect (a) GDP growth to date; (b) additional evidence for Inheritance Tax; (c) removal of the reform to the 45p tax rate, since this reform was actually implemented. <br>
+              </td>
+            </tr>
+          </tfoot>
+        </table>
+
+
+      <br />
+
+      </div>
+      <!-- /.page-header -->
+    </div>
+    <!-- /.container -->
+{% endblock %}

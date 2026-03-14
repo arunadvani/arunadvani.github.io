@@ -1,0 +1,61 @@
+{% extends "base.html" %}
+{% from "entry_macros.html" import render_entry %}
+
+{% set active_page = "research" %}
+{% set meta_description = "Arun Advani's Research" %}
+
+{% block content %}
+    <div class="container">
+      <div class="page-header">
+        <div class="row">
+          <div class="col-md-10">
+            <div class="btn-group btn-group-justified">
+              <a href="#Working Papers" class="btn btn-primary">Working Papers</a>
+              <a href="#Published and Forthcoming Papers" class="btn btn-primary">Published and Forthcoming</a>
+              <a href="#Older Things" class="btn btn-primary">Older Things</a>
+              <a href="researchbytopic.html" class="btn btn-teach">By topic</a>
+            </div>
+            <br />
+          </div>
+        </div>
+
+        {# --- Working Papers --- #}
+        <div class="row">
+          <div class="col-md-10">
+            <h2 id="Working Papers">Working Papers</h2>
+
+            {% for paper in working_papers %}
+            {{ render_entry(paper) }}
+            {% endfor %}
+
+          </div>
+        </div>
+        <br />
+
+        {# --- Published and Forthcoming --- #}
+        <div class="row">
+          <div class="col-md-10">
+            <h2 id="Published and Forthcoming Papers">Published and Forthcoming</h2>
+
+            {% for paper in published_papers %}
+            {{ render_entry(paper) }}
+            {% endfor %}
+
+          </div>
+        </div>
+        <br />
+
+        {# --- Older Things --- #}
+        <div class="row">
+          <div class="col-md-10">
+            <h2 id="Older Things">Older Things</h2>
+
+            {% for paper in older_papers %}
+            {{ render_entry(paper) }}
+            {% endfor %}
+
+          </div>
+        </div>
+      </div>
+    </div>
+{% endblock %}

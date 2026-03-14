@@ -1,0 +1,64 @@
+{% extends "base.html" %}
+{% from "entry_macros.html" import render_entry %}
+
+{% set active_page = "policy" %}
+{% set meta_description = "Arun Advani's Policy Work" %}
+
+{% block content %}
+    <div class="container">
+      <div class="page-header">
+        <div class="row">
+          <div class="col-md-10">
+            <div class="btn-group btn-group-justified">
+              <a href="#Policy Papers" class="btn btn-primary">Policy Papers</a>
+              <a href="#Comments" class="btn btn-primary">Comments and Op-eds</a>
+              <a href="#Consultation submissions" class="btn btn-primary">Consultation submissions</a>
+              <a href="researchbytopic.html" class="btn btn-teach">By topic</a>
+            </div>
+            <br />
+          </div>
+        </div>
+
+        {# --- Policy Papers --- #}
+        <div class="row">
+          <div class="col-md-10">
+            <h2 id="Policy Papers">Policy Papers</h2>
+
+            {% for paper in policy_papers %}
+            {{ render_entry(paper, abstract_label="Summary") }}
+            {% endfor %}
+
+          </div>
+        </div>
+        <br />
+
+        {# --- Comments and Op-eds --- #}
+        <div class="row">
+          <div class="col-md-10">
+            <h2 id="Comments">Comments and Op-eds</h2>
+
+            {% for paper in comments %}
+            {{ render_entry(paper, abstract_label="Summary") }}
+            {% endfor %}
+
+            <!-- END OF PAPERS IN THIS SECTION -->
+          </div>
+        </div>
+        <br />
+
+        {# --- Consultation submissions --- #}
+        <div class="row">
+          <div class="col-md-10">
+            <h2 id="Consultation submissions">Consultation submissions</h2>
+
+            {% for paper in consultations %}
+            {{ render_entry(paper, abstract_label="Summary") }}
+            {% endfor %}
+
+          </div>
+        </div>
+      </div>
+      <!-- /.page-header -->
+    </div>
+    <!-- /.container -->
+{% endblock %}

@@ -1,0 +1,63 @@
+{# Macro to render a single paper/entry.
+   Expects a paper object with fields matching papers.json schema.
+   abstract_label: text for the toggle button — "Abstract" on research pages, "Summary" on policy page.
+#}
+{% macro render_entry(paper, abstract_label="Abstract") %}
+            <div class="span10 offset1">
+              <div class="pTitle"{% if paper.id %} id="{{ paper.id }}"{% endif %}>
+                {% if paper.title_url %}<a href="{{ paper.title_url }}">{{ paper.title }}</a>{% else %}{{ paper.title }}{% endif %}
+                {% for link in paper.links if link.label == "ungated" %}
+                <a href="{{ link.url }}">(ungated)</a>
+                {% endfor %}
+              </div>
+              <div class="pAuthors">
+                {{ paper.authors }}
+              </div>
+              {% if paper.doi %}
+              <div class="altmetric-embed"
+                data-badge-type="donut"
+                data-badge-popover="right"
+                data-hide-no-mentions="true"
+                data-doi="{{ paper.doi }}"></div>
+              {% endif %}
+              {% if paper.abstract %}
+              <div class="pComment">
+                <a class="abstract-toggle" data-toggle="collapse" href="#abstract-{{ paper.id }}" role="button" aria-expanded="false" aria-controls="abstract-{{ paper.id }}">{{ abstract_label }}</a>
+              </div>
+              {% endif %}
+              {% if paper.data %}
+              <div class="pComment">
+                <a href="{{ paper.data.url }}">Data</a>
+                {{ paper.data.note | default("for the charts.") }}
+              </div>
+              {% endif %}
+              {% for link in paper.links if link.label != "ungated" %}
+              <div class="pComment">
+                <a href="{{ link.url }}"{% if link.target %} target="{{ link.target }}"{% endif %}>{{ link.label }}</a>{% if link.note %} {{ link.note }}{% endif %}
+              </div>
+              {% endfor %}
+              {% if paper.media %}
+              <div class="pComment"><ins>Media coverage</ins></div>
+              <div class="pComment">
+                Coverage in
+                {% for item in paper.media.coverage %}
+                <a href="{{ item.url }}">{{ item.outlet }}</a>{% if not loop.last %}{% if loop.length == 2 %} and{% elif loop.revindex == 2 %}, and{% else %},{% endif %}{% endif %}
+                {% endfor %}.
+                {% if paper.media.opeds %}
+                Op-ed{{ "s" if paper.media.opeds | length > 1 else "" }} in
+                {% for item in paper.media.opeds %}
+                <a href="{{ item.url }}">{{ item.outlet }}</a>{% if not loop.last %}{% if loop.length == 2 %} and{% elif loop.revindex == 2 %}, and{% else %},{% endif %}{% endif %}
+                {% endfor %}.
+                {% endif %}
+              </div>
+              {% endif %}
+            </div>
+            {% if paper.abstract %}
+            <div class="span10 offset1 collapse" id="abstract-{{ paper.id }}">
+              <div class="pAbstract">
+                {{ paper.abstract }}
+              </div>
+            </div>
+            {% endif %}
+            <br />
+{% endmacro %}
