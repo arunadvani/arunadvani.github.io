@@ -21,42 +21,44 @@
                   style="display:inline-block; vertical-align:middle; margin-left:4px;"></div>
                 {% endif %}
               </div>
-              {% if paper.abstract %}
-              <details>
-                <summary class="pComment">{{ abstract_label }}</summary>
-                <div class="pAbstract">
-                  {{ paper.abstract }}
-                </div>
-              </details>
-              {% endif %}
               {% if paper.data %}
               <div class="pComment">
                 <a href="{{ paper.data.url }}">Data</a>
                 {{ paper.data.note | default("for the charts.") }}
               </div>
               {% endif %}
-              {% if paper.links | selectattr("label", "ne", "ungated") | list %}
-              <div class="pComment">
-                {% for link in paper.links if link.label != "ungated" %}
-                <a href="{{ link.url }}"{% if link.target %} target="{{ link.target }}"{% endif %}>{{ link.label }}</a>{% if link.note %} {{ link.note }}{% endif %}{% if not loop.last %}, {% endif %}
-                {% endfor %}
-              </div>
-              {% endif %}
-              {% if paper.media %}
-              <div class="pComment">
-                {% if paper.media.coverage %}
-                Media coverage in
-                {% for item in paper.media.coverage %}
-                <a href="{{ item.url }}">{{ item.outlet }}</a>{% if not loop.last %}{% if loop.length == 2 %} and{% elif loop.revindex == 2 %}, and{% else %},{% endif %}{% endif %}
-                {% endfor %}.
+              {% if paper.abstract or (paper.links | selectattr("label", "ne", "ungated") | list) or paper.media %}
+              <details>
+                <summary class="pComment">{{ abstract_label }}</summary>
+                {% if paper.abstract %}
+                <div class="pAbstract">
+                  {{ paper.abstract }}
+                </div>
                 {% endif %}
-                {% if paper.media.opeds %}
-                Op-ed{{ "s" if paper.media.opeds | length > 1 else "" }} in
-                {% for item in paper.media.opeds %}
-                <a href="{{ item.url }}">{{ item.outlet }}</a>{% if not loop.last %}{% if loop.length == 2 %} and{% elif loop.revindex == 2 %}, and{% else %},{% endif %}{% endif %}
-                {% endfor %}.
+                {% if paper.links | selectattr("label", "ne", "ungated") | list %}
+                <div class="pComment">
+                  {% for link in paper.links if link.label != "ungated" %}
+                  <a href="{{ link.url }}"{% if link.target %} target="{{ link.target }}"{% endif %}>{{ link.label }}</a>{% if link.note %} {{ link.note }}{% endif %}{% if not loop.last %}, {% endif %}
+                  {% endfor %}
+                </div>
                 {% endif %}
-              </div>
+                {% if paper.media %}
+                <div class="pComment">
+                  {% if paper.media.coverage %}
+                  Media coverage in
+                  {% for item in paper.media.coverage %}
+                  <a href="{{ item.url }}">{{ item.outlet }}</a>{% if not loop.last %}{% if loop.length == 2 %} and{% elif loop.revindex == 2 %}, and{% else %},{% endif %}{% endif %}
+                  {% endfor %}.
+                  {% endif %}
+                  {% if paper.media.opeds %}
+                  Op-ed{{ "s" if paper.media.opeds | length > 1 else "" }} in
+                  {% for item in paper.media.opeds %}
+                  <a href="{{ item.url }}">{{ item.outlet }}</a>{% if not loop.last %}{% if loop.length == 2 %} and{% elif loop.revindex == 2 %}, and{% else %},{% endif %}{% endif %}
+                  {% endfor %}.
+                  {% endif %}
+                </div>
+                {% endif %}
+              </details>
               {% endif %}
             </div>
             <br />

@@ -95,3 +95,10 @@ h2 {
     display: inline;
   }
 }
+details > summary {
+  list-style: disclosure-closed;
+  cursor: pointer;
+}
+details[open] > summary {
+  list-style: disclosure-open;
+}
