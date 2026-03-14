@@ -178,7 +178,12 @@ def build():
     taxreform_html = taxreform_template.render()
     (OUTPUT_DIR / "taxreform.html").write_text(taxreform_html, encoding="utf-8")
     print("  taxreform.html")
-
+    
+    # --- teaching.html ---
+    teaching_template = env.get_template("teaching.html")
+    teaching_html = teaching_template.render()
+    (OUTPUT_DIR / "teaching.html").write_text(teaching_html, encoding="utf-8")
+    print("  teaching.html")
 
 if __name__ == "__main__":
     print("Building site...")
