@@ -35,6 +35,7 @@ TOPIC_ORDER = [
     "IncomeInequality",
     "WealthInequality",
     "TaxCompliance",
+    "Transparency",
     "Ethnicity",
     "Education",
     "Environment",
