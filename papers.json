@@ -1,7 +1,41 @@
 [
   {
+    "id": "RegulationOfPoliticalDonations",
+    "order": 550,
+    "title": "The Regulation of Political Donations: Transparency, Foreign Interference and Tax Benefits",
+    "title_url": "https://centax.org.uk/wp-content/uploads/2026/03/AdvaniFlewGazmuribarkerInkleySummers2026_TheRegulationofPoliticalDonations.pdf",
+    "authors": "A. Advani, J. Flew, S. Gazmuri-Barker, J. Inkley, and A. Summers",
+    "year": 2026,
+    "abstract": "The UK’s regulation of political donations is built on the principles recommended by the Neill Committee in 1998: transparency in political giving, a ban on foreign donations, and setting a limit on campaign expenditure (which would reduce dependence on large donors). Corporate donations pose a particular challenge to the first two of these principles, as UK companies can be used to conceal the identity of the true donor or to allow foreign individuals to channel donations into UK politics. In this report we provide new empirical evidence of the extent to which corporate donations currently undermine the principles of transparency and the ban on foreign interference. Against that background, we assess the reforms proposed in the Representation of the People Bill which is currently going through parliament, and we present recommendations on how to strengthen the Bill to achieve its stated aims.",
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "Transparency"
+    ],
+    "research_section": null,
+    "policy_section": "policy_paper",
+    "venue": "CenTax Policy Report",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": {
+      "label": "Data",
+      "data/AdvaniFlewGazmuribarkerInkleySummers2026_TheRegulationofPoliticalDonations_data.xlsx"
+    },
+    "links": [],
+    "media": [
+      {
+        "outlet": "Guardian",
+        "url": "https://www.theguardian.com/politics/2026/mar/19/corporate-donations-uk-political-parties-foreign-interference-bill-loopholes-centax"
+      }
+    ]
+  },
+  {
     "id": "Incentives_RRR",
-    "order": 100,
+    "order": 545,
     "title": "Incentives to Produce Race-related Research",
     "title_url": "papers/AdvaniAshBoltachkaCaiRasul2025_IncentivesToProduceRaceRelatedResearch.pdf",
     "authors": "A. Advani, E. Ash, A. Boltachka, D. Cai, and I. Rasul",
@@ -27,7 +61,7 @@
   },
   {
     "id": "SuperrichMigration",
-    "order": 90,
+    "order": 520,
     "title": "Taxation and migration by the super-rich",
     "title_url": "papers/AdvaniBurgherrSummers2025_TaxationAndMigrationByTheSuperRich.pdf",
     "authors": "A. Advani, D. Burgherr, and A. Summers",
@@ -63,7 +97,7 @@
   },
   {
     "id": "CapitalGainsTaxPrivileged",
-    "order": 80,
+    "order": 500,
     "title": "Should Capital Gains be tax privileged?",
     "title_url": null,
     "authors": "A. Advani, H. Hughson, A. Lonsdale, and A. Summers",
@@ -94,7 +128,7 @@
   },
   {
     "id": "TopFlight",
-    "order": 70,
+    "order": 455,
     "title": "Top Flight: How responsive are top earners to tax rates?",
     "title_url": null,
     "authors": "A. Advani, C. Poux, and A. Summers",
@@ -126,7 +160,7 @@
   },
   {
     "id": "UKGlobalEconomicElite",
-    "order": 60,
+    "order": 215,
     "title": "The UK's Global Economic Elite: A sociological analysis using tax data",
     "title_url": "https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/wp570.2022.pdf",
     "authors": "A. Advani, D. Burgherr, M. Savage and A. Summers",
@@ -162,7 +196,7 @@
   },
   {
     "id": "CapitalGains",
-    "order": 50,
+    "order": 85,
     "title": "Capital Gains and Inequality",
     "title_url": "https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/wp465.2020.pdf",
     "authors": "A. Advani and A. Summers",
@@ -260,7 +294,7 @@
   },
   {
     "id": "JMP",
-    "order": 40,
+    "order": 30,
     "title": "Insurance Networks and Poverty Traps",
     "title_url": "papers/Advani2018_InsuranceNetworksAndPovertyTraps.pdf",
     "authors": "A. Advani",
@@ -272,7 +306,7 @@
     "topics": [
       "Development"
     ],
-    "research_section": "working_paper",
+    "research_section": "older",
     "policy_section": null,
     "venue": null,
     "venue_detail": null,
@@ -295,7 +329,7 @@
   },
   {
     "id": "MeltingPotOrSaladBowl",
-    "order": 30,
+    "order": 25,
     "title": "Melting Pot or Salad Bowl: The Formation of Heterogeneous Communities",
     "title_url": "https://ifs.org.uk/publications/melting-pot-or-salad-bowl-formation-heterogeneous-communities",
     "authors": "A. Advani and B. Reich",
@@ -305,9 +339,10 @@
       "research"
     ],
     "topics": [
-      "Migration","Ethnicity"
+      "Migration",
+      "Ethnicity"
     ],
-    "research_section": "working_paper",
+    "research_section": "older",
     "policy_section": null,
     "venue": null,
     "venue_detail": "IFS Working Paper W15/30",
@@ -321,7 +356,7 @@
   },
   {
     "id": "MeasuringUKTopWealth",
-    "order": 280,
+    "order": 535,
     "title": "Measuring top wealth shares in the UK",
     "title_url": "https://doi.org/10.1016/j.euroecorev.2025.105076",
     "authors": "A. Advani, A. Summers, and H. Tarrant",
@@ -347,7 +382,7 @@
   },
   {
     "id": "ImportingInequality",
-    "order": 290,
+    "order": 540,
     "title": "Immigration and the top 1 percent",
     "title_url": "https://direct.mit.edu/rest/article-abstract/doi/10.1162/rest_a_01408/119493/Immigration-and-the-Top-1-Percent",
     "authors": "A. Advani, F. Koenig, L. Pessina and A. Summers",
@@ -403,7 +438,7 @@
   },
   {
     "id": "RaceRelatedResearch_Economica",
-    "order": 270,
+    "order": 445,
     "title": "Race-related research in economics",
     "title_url": "http://doi.org/10.1111/ecca.70022",
     "authors": "A. Advani, E. Ash, A. Boltachka, D. Cai, and I. Rasul",
@@ -429,7 +464,7 @@
   },
   {
     "id": "RaceRelatedResearch_CUP",
-    "order": 260,
+    "order": 440,
     "title": "Race Related Research in Economics and other Social Sciences",
     "title_url": "https://doi.org/10.1017/9781009589888.014",
     "authors": "A. Advani, E. Ash, D. Cai and I. Rasul",
@@ -465,7 +500,7 @@
   },
   {
     "id": "HowMuchTax_Oxrep",
-    "order": 250,
+    "order": 195,
     "title": "How much tax do the rich really pay? Evidence from the UK",
     "title_url": "https://academic.oup.com/oxrep/article/39/3/406/7245704",
     "authors": "A. Advani, H. Hughson and A. Summers",
@@ -491,7 +526,7 @@
   },
   {
     "id": "Deaton",
-    "order": 240,
+    "order": 435,
     "title": "Measuring and taxing top incomes and wealth",
     "title_url": "https://doi.org/10.1093/ooec/odad063",
     "authors": "A. Advani and A. Summers",
@@ -531,7 +566,7 @@
   },
   {
     "id": "DynamicEffectsOfTaxAudits",
-    "order": 230,
+    "order": 200,
     "title": "The Dynamic Effects of Tax Audits",
     "title_url": "https://direct.mit.edu/rest/article/doi/10.1162/rest_a_01101/107397/The-Dynamic-Effects-of-Tax-Audits",
     "authors": "A. Advani, W. Elming, and J. Shaw",
@@ -627,7 +662,7 @@
   },
   {
     "id": "MeasuringUKTopIncomes",
-    "order": 220,
+    "order": 190,
     "title": "Measuring top income shares in the UK",
     "title_url": "https://doi.org/10.1093/jrsssa/qnac008",
     "authors": "A. Advani, A. Summers, and H. Tarrant",
@@ -661,7 +696,7 @@
   },
   {
     "id": "MissingIncomesInTheUK",
-    "order": 210,
+    "order": 205,
     "title": "Missing incomes in the UK: Evidence and policy implications",
     "title_url": "https://www.cambridge.org/core/journals/journal-of-social-policy/article/missing-incomes-in-the-uk-evidence-and-policy-implications/6F454FD9D74613B182631F9453EDB671",
     "authors": "A. Advani, T. Ooms, and A. Summers",
@@ -687,7 +722,7 @@
   },
   {
     "id": "WhoDoesAndDoesntPayTaxes",
-    "order": 200,
+    "order": 175,
     "title": "Who does and doesn't pay taxes?",
     "title_url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/1475-5890.12257",
     "authors": "A. Advani",
@@ -722,7 +757,7 @@
   },
   {
     "id": "TaxationOfCapitalGains",
-    "order": 190,
+    "order": 170,
     "title": "The taxation of capital gains: principles, practice, and directions for reform",
     "title_url": "https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/wp589.2021.pdf",
     "authors": "A. Advani",
@@ -748,7 +783,7 @@
   },
   {
     "id": "WealthTax_SpecialIssueIntro",
-    "order": 180,
+    "order": 160,
     "title": "Taxes on wealth: time for another look?",
     "title_url": "https://onlinelibrary.wiley.com/doi/10.1111/1475-5890.12289",
     "authors": "A. Advani, H. Miller and A. Summers",
@@ -775,7 +810,7 @@
   },
   {
     "id": "WealthTax_Modelling",
-    "order": 170,
+    "order": 135,
     "title": "Revenue and distributional modelling for a wealth tax",
     "title_url": "https://onlinelibrary.wiley.com/doi/10.1111/1475-5890.12280",
     "authors": "A. Advani, H. Hughson and H. Tarrant",
@@ -817,7 +852,7 @@
   },
   {
     "id": "WealthTax_BehaviouralResponses",
-    "order": 160,
+    "order": 130,
     "title": "Behavioural responses to a wealth tax",
     "title_url": "https://onlinelibrary.wiley.com/doi/10.1111/1475-5890.12283",
     "authors": "A. Advani and H. Tarrant",
@@ -839,17 +874,17 @@
     "invited": false,
     "data": null,
     "links": [
-        {
-            "label": "Wealth and Policy Working Paper 105",
-            "url": "https://dx.doi.org/10.47445/105",
-            "note": "earlier version"
-        }
+      {
+        "label": "Wealth and Policy Working Paper 105",
+        "url": "https://dx.doi.org/10.47445/105",
+        "note": "earlier version"
+      }
     ],
     "media": []
   },
   {
     "id": "WealthTax_WealthDistribution",
-    "order": 150,
+    "order": 125,
     "title": "The UK's wealth distribution and characteristics of high-wealth households",
     "title_url": "https://onlinelibrary.wiley.com/doi/10.1111/1475-5890.12286",
     "authors": "A. Advani, G. Bangham and J. Leslie",
@@ -874,11 +909,11 @@
       "url": "data/AdvaniBanghamLeslie2021_TheUKWealthDistribution.xlsx"
     },
     "links": [
-        {
-            "label": "Wealth and Policy Working Paper 101",
-            "url": "https://dx.doi.org/10.47445/101",
-            "note": "earlier version"
-        }
+      {
+        "label": "Wealth and Policy Working Paper 101",
+        "url": "https://dx.doi.org/10.47445/101",
+        "note": "earlier version"
+      }
     ],
     "media": [
       {
@@ -913,7 +948,7 @@
   },
   {
     "id": "EMCS",
-    "order": 140,
+    "order": 120,
     "title": "Mostly Harmless Simulations? Using Monte Carlo Studies for Estimator Selection",
     "title_url": "https://onlinelibrary.wiley.com/doi/10.1002/jae.2724",
     "authors": "A. Advani, T. Kitagawa and T. Słoczyński",
@@ -939,7 +974,7 @@
   },
   {
     "id": "CrediblyIdentifyingSocialEffects",
-    "order": 130,
+    "order": 115,
     "title": "Credibly Identifying Social Effects: Accounting for Network Formation and Measurement Error",
     "title_url": "http://onlinelibrary.wiley.com/doi/10.1111/joes.12256",
     "authors": "A. Advani and B. Malde",
@@ -965,7 +1000,7 @@
   },
   {
     "id": "CheaperGreenerAndMoreEfficient",
-    "order": 120,
+    "order": 45,
     "title": "Cheaper, Greener, and More Efficient: Rationalising UK Carbon Prices",
     "title_url": "http://onlinelibrary.wiley.com/doi/10.1111/1475-5890.12097/full",
     "authors": "A. Advani and G. Stoye",
@@ -991,7 +1026,7 @@
   },
   {
     "id": "MethodsToIdentifyLinearNetworkModels",
-    "order": 110,
+    "order": 60,
     "title": "Methods to Identify Linear Network Models: A Review",
     "title_url": "https://link.springer.com/article/10.1186/s41937-017-0011-x",
     "authors": "A. Advani and B. Malde",
@@ -1017,7 +1052,7 @@
   },
   {
     "id": "EmpiricalMethodsForNetworksData",
-    "order": 10,
+    "order": 55,
     "title": "Empirical Methods for Networks Data: Social Effects, Network Formation and Measurement Error",
     "title_url": "https://ifs.org.uk/sites/default/files/output_url_files/WP201434.pdf",
     "authors": "A. Advani and B. Malde",
@@ -1053,7 +1088,7 @@
   },
   {
     "id": "BudgetResponse2025",
-    "order": 600,
+    "order": 525,
     "title": "CenTax Budget Response 2025",
     "title_url": "https://centax.org.uk/wp-content/uploads/2025/12/Budget_response_25.pdf",
     "authors": "CenTax",
@@ -1079,7 +1114,7 @@
   },
   {
     "id": "TaxReformsForGrowth",
-    "order": 590,
+    "order": 530,
     "title": "Tax Reforms for Growth",
     "title_url": "https://centax.org.uk/tax-reforms-for-growth/",
     "authors": "A. Summers, A. Advani, C. Jung, C. Belfield, D. Neidle, H. Peaker, J. Howat, J. Lawson, R. Colvile and R. Shorthouse",
@@ -1105,7 +1140,7 @@
   },
   {
     "id": "PartnershipNICs",
-    "order": 580,
+    "order": 510,
     "title": "Equalising National Insurance on Partnership Income: Revenue and Distributional Effects",
     "title_url": "https://centax.org.uk/policy-report-equalising-national-insurance-on-partnership-income-revenue-and-distributional-effects/",
     "authors": "A. Advani, S. Gazmuri-Barker, A. Lonsdale and A. Summers",
@@ -1134,7 +1169,7 @@
   },
   {
     "id": "IHT_farm",
-    "order": 570,
+    "order": 505,
     "title": "The Impact of Changes to Inheritance Tax on Farm Estates",
     "title_url": "https://centax.org.uk/policy-brief-the-impact-of-changes-to-inheritance-tax-on-farm-estates/",
     "authors": "A. Advani, S. Gazmuri-Barker, S. Mahajan and A. Summers",
@@ -1163,7 +1198,7 @@
   },
   {
     "id": "Carry_KeyFacts",
-    "order": 560,
+    "order": 495,
     "title": "Ten Key Facts about Carried Interest",
     "title_url": "https://centax.org.uk/ten-key-facts-about-carried-interest/",
     "authors": "A. Advani, S. Gazmuri-Barker, S. Mahajan and A. Summers",
@@ -1192,7 +1227,7 @@
   },
   {
     "id": "Carry_reform",
-    "order": 550,
+    "order": 490,
     "title": "Reforming the Taxation of Carried Interest: Revenue Modelling",
     "title_url": "https://centax.org.uk/reforming-the-taxation-of-carried-interest-revenue-modeling/",
     "authors": "A. Advani, S. Gazmuri-Barker, S. Mahajan, C. Poux and A. Summers",
@@ -1218,7 +1253,7 @@
   },
   {
     "id": "IHT_reliefs",
-    "order": 540,
+    "order": 485,
     "title": "Inheritance Tax reliefs: time for reform?",
     "title_url": "https://centax.org.uk/wp-content/uploads/2024/10/AdvaniDisslbacherForresterSummers2024_IHTReliefs.pdf",
     "authors": "A. Advani, F. Disslbacher, J. Forrester and A. Summers",
@@ -1247,7 +1282,7 @@
   },
   {
     "id": "CGT_reform",
-    "order": 530,
+    "order": 480,
     "title": "Reforming Capital Gains Tax: Revenue and Distributional Effects",
     "title_url": "https://centax.org.uk/wp-content/uploads/2024/10/AdvaniLonsdaleSummers2024_CGTReform.pdf",
     "authors": "A. Advani, A. Lonsdale and A. Summers",
@@ -1276,7 +1311,7 @@
   },
   {
     "id": "CGT_misallocation",
-    "order": 520,
+    "order": 475,
     "title": "The productivity cost of low Capital Gains Tax rates",
     "title_url": "https://centax.org.uk/wp-content/uploads/2024/10/AdvaniHughsonInkleyLonsdaleSummers2024_ProductivityCostOfLowCapitalGainsTaxRates.pdf",
     "authors": "A. Advani, H. Hughson, J. Inkley, A. Lonsdale and A. Summers",
@@ -1302,7 +1337,7 @@
   },
   {
     "id": "ROADDD_Empirics",
-    "order": 510,
+    "order": 470,
     "title": "Business owners who emigrate: Evidence from Companies House records",
     "title_url": "https://centax.org.uk/wp-content/uploads/2024/10/AdvaniPouxSummers2024_BusinessOwnersWhoEmigrate.pdf",
     "authors": "A. Advani, C. Poux and A. Summers",
@@ -1329,7 +1364,7 @@
   },
   {
     "id": "CGT_IFS",
-    "order": 500,
+    "order": 465,
     "title": "Capital Gains Tax reform",
     "title_url": "https://ifs.org.uk/publications/capital-gains-tax-reform",
     "authors": "S. Adam, A. Advani, H. Miller and A. Summers",
@@ -1363,7 +1398,7 @@
   },
   {
     "id": "MoneyForNothing",
-    "order": 490,
+    "order": 450,
     "title": "Money for Nothing? Critically assessing inheritance tax reliefs",
     "title_url": "https://www.brightblue.org.uk/wp-content/uploads/2024/03/BB-Essay-Collection-March2024_PRF08-Interactive.pdf",
     "authors": "A. Advani and D. Sturrock",
@@ -1389,7 +1424,7 @@
   },
   {
     "id": "CGT_descriptives",
-    "order": 480,
+    "order": 460,
     "title": "Who would be affected by Capital Gains Tax reform?",
     "title_url": "https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/bn40.2024.pdf",
     "authors": "A. Advani, A. Lonsdale and A. Summers",
@@ -1447,7 +1482,7 @@
   },
   {
     "id": "IHT_GB",
-    "order": 470,
+    "order": 420,
     "title": "Reforming Inheritance Tax",
     "title_url": "https://ifs.org.uk/publications/reforming-inheritance-tax",
     "authors": "A. Advani and D. Sturrock",
@@ -1517,7 +1552,7 @@
   },
   {
     "id": "ROE",
-    "order": 460,
+    "order": 415,
     "title": "Catch me if you can: Gaps in the Register of Overseas Entities",
     "title_url": "https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/wp680.2023.pdf",
     "authors": "A. Advani, C. Poux, A. Powell-Smith and A. Summers",
@@ -1527,7 +1562,7 @@
       "policy"
     ],
     "topics": [
-      "TaxCompliance"
+      "TaxCompliance", "Transparency"
     ],
     "research_section": null,
     "policy_section": "policy_paper",
@@ -1572,7 +1607,7 @@
   },
   {
     "id": "TaxPolicyEvidence",
-    "order": 450,
+    "order": 410,
     "title": "How is evidence used in tax policy making?",
     "title_url": "https://www.instituteforgovernment.org.uk/publication/evidence-used-tax-policy-making",
     "authors": "T. Pope, G. Tetlow and A. Advani",
@@ -1598,7 +1633,7 @@
   },
   {
     "id": "WealthTaxDebateContinues",
-    "order": 440,
+    "order": 405,
     "title": "Wealth tax: the debate continues",
     "title_url": "https://www.taxjournal.com/articles/wealth-tax-the-debate-continues",
     "authors": "A. Advani, E. Chamberlain and A. Summers",
@@ -1625,7 +1660,7 @@
   },
   {
     "id": "UKNondoms_basics",
-    "order": 430,
+    "order": 220,
     "title": "Non-doms: basics and case for reform",
     "title_url": "papers/AdvaniBurgherrSummers_NondomBasics.pdf",
     "authors": "A. Advani, D. Burgherr and A. Summers",
@@ -1635,7 +1670,6 @@
       "policy"
     ],
     "topics": [
-      "IncomeInequality",
       "TaxDesign",
       "Migration"
     ],
@@ -1653,7 +1687,7 @@
   },
   {
     "id": "UKNondoms_revenueEstimates",
-    "order": 420,
+    "order": 210,
     "title": "Reforming the non-dom regime: revenue estimates",
     "title_url": "https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/bn38.2022.pdf",
     "authors": "A. Advani, D. Burgherr and A. Summers",
@@ -1663,7 +1697,6 @@
       "policy"
     ],
     "topics": [
-      "IncomeInequality",
       "TaxDesign",
       "Migration"
     ],
@@ -1710,7 +1743,7 @@
   },
   {
     "id": "UKNondoms_whoWhatWhere",
-    "order": 410,
+    "order": 185,
     "title": "The UK's 'non-doms': Who are they, what do they do, and where do they live?",
     "title_url": "https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/bn36.2022.pdf",
     "authors": "A. Advani, D. Burgherr, M. Savage and A. Summers",
@@ -1746,7 +1779,7 @@
   },
   {
     "id": "STRL_WealthAndConnections",
-    "order": 400,
+    "order": 180,
     "title": "Who are the super-rich? The wealth and connections of the Sunday Times Rich List",
     "title_url": "https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/bn37.2022.pdf",
     "authors": "A. Advani, A. Summers and H. Tarrant",
@@ -1777,7 +1810,7 @@
   },
   {
     "id": "NICs",
-    "order": 390,
+    "order": 165,
     "title": "Fixing the gaps in National Insurance: A better way to fund social care",
     "title_url": "https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/bn33.2021.pdf",
     "authors": "A. Advani, H. Hughson, A. Summers and H. Tarrant",
@@ -1820,7 +1853,7 @@
   },
   {
     "id": "WealthTax_CaseForOneOff",
-    "order": 380,
+    "order": 155,
     "title": "The case for a one-off wealth tax",
     "title_url": "https://www.taxjournal.com/articles/the-case-for-a-one-off-wealth-tax",
     "authors": "A. Advani, E. Chamberlain and A. Summers",
@@ -1856,7 +1889,7 @@
   },
   {
     "id": "WealthTax_FinalReport",
-    "order": 370,
+    "order": 145,
     "title": "A wealth tax for the UK",
     "title_url": "https://dx.doi.org/10.47445/WealthTaxFinalReport",
     "authors": "A. Advani, E. Chamberlain and A. Summers",
@@ -1917,7 +1950,7 @@
   },
   {
     "id": "EthnicDiversityInUKEconomics",
-    "order": 360,
+    "order": 140,
     "title": "Ethnic diversity in UK economics",
     "title_url": "https://ifs.org.uk/publications/ethnic-diversity-uk-economics",
     "authors": "A. Advani, S. Sen and R. Warwick",
@@ -1960,7 +1993,7 @@
   },
   {
     "id": "WealthTax_InitialReport",
-    "order": 350,
+    "order": 110,
     "title": "Is it time for a UK Wealth Tax?",
     "title_url": "https://www.ukwealth.tax/s/Is-It-Time-For-A-UK-Wealth-Tax.pdf",
     "authors": "A. Advani, E. Chamberlain and A. Summers",
@@ -2005,7 +2038,7 @@
   },
   {
     "id": "HowMuchTax",
-    "order": 340,
+    "order": 100,
     "title": "How much tax do the rich really pay? New evidence from tax microdata",
     "title_url": "https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/bn27.2020.pdf",
     "authors": "A. Advani and A. Summers",
@@ -2081,7 +2114,7 @@
   },
   {
     "id": "CapitalGainsAndInequality",
-    "order": 330,
+    "order": 95,
     "title": "Capital Gains and UK Inequality: New evidence from tax microdata",
     "title_url": "https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/bn19.2020.pdf",
     "authors": "A. Advani and A. Summers",
@@ -2160,7 +2193,7 @@
   },
   {
     "id": "WhoGains",
-    "order": 320,
+    "order": 90,
     "title": "Who gains? The importance of accounting for capital gains",
     "title_url": "https://www.resolutionfoundation.org/app/uploads/2020/05/Who-gains.pdf",
     "authors": "A. Corlett, A. Advani and A. Summers",
@@ -2232,7 +2265,7 @@
   },
   {
     "id": "WhoDoesAndDoesntPayTaxes_BN",
-    "order": 310,
+    "order": 70,
     "title": "Who does and doesn't pay taxes?",
     "title_url": "https://ifs.org.uk/publications/who-does-and-doesnt-pay-taxes",
     "authors": "A. Advani",
@@ -2267,7 +2300,7 @@
   },
   {
     "id": "FiscalPolicyProtectThePoor",
-    "order": 300,
+    "order": 50,
     "title": "How Can Fiscal Policies Be Designed To Protect The Poor? The Equity-efficiency Trade-off in Environmental Taxation",
     "title_url": "papers/Advani2019_HowCanFiscalPoliciesBeDesignedToProtectThePoor.pdf",
     "authors": "A. Advani",
@@ -2298,7 +2331,7 @@
   },
   {
     "id": "UncollectedTaxRevenue",
-    "order": 295,
+    "order": 80,
     "title": "Uncollected Tax Revenue – who is underpaying and what should we do about it?",
     "title_url": "http://www.smf.co.uk/wp-content/uploads/2019/06/SMFBriefing_Advani_TaxCompliance-final-version.pdf",
     "authors": "A. Advani",
@@ -2354,7 +2387,7 @@
   },
   {
     "id": "CarbonTax_Efficiency",
-    "order": 285,
+    "order": 40,
     "title": "Energy use policies and carbon pricing in the UK",
     "title_url": "https://ifs.org.uk/publications/energy-use-policies-and-carbon-pricing-uk",
     "authors": "A. Advani, S. Bassi, A. Bowen, S. Fankhauser, P. Johnson, A. Leicester, and G. Stoye",
@@ -2389,7 +2422,7 @@
   },
   {
     "id": "CarbonTax_Equity",
-    "order": 275,
+    "order": 35,
     "title": "Household energy use in Britain: a distributional analysis",
     "title_url": "https://ifs.org.uk/publications/household-energy-use-britain-distributional-analysis",
     "authors": "A. Advani, P. Johnson, A. Leicester, and G. Stoye",
@@ -2424,7 +2457,7 @@
   },
   {
     "id": "oped_Telegraph2025",
-    "order": 1000,
+    "order": 395,
     "title": "Britain's tax system is actively holding back the economy",
     "title_url": "https://www.telegraph.co.uk/business/2025/11/05/britains-tax-system-is-actively-holding-back-the-economy/",
     "authors": "A. Advani and A. Summers",
@@ -2448,7 +2481,7 @@
   },
   {
     "id": "oped_FTLetter2025",
-    "order": 990,
+    "order": 390,
     "title": "Letter: Does the UK tax system 'eat the rich'? We don't think so",
     "title_url": "https://www.ft.com/content/8a8ae59f-da6a-45a9-a7af-a53abf1326ff",
     "authors": "A. Advani, K. Berg and W. Leenders",
@@ -2472,7 +2505,7 @@
   },
   {
     "id": "oped_LSEInequalitiesCGT2024",
-    "order": 980,
+    "order": 388,
     "title": "The UK's Capital Gains Tax system needs reforming — here's how",
     "title_url": "https://blogs.lse.ac.uk/inequalities/2024/10/23/the-uks-capital-gains-tax-system-needs-reforming-heres-how/",
     "authors": "A. Advani, A. Lonsdale and A. Summers",
@@ -2498,7 +2531,7 @@
   },
   {
     "id": "oped_NewStatesman2024growth",
-    "order": 970,
+    "order": 385,
     "title": "What kind of tax reforms would stimulate growth?",
     "title_url": "https://www.newstatesman.com/spotlight/2024/10/what-kind-of-tax-reforms-would-stimulate-growth",
     "authors": "A. Advani",
@@ -2522,7 +2555,7 @@
   },
   {
     "id": "oped_NewStatesman2024nondom",
-    "order": 960,
+    "order": 375,
     "title": "The abolition of non-dom status is murkier than it looks",
     "title_url": "https://www.newstatesman.com/comment/2024/03/abolition-non-dom-status-hunt",
     "authors": "A. Advani, D. Burgherr and A. Summers",
@@ -2546,7 +2579,7 @@
   },
   {
     "id": "oped_Conversation2024",
-    "order": 950,
+    "order": 370,
     "title": "Capital gains: Sunak and Starmer's tax bills show how the system benefits the rich",
     "title_url": "https://theconversation.com/capital-gains-sunak-and-starmers-tax-bills-show-how-the-system-benefits-the-rich-224010",
     "authors": "A. Advani, A. Lonsdale and A. Summers",
@@ -2570,7 +2603,7 @@
   },
   {
     "id": "oped_LSEInequalitiesIHT2024",
-    "order": 940,
+    "order": 386,
     "title": "Too little, too late: Why we need to rethink inheritance tax",
     "title_url": "https://blogs.lse.ac.uk/inequalities/2024/02/14/too-little-too-late-inheritance-tax/",
     "authors": "A. Advani and D. Sturrock",
@@ -2596,7 +2629,7 @@
   },
   {
     "id": "oped_EcoObs2024",
-    "order": 930,
+    "order": 360,
     "title": "#ElectionEconomics: What are the parties proposing on taxes?",
     "title_url": "https://www.economicsobservatory.com/electioneconomics-what-are-the-parties-proposing-on-taxes",
     "authors": "A. Advani",
@@ -2620,7 +2653,7 @@
   },
   {
     "id": "oped_NewStatesman2023IHT",
-    "order": 920,
+    "order": 315,
     "title": "What is the point of inheritance tax?",
     "title_url": "https://www.newstatesman.com/spotlight/economic-growth/economic-policy/2023/09/what-point-inheritance-tax",
     "authors": "A. Advani and D. Sturrock",
@@ -2644,7 +2677,7 @@
   },
   {
     "id": "oped_Guardian2023Zahawi",
-    "order": 910,
+    "order": 310,
     "title": "Nadhim Zahawi's tax row reveals an even bigger scandal: the rich are getting a tax break that those on low incomes can only dream of",
     "title_url": "https://www.theguardian.com/uk-news/2023/feb/03/nadhim-zahawi-it-was-the-paltry-size-of-his-tax-bill-that-should-shock-us",
     "authors": "A. Advani",
@@ -2668,7 +2701,7 @@
   },
   {
     "id": "oped_Guardian2023kleptocrats",
-    "order": 900,
+    "order": 305,
     "title": "Five ways kleptocrats can keep hold of their UK assets",
     "title_url": "https://www.theguardian.com/business/2023/sep/04/five-ways-kleptocrats-can-keep-hold-of-their-uk-assets",
     "authors": "A. Advani",
@@ -2692,7 +2725,7 @@
   },
   {
     "id": "oped_Guardian2023dirtymoney",
-    "order": 890,
+    "order": 300,
     "title": "MPs must close loophole to drive out dirty money from UK property",
     "title_url": "https://www.theguardian.com/business/2023/jul/21/mps-must-close-loophole-to-drive-out-dirty-money-from-uk-property",
     "authors": "A. Advani, A. Powell-Smith and A. Summers",
@@ -2716,7 +2749,7 @@
   },
   {
     "id": "oped_Guardian2022Hunt",
-    "order": 880,
+    "order": 295,
     "title": "Timid Jeremy Hunt fails to reform how rich are taxed",
     "title_url": "https://www.theguardian.com/uk-news/2022/nov/18/timid-jeremy-hunt-fails-to-reform-how-rich-are-taxed",
     "authors": "A. Advani",
@@ -2740,7 +2773,7 @@
   },
   {
     "id": "oped_Guardian2022_45p",
-    "order": 870,
+    "order": 290,
     "title": "Rationale behind abolition of 45p tax rate reflects failed ideology",
     "title_url": "https://www.theguardian.com/business/2022/sep/29/rationale-behind-abolition-of-45p-tax-rate-reflects-failed-ideology",
     "authors": "A. Advani, D. Burgherr and A. Summers",
@@ -2764,7 +2797,7 @@
   },
   {
     "id": "oped_NewStatesman2022nondom",
-    "order": 860,
+    "order": 285,
     "title": "Taxing non-doms fairly would raise billions",
     "title_url": "https://www.newstatesman.com/spotlight/investment/2022/09/taxing-non-doms-fairly-would-raise-billions",
     "authors": "A. Advani, D. Burgherr and A. Summers",
@@ -2788,7 +2821,7 @@
   },
   {
     "id": "oped_Guardian2022energy",
-    "order": 850,
+    "order": 280,
     "title": "Three ways Sunak could raise £10bn to help Britons struggling with energy bills",
     "title_url": "https://www.theguardian.com/money/2022/may/19/rishi-sunak-energy-bills-tax",
     "authors": "A. Advani",
@@ -2812,7 +2845,7 @@
   },
   {
     "id": "oped_LSEWealthInequality2022",
-    "order": 840,
+    "order": 275,
     "title": "Official statistics underestimate wealth inequality in Britain",
     "title_url": "https://blogs.lse.ac.uk/politicsandpolicy/official-statistics-underestimate-wealth-inequality/",
     "authors": "A. Advani and H. Tarrant",
@@ -2859,7 +2892,7 @@
   },
   {
     "id": "oped_Guardian2021CGT",
-    "order": 830,
+    "order": 270,
     "title": "Why capital gains tax reform should be top of Rishi Sunak's list",
     "title_url": "https://www.theguardian.com/uk-news/2021/oct/26/why-capital-gains-tax-reform-should-be-top-of-rishi-sunak-list-budget",
     "authors": "A. Advani",
@@ -2883,7 +2916,7 @@
   },
   {
     "id": "oped_NewStatesman2021CGT",
-    "order": 820,
+    "order": 265,
     "title": "Fix the taxation of capital gains",
     "title_url": "https://www.newstatesman.com/spotlight/2021/09/fix-the-taxation-of-capital-gains",
     "authors": "A. Advani",
@@ -2907,7 +2940,7 @@
   },
   {
     "id": "oped_Guardian2021G7tax",
-    "order": 810,
+    "order": 260,
     "title": "The G7 corporate tax plan could make the world a fairer place to do business",
     "title_url": "https://www.theguardian.com/commentisfree/2021/jun/10/g7-corporate-tax-plan-fairer-business",
     "authors": "A. Advani and L. Gadenne",
@@ -2931,7 +2964,7 @@
   },
   {
     "id": "oped_Guardian2021Bidentax",
-    "order": 800,
+    "order": 255,
     "title": "Biden's corporate tax plan is simple, yet revolutionary. Will the UK sign up?",
     "title_url": "https://www.theguardian.com/commentisfree/2021/apr/15/biden-corporate-tax-uk-economic-covid",
     "authors": "A. Advani and L. Gadenne",
@@ -2955,7 +2988,7 @@
   },
   {
     "id": "oped_FTInvestorsChronicle2021",
-    "order": 790,
+    "order": 250,
     "title": "A wealth tax isn't perfect but it's better than the alternatives",
     "title_url": "https://www.investorschronicle.co.uk/news/2021/01/14/a-wealth-tax-isn-t-perfect-but-it-s-better-than-the-alternatives/",
     "authors": "A. Advani",
@@ -2979,7 +3012,7 @@
   },
   {
     "id": "oped_VoxEU2021race",
-    "order": 780,
+    "order": 245,
     "title": "Economics and the study of race",
     "title_url": "https://voxeu.org/article/economics-and-study-race",
     "authors": "A. Advani, E. Ash, D. Cai and I. Rasul",
@@ -3018,7 +3051,7 @@
   },
   {
     "id": "oped_Times2020rich",
-    "order": 770,
+    "order": 230,
     "title": "The rich pay more tax than ever — but some hand over more than others",
     "title_url": "https://www.thetimes.co.uk/article/the-rich-pay-more-tax-than-ever-but-some-hand-over-more-than-others-txk2pxcd3",
     "authors": "A. Advani and A. Summers",
@@ -3042,7 +3075,7 @@
   },
   {
     "id": "oped_LSEBusinessReview2020",
-    "order": 760,
+    "order": 225,
     "title": "Raising money from 'the rich' doesn't require increasing tax rates",
     "title_url": "https://blogs.lse.ac.uk/businessreview/2020/06/15/raising-money-from-the-rich-doesnt-require-increasing-tax-rates/",
     "authors": "A. Advani and A. Summers",
@@ -3066,7 +3099,7 @@
   },
   {
     "id": "oped_VoxEU2020immigration",
-    "order": 750,
+    "order": 105,
     "title": "Importing inequality: Immigration and the top 1%",
     "title_url": "https://voxeu.org/article/immigration-and-top-1",
     "authors": "A. Advani, F. Koenig, L. Pessina and A. Summers",
@@ -3093,7 +3126,7 @@
   },
   {
     "id": "oped_VoxEU2019diversity",
-    "order": 740,
+    "order": 65,
     "title": "Economics in the UK has a diversity problem that starts in schools and colleges",
     "title_url": "https://voxeu.org/article/increasing-diversity-uk-economics",
     "authors": "A. Advani, R. Griffith and S. Smith",
@@ -3138,7 +3171,7 @@
   },
   {
     "id": "oped_Times2019auditors",
-    "order": 730,
+    "order": 20,
     "title": "Want extra nurses and police? Give the taxman more auditors",
     "title_url": "https://www.thetimes.co.uk/article/want-extra-nurses-and-police-then-give-the-taxman-more-auditors-86lf8q7pp",
     "authors": "A. Advani",
@@ -3162,7 +3195,7 @@
   },
   {
     "id": "oped_NewStatesman2019auditing",
-    "order": 720,
+    "order": 15,
     "title": "Recovering the missing billions: how auditing can improve tax collection",
     "title_url": "https://www.newstatesman.com/business/economics/2019/09/recovering-missing-billions-how-auditing-can-improve-tax-collection",
     "authors": "A. Advani",
@@ -3186,7 +3219,7 @@
   },
   {
     "id": "oped_IFSGenderPayGap2021",
-    "order": 710,
+    "order": 240,
     "title": "Gender differences in subject choice leads to gender pay gap immediately after graduation",
     "title_url": "https://ifs.org.uk/articles/gender-differences-subject-choice-leads-gender-pay-gap-immediately-after-graduation",
     "authors": "A. Advani, S. Smith, B. Waltmann and X. Xu",
@@ -3225,7 +3258,7 @@
   },
   {
     "id": "oped_IFSCarbonTaxDev2021",
-    "order": 700,
+    "order": 75,
     "title": "What is the case for carbon taxes in developing countries?",
     "title_url": "https://ifs.org.uk/articles/what-case-carbon-taxes-developing-countries",
     "authors": "A. Advani, D. Prinz, A. Smurra and R. Warwick",
@@ -3252,7 +3285,7 @@
   },
   {
     "id": "oped_IFSALevel2021",
-    "order": 690,
+    "order": 235,
     "title": "A Level Economics is a gateway to the economics profession",
     "title_url": "https://ifs.org.uk/articles/level-economics-gateway-economics-profession",
     "authors": "A. Advani, S. Sen and R. Warwick",
@@ -3278,7 +3311,7 @@
   },
   {
     "id": "oped_IFSCarbonPrices2011",
-    "order": 680,
+    "order": 10,
     "title": "Inconsistent and inefficient UK carbon prices",
     "title_url": "https://ifs.org.uk/articles/inconsistent-and-inefficient-uk-carbon-prices",
     "authors": "A. Advani, P. Levell, and G. Stoye",
@@ -3304,7 +3337,7 @@
   },
   {
     "id": "oped_IFSHypothecation2011",
-    "order": 670,
+    "order": 5,
     "title": "Hyping hypothecation: should green tax revenues be earmarked?",
     "title_url": "https://ifs.org.uk/articles/hyping-hypothecation-should-green-tax-revenues-be-earmarked",
     "authors": "A. Advani, A. Leicester, and P. Levell",
@@ -3336,7 +3369,7 @@
   },
   {
     "id": "consult_TrustTransparency2024",
-    "order": 2000,
+    "order": 380,
     "title": "Submission to DBT/DLUHC/HMRC/HMT 'Transparency of Land Ownership Involving Trusts' Consultation",
     "title_url": "papers/AdvaniPouxSummers2024_TrustTransparencySubmission.pdf",
     "authors": "A. Advani, C. Poux and A. Summers",
@@ -3360,7 +3393,7 @@
   },
   {
     "id": "consult_HMRCStats2023",
-    "order": 1990,
+    "order": 365,
     "title": "Submission to HMRC 'Changes to HMRC Statistics Publications' Consultation",
     "title_url": "papers/AdvaniBurgherrHughsonSummers2023_ChangesToHMRCStatisticsPublicationsSubmission.pdf",
     "authors": "A. Advani, D. Burgherr, H. Hughson and A. Summers",
@@ -3384,7 +3417,7 @@
   },
   {
     "id": "consult_HMRCData2022",
-    "order": 1980,
+    "order": 350,
     "title": "Submission to HMRC 'Improving the data HMRC collects from its customers' Consultation",
     "title_url": "papers/Advani2022_ImprovingTheDataHMRCCollectsFromItsCustomersSubmission.pdf",
     "authors": "A. Advani",
@@ -3408,7 +3441,7 @@
   },
   {
     "id": "consult_InclusiveStats2021",
-    "order": 1970,
+    "order": 345,
     "title": "Submission to UK Statistics Authority 'Inclusive Statistics' Consultation",
     "title_url": "papers/Advani2021_InclusiveDataConsultationSubmission.pdf",
     "authors": "A. Advani",
@@ -3432,7 +3465,7 @@
   },
   {
     "id": "consult_HMRCReducingStats2021",
-    "order": 1960,
+    "order": 340,
     "title": "Submission to HMRC 'Reducing and Consolidating Official Statistics' Consultation",
     "title_url": "papers/AdvaniSummersTarrant2021_ReducingAndConsolidatingOfficialStatisticsSubmission.pdf",
     "authors": "A. Advani, A. Summers and H. Tarrant",
@@ -3456,7 +3489,7 @@
   },
   {
     "id": "consult_CorporateTransparency2021",
-    "order": 1950,
+    "order": 335,
     "title": "Submission to BEIS 'Corporate Transparency and Register Reform' Consultation",
     "title_url": "papers/AdvaniSummersTarrant2021_CorporateTransparencyAndRegisterReformSubmission.pdf",
     "authors": "A. Advani, A. Summers and H. Tarrant",
@@ -3480,7 +3513,7 @@
   },
   {
     "id": "consult_OTSCapitalGains2020",
-    "order": 1940,
+    "order": 330,
     "title": "Submission to OTS Capital Gains Tax review",
     "title_url": "papers/AdvaniHughsonSummers2020_CapitalGainsTaxReviewSubmission.pdf",
     "authors": "A. Advani, H. Hughson and A. Summers",
@@ -3504,7 +3537,7 @@
   },
   {
     "id": "consult_TaxAfterCovid2020",
-    "order": 1930,
+    "order": 325,
     "title": "Submission to Treasury Select Committee 'Tax After Covid' Inquiry",
     "title_url": "papers/AdvaniHughsonSummers2020_TaxAfterCoronavirusSubmission.pdf",
     "authors": "A. Advani, H. Hughson and A. Summers",
@@ -3533,7 +3566,7 @@
   },
   {
     "id": "oped_Guardian2023IHTsugar",
-    "order": 915,
+    "order": 320,
     "title": "Why chancellor should avoid inheritance tax sugar rush in budget",
     "title_url": "https://www.theguardian.com/politics/2023/dec/28/why-uk-chancellor-should-avoid-inheritance-tax-sugar-rush-in-budget",
     "authors": "A. Advani",
@@ -3557,14 +3590,19 @@
   },
   {
     "id": "NonDomReformsRevenueRealities",
-    "order": 575,
+    "order": 515,
     "title": "Non-dom reforms and revenue realities",
     "title_url": "https://www.taxjournal.com/articles/non-dom-reforms-revenue-realities",
     "authors": "A. Advani, D. Burgherr and A. Summers",
     "year": 2025,
     "abstract": null,
-    "pages": ["policy"],
-    "topics": ["TaxDesign", "Migration"],
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "TaxDesign",
+      "Migration"
+    ],
     "research_section": null,
     "policy_section": "policy_paper",
     "venue": "Tax Journal",
@@ -3579,13 +3617,15 @@
   },
   {
     "id": "IntroducingCenTax",
-    "order": 574,
+    "order": 400,
     "title": "Introducing CenTax: a new tax research centre",
     "title_url": "https://www.taxjournal.com/articles/introducing-centax-a-new-tax-research-centre",
     "authors": "A. Advani and A. Summers",
     "year": 2025,
     "abstract": null,
-    "pages": ["policy"],
+    "pages": [
+      "policy"
+    ],
     "topics": null,
     "research_section": null,
     "policy_section": "comment_oped",
@@ -3601,14 +3641,18 @@
   },
   {
     "id": "IHTSugarRush",
-    "order": 895,
+    "order": 355,
     "title": "Why chancellor should avoid inheritance tax sugar rush in budget",
     "title_url": "https://www.theguardian.com/politics/2023/dec/28/why-uk-chancellor-should-avoid-inheritance-tax-sugar-rush-in-budget",
     "authors": "A. Advani",
     "year": 2023,
     "abstract": null,
-    "pages": ["policy"],
-    "topics": ["TaxDesign"],
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "TaxDesign"
+    ],
     "research_section": null,
     "policy_section": "comment_oped",
     "venue": "Guardian",
@@ -3623,14 +3667,19 @@
   },
   {
     "id": "WealthTaxCovid_LSE",
-    "order": 765,
+    "order": 150,
     "title": "Is it time for a wealth tax to offset the economic damage from COVID-19?",
     "title_url": "https://blogs.lse.ac.uk/businessreview/2020/12/09/is-it-time-for-a-wealth-tax-to-offset-the-economic-damage-from-covid-19/",
     "authors": "A. Advani, E. Chamberlain and A. Summers",
     "year": 2020,
     "abstract": null,
-    "pages": ["policy"],
-    "topics": ["WealthInequality", "TaxDesign"],
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "WealthInequality",
+      "TaxDesign"
+    ],
     "research_section": null,
     "policy_section": "comment_oped",
     "venue": "LSE Business Review",
