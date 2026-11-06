@@ -79,7 +79,10 @@
     "ungated_url": null,
     "award": null,
     "invited": false,
-    "data": null,
+    "data": {
+      "label": "Data",
+      "url": "data/AdvaniHughsonSummers2026_TaxesAtTheTop_data.xlsx"
+    },
     "links": [],
     "media": [
       {
@@ -122,7 +125,10 @@
     "ungated_url": null,
     "award": null,
     "invited": false,
-    "data": null,
+    "data": {
+      "label": "Data",
+      "url": "data/AdvaniFlewPepinhallSummers2026_ChildcareThreshold_data.xlsx"
+    },
     "links": [],
     "media": [
       {
@@ -687,7 +693,7 @@
     "invited": false,
     "data": {
       "label": "Data",
-      "url": "data/AdvaniBurgherrSavageSummers_UKGlobalEconomicElite_data.xlsx"
+      "url": "data/AdvaniBurgherrSavageSummers2022_UKGlobalEconomicElite_data.xlsx"
     },
     "links": [
       {
@@ -909,7 +915,8 @@
     "invited": false,
     "data": {
       "label": "Data",
-      "url": "data/AdvaniKoenigPessinaSummers_ImportingInequality_data.xlsx"
+      "url": "data/AdvaniKoenigPessinaSummers2020_ImportingInequality_data.xlsx",
+      "note": "for the charts in the 2020 working paper version."
     },
     "links": [
       {
@@ -1186,14 +1193,15 @@
     "ungated_url": null,
     "award": null,
     "invited": false,
-    "data": {
-      "label": "Data",
-      "url": "data/AdvaniSummersTarrant_UKTopIncomes_WIDTechnicalNote_Data.xlsx"
-    },
+    "data": null,
     "links": [
       {
         "label": "WID Technical Note",
         "url": "papers/AdvaniSummersTarrant2021_UKTopIncomes_WIDTechnicalNote.pdf"
+      },
+      {
+        "label": "Technical Note data",
+        "url": "data/AdvaniSummersTarrant2021_UKTopIncomes_WIDTechnicalNote_data.xlsx"
       }
     ],
     "media": []
@@ -1410,7 +1418,7 @@
     "invited": false,
     "data": {
       "label": "Data",
-      "url": "data/AdvaniBanghamLeslie2021_TheUKWealthDistribution.xlsx"
+      "url": "data/AdvaniBanghamLeslie2021_TheUKWealthDistribution_data.xlsx"
     },
     "links": [
       {
@@ -1688,7 +1696,7 @@
     "invited": false,
     "data": {
       "label": "Data",
-      "url": "data/AdvaniGazmuribarkerLonsdaleSummers_PartnershipNICs_data.xlsx"
+      "url": "data/AdvaniGazmuribarkerLonsdaleSummers2025_PartnershipNICs_data.xlsx"
     },
     "links": [],
     "media": [
@@ -1722,7 +1730,7 @@
     "invited": false,
     "data": {
       "label": "Data",
-      "url": "data/AdvaniGazmuribarkerMahajanSummers_IHTfarm_data.xlsx"
+      "url": "data/AdvaniGazmuribarkerMahajanSummers2025_IHTfarm_data.xlsx"
     },
     "links": [],
     "media": []
@@ -1751,7 +1759,7 @@
     "invited": false,
     "data": {
       "label": "Data",
-      "url": "data/AdvaniGazmuribarkerMahajanSummers_CarryKeyFacts_data.xlsx"
+      "url": "data/AdvaniGazmuribarkerMahajanSummers2024_CarryKeyFacts_data.xlsx"
     },
     "links": [],
     "media": []
@@ -1840,7 +1848,7 @@
     "invited": false,
     "data": {
       "label": "Data",
-      "url": "data/AdvaniLonsdaleSummers_CGTReform_data.xlsx"
+      "url": "data/AdvaniLonsdaleSummers2024_CGTReform_data.xlsx"
     },
     "links": [],
     "media": []
@@ -1982,7 +1990,7 @@
     "invited": false,
     "data": {
       "label": "Data",
-      "url": "data/AdvaniLonsdaleSummers_WhoWouldBeAffectedByCGTReform_data.xlsx"
+      "url": "data/AdvaniLonsdaleSummers2024_WhoWouldBeAffectedByCGTReform_data.xlsx"
     },
     "links": [],
     "media": [
@@ -2247,7 +2255,7 @@
     "invited": false,
     "data": {
       "label": "Data",
-      "url": "data/AdvaniBurgherrSummers_NondomReformRevenueEstimates_data.xlsx"
+      "url": "data/AdvaniBurgherrSummers2022_NondomReformRevenueEstimates_data.xlsx"
     },
     "links": [
       {
@@ -2304,7 +2312,7 @@
     "invited": false,
     "data": {
       "label": "Data",
-      "url": "data/AdvaniBurgherrSavageSummers_UKGlobalEconomicElite_data.xlsx"
+      "url": "data/AdvaniBurgherrSavageSummers2022_UKGlobalEconomicElite_data.xlsx"
     },
     "links": [
       {
@@ -2336,7 +2344,10 @@
     "ungated_url": null,
     "award": null,
     "invited": false,
-    "data": null,
+    "data": {
+      "label": "Data",
+      "url": "data/AdvaniSummersTarrant2022_WhoAreTheSuperRich_data.xlsx"
+    },
     "links": [],
     "media": [
       {
@@ -2369,7 +2380,7 @@
     "invited": false,
     "data": {
       "label": "Data",
-      "url": "data/AdvaniHughsonSummersTarrant_FixingTheGapsInNICs_data.xlsx"
+      "url": "data/AdvaniHughsonSummersTarrant2021_FixingTheGapsInNICs_data.xlsx"
     },
     "links": [
       {
@@ -2447,7 +2458,10 @@
     "ungated_url": null,
     "award": null,
     "invited": false,
-    "data": null,
+    "data": {
+      "label": "Data",
+      "url": "data/AdvaniChamberlainSummers2020_ShouldTheUKHaveAWealthTax_data.xlsx"
+    },
     "links": [
       {
         "label": "Campaign for Social Science blog",
@@ -2510,7 +2524,7 @@
     "invited": false,
     "data": {
       "label": "Data",
-      "url": "data/AdvaniSenWarwick2020_EthnicDiversityInUKEconomics.xlsx"
+      "url": "data/AdvaniSenWarwick2020_EthnicDiversityInUKEconomics_data.xlsx"
     },
     "links": [],
     "media": [
@@ -2598,7 +2612,7 @@
     "invited": false,
     "data": {
       "label": "Data",
-      "url": "data/AdvaniSummers_HowMuchTaxDoTheRichReallyPay_data.xlsx"
+      "url": "data/AdvaniSummers2020_HowMuchTaxDoTheRichReallyPay_data.xlsx"
     },
     "links": [
       {
@@ -2673,7 +2687,7 @@
     "invited": false,
     "data": {
       "label": "Data",
-      "url": "data/AdvaniSummers_CapitalGainsAndUKInequality_data.xlsx"
+      "url": "data/AdvaniSummers2020_CapitalGainsAndUKInequality_data.xlsx"
     },
     "links": [
       {
