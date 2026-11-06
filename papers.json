@@ -1,5 +1,504 @@
 [
   {
+    "id": "BudgetResponse2026",
+    "order": 595,
+    "title": "CenTax Budget Response 2026",
+    "title_url": "https://centax.org.uk/autumn-budget-2026-reaction/",
+    "authors": "CenTax",
+    "year": 2026,
+    "abstract": "CenTax's response to Budget 2026, covering Founders’ Relief, Business Asset Disposal Relief and Enterprise Management Incentives 2, the company distributions framework, the new Pension Tax Allowance, Income Tax rates on property and savings income, the reversal of the cash ISA cap, Carer’s Allowance, direct recovery of tax debts from bank accounts, and timely payments for Self Assessment.",
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "TaxDesign"
+    ],
+    "research_section": null,
+    "policy_section": "policy_paper",
+    "venue": null,
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "UnicornRelief",
+    "order": 590,
+    "title": "Capital Gains Tax on Entrepreneurs: Should the UK have a ‘Unicorn Relief’?",
+    "title_url": "https://centax.org.uk/capital-gains-tax-should-the-uk-have-a-unicorn-relief/",
+    "authors": "A. Advani, J. Flew, S. Gazmuri-Barker, and A. Summers",
+    "year": 2026,
+    "abstract": "In 2025, the Government published a Call for Evidence on Tax Support for Entrepreneurs. This report asks, if the fundamental reforms to CGT that we have previously argued for were adopted, what (if any) additional tax relief should be available to entrepreneurs? Assessing the arguments most commonly made to justify additional CGT reliefs, we design the best possible targeted option – Unicorn Relief – which would provide a significantly reduced CGT rate on an uncapped amount of gains, narrowly targeted at entrepreneurs who successfully build very high-value businesses. We conclude that, if the Government decides it must have a special CGT relief for entrepreneurs, replacing Business Asset Disposal Relief (BADR) with Unicorn Relief would be significantly better targeted than the status quo, though would still present drawbacks and risks. It is also no substitute for fundamental CGT reform, which overall would be better for growth as well as raising revenue that the government could spend or use to cut taxes elsewhere.",
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "TaxDesign"
+    ],
+    "research_section": null,
+    "policy_section": "policy_paper",
+    "venue": "CenTax Policy Report",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": [
+      {
+        "outlet": "Bloomberg Tax",
+        "url": "https://news.bloomberglaw.com/daily-tax-report/think-tank-proposes-capital-gains-relief-on-uk-unicorn-sales"
+      }
+    ]
+  },
+  {
+    "id": "TaxesAtTheTop",
+    "order": 585,
+    "title": "Taxes at the top: Understanding what high earners pay and options for reform",
+    "title_url": "https://centax.org.uk/taxes-at-the-top-understanding-what-high-earners-pay/",
+    "authors": "A. Advani, H. Hughson, and A. Summers",
+    "year": 2026,
+    "abstract": "Debates around tax in the UK tend to assume any significant increase in revenue must come from raising the main rates on one or more of the ‘big three’: Income Tax, National Insurance and VAT. At the same time, the personal tax system is perceived as top heavy with limited scope to ask those at the top to contribute more. Taxes at the top brings together new descriptive analysis with insights and costings from recent CenTax publications, newly updated for the latest tax year. We examine how much tax those at the top really pay, looking at total remuneration which accounts for all taxable income and capital gains and the personal taxes paid on them. The report sets out several reforms available to the Government at the next budget that could raise additional tax without increasing the main rates of any of the ‘big three’ – rebalancing taxation at the top while removing distortions that currently harm economic growth.",
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "TaxDesign",
+      "IncomeInequality"
+    ],
+    "research_section": null,
+    "policy_section": "policy_paper",
+    "venue": "CenTax Policy Report",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": [
+      {
+        "outlet": "Times",
+        "url": "https://www.thetimes.com/business/economics/article/highest-earners-uk-top-tax-rate-capital-gains-r9v6ccrk8"
+      },
+      {
+        "outlet": "City AM",
+        "url": "https://www.cityam.com/burnham-urged-to-launch-26bn-tax-raid-on-high-earners/"
+      },
+      {
+        "outlet": "Telegraph",
+        "url": "https://www.telegraph.co.uk/business/2026/09/23/reform-urged-to-slash-taxes-by-75bn-if-it-wins-power/"
+      },
+      {
+        "outlet": "Observer",
+        "url": "https://observer.co.uk/news/business/article/the-treasury-is-still-in-a-bind-over-taxing-britains-wealthiest"
+      }
+    ]
+  },
+  {
+    "id": "ChildcareCliffEdge",
+    "order": 580,
+    "title": "Removing the £100,000 childcare cliff-edge: Impacts and cost of reform",
+    "title_url": "https://centax.org.uk/removing-the-childcare-cliff-edge-impacts-and-cost-of-reform/",
+    "authors": "A. Advani, J. Flew, J. Pepin-Hall, and A. Summers",
+    "year": 2026,
+    "abstract": "Since 2017, working parents of 3- and 4-year-olds in England have been able to claim 30 hours a week of free childcare, provided that neither parent expects to have income above £100,000. Families with a parent whose expected income is above £100,000 face the prospect of losing access to some or all of their free childcare, potentially leaving them worse off overall. The childcare cliff-edge has been widely criticised for discouraging work and creating incentives that hold back economic growth. In this report, we provide the first detailed evidence on who is affected by the withdrawal of free childcare, how they respond, and how much it would cost to remove this cliff-edge by making the free childcare entitlement available to parents with incomes over £100,000, or other options short of this.",
+    "pages": [
+      "policy"
+    ],
+    "topics": [
+      "TaxDesign"
+    ],
+    "research_section": null,
+    "policy_section": "policy_paper",
+    "venue": "CenTax Policy Report",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": [
+      {
+        "outlet": "Guardian",
+        "url": "https://www.theguardian.com/society/2026/sep/10/uk-chancellor-urged-to-remove-100k-childcare-cliff-edge-prompting-parents-to-cut-work-hours"
+      },
+      {
+        "outlet": "Times",
+        "url": "https://www.thetimes.com/money/family-finances/article/thousands-more-parents-to-cut-incomes-to-swerve-100000-cliff-edge-7mmbqzlp3"
+      },
+      {
+        "outlet": "Telegraph",
+        "url": "https://www.telegraph.co.uk/money/tax/news/12000-parents-to-turn-down-pay-rises-to-avoid-100k-tax-trap/"
+      },
+      {
+        "outlet": "City AM",
+        "url": "https://www.cityam.com/number-of-parents-at-edge-of-100k-tax-trap-to-grow-dramatically/"
+      },
+      {
+        "outlet": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-09/uk-workers-at-childcare-cliffedge-effectively-need-24-000-raise"
+      }
+    ]
+  },
+  {
+    "id": "BWR",
+    "order": 575,
+    "title": "The CenTax Business-to-Worker Register",
+    "title_url": "https://centax.org.uk/wp-content/uploads/2026/05/business_to_worker_register.pdf",
+    "authors": "A. Advani, A. Dyèvre, S. Gazmuri-Barker, H. Hughson, S. Mahajan, and A. Summers",
+    "year": 2026,
+    "abstract": "This paper introduces the Business-to-Worker Register (BWR), a database of the universe of UK workers linked to the universe of UK businesses and non-businesses from 2002 to 2022. To build the BWR, we combine (i) information on characteristics and outcomes from individual and business tax returns, (ii) administrative links between businesses and workers, and (iii) external data sources including on patents and business financial accounts. Unlike standard Linked Employer Employee Datasets (LEEDs), the BWR includes all businesses and non-businesses with no restriction on legal form, industrial sector, employer status, or size. On the worker side, non-employment relationships such as partnerships and self-employment are included, there is no restriction on the age of workers or residency status, and all jobs are observed. We develop methods to estimate profits, investments, capital stocks and depreciations from firm tax returns. To benchmark the BWR, we compare worker and business populations to official estimates. We also benchmark our estimates of firm-level variables against external financial accounts.",
+    "pages": [
+      "research"
+    ],
+    "topics": [
+      "DataInfrastructure"
+    ],
+    "research_section": "working_paper",
+    "policy_section": null,
+    "venue": null,
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [
+      {
+        "label": "BWR webpage",
+        "url": "https://centax.org.uk/bwr/"
+      }
+    ],
+    "media": []
+  },
+  {
+    "id": "CGTArrivalsDepartures",
+    "order": 570,
+    "title": "Arrivals and departures for capital gains tax: the UK in international context",
+    "title_url": "https://researchonline.lse.ac.uk/id/eprint/137727/",
+    "authors": "A. Advani, S. Gazmuri-Barker, and A. Summers",
+    "year": 2026,
+    "abstract": "This article argues that the UK’s approach to taxing capital gains in the presence of international mobility is anomalous among its international peers, and should be reformed. Using a reference group of 21 comparator jurisdictions, we classify the main models for taxing individuals who arrive in, and depart from, a country for CGT purposes. On arrivals, we distinguish regimes that tax the pre-arrival gains of immigrants in full, preferential regimes for foreign gains, and ‘rebasing on arrival’ (ROA). On departures, we compare ‘deemed disposal on departure’ (DDD), ‘tails’ and other hybrids shaped by EU law, and the UK’s temporary non-resident regime. Our preferred model combines ROA with DDD: exempting pre-arrival gains while ensuring that gains accrued during UK residence are taxed on departure. We argue that ROA-DDD would be feasible within the UK’s existing treaty framework and offers an opportunity to shift towards an improved global equilibrium for the taxation of capital gains when individuals migrate.",
+    "pages": [
+      "research"
+    ],
+    "topics": [
+      "TaxDesign",
+      "Migration"
+    ],
+    "research_section": "published",
+    "policy_section": null,
+    "venue": "British Tax Review",
+    "venue_detail": "2026(2), pp. 136–160",
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": [
+      {
+        "outlet": "FT Alphaville",
+        "url": "https://www.ft.com/content/dd479ac5-9b65-4d7d-9c06-2cec36c68434"
+      }
+    ]
+  },
+  {
+    "id": "blog_IHTConservatives2026",
+    "order": 565,
+    "title": "Reaction to the Conservative Party’s announcement on Inheritance Tax",
+    "title_url": "https://centax.org.uk/centax-reacts-to-conservative-party-announcement-on-iht/",
+    "authors": "A. Advani",
+    "year": 2026,
+    "abstract": null,
+    "pages": [
+      "policy"
+    ],
+    "topics": [],
+    "research_section": null,
+    "policy_section": "comment_oped",
+    "venue": "CenTax blog",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "blog_TaxGap2026",
+    "order": 564,
+    "title": "Thin foundations of HMRC’s 2026 tax gap publication",
+    "title_url": "https://centax.org.uk/centax-analysis-thin-foundations-of-hmrcs-2026-tax-gap-publication/",
+    "authors": "A. Advani and A. Summers",
+    "year": 2026,
+    "abstract": null,
+    "pages": [
+      "policy"
+    ],
+    "topics": [],
+    "research_section": null,
+    "policy_section": "comment_oped",
+    "venue": "CenTax blog",
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "consult_Distributions2026",
+    "order": 560,
+    "title": "Submission to HMRC 'Modernising the Taxation of Distributions and Repayments of Capital from Companies' Consultation",
+    "title_url": "https://centax.org.uk/wp-content/uploads/2026/10/AdvaniFlewGazmuri-BarkerSummers2026_Modernising-taxation-of-distributions.pdf",
+    "authors": "A. Advani, J. Flew, S. Gazmuri-Barker and A. Summers",
+    "year": 2026,
+    "abstract": null,
+    "pages": [
+      "policy"
+    ],
+    "topics": [],
+    "research_section": null,
+    "policy_section": "consultation",
+    "venue": null,
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "consult_EntrepreneursCfE2026",
+    "order": 559,
+    "title": "Submission to HMT 'Tax Support for Entrepreneurs' Call for Evidence",
+    "title_url": "https://centax.org.uk/wp-content/uploads/2026/05/AdvaniFlewGazmuribarkerSummers2026_TaxSupportEntrepreneurs.pdf",
+    "authors": "A. Advani, J. Flew, S. Gazmuri-Barker and A. Summers",
+    "year": 2026,
+    "abstract": null,
+    "pages": [
+      "policy"
+    ],
+    "topics": [],
+    "research_section": null,
+    "policy_section": "consultation",
+    "venue": null,
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "consult_OBR15Years2026",
+    "order": 558,
+    "title": "Submission to Treasury Select Committee 'The OBR: 15 Years On' Inquiry",
+    "title_url": "https://centax.org.uk/wp-content/uploads/2026/05/AdvaniFlewSummers2026_OBR15Years.pdf",
+    "authors": "A. Advani, J. Flew and A. Summers",
+    "year": 2026,
+    "abstract": null,
+    "pages": [
+      "policy"
+    ],
+    "topics": [],
+    "research_section": null,
+    "policy_section": "consultation",
+    "venue": null,
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "consult_VisitorLevy2026",
+    "order": 557,
+    "title": "Submission to MHCLG 'Overnight Visitor Levy in England' Consultation",
+    "title_url": "https://centax.org.uk/wp-content/uploads/2026/05/AdvaniFlewSummers2026_VisitorLevy.pdf",
+    "authors": "A. Advani, J. Flew and A. Summers",
+    "year": 2026,
+    "abstract": null,
+    "pages": [
+      "policy"
+    ],
+    "topics": [],
+    "research_section": null,
+    "policy_section": "consultation",
+    "venue": null,
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "consult_LordsAPRBPR2025",
+    "order": 556,
+    "title": "Submission to House of Lords Finance Bill Sub-Committee Inquiry on Changes to IHT Agricultural and Business Property Reliefs",
+    "title_url": "https://centax.org.uk/wp-content/uploads/2026/05/AdvaniGazmuribarkerMahajanFlewSummers2025_IHTAPRBPR.pdf",
+    "authors": "A. Advani, S. Gazmuri-Barker, S. Mahajan, J. Flew and A. Summers",
+    "year": 2025,
+    "abstract": null,
+    "pages": [
+      "policy"
+    ],
+    "topics": [],
+    "research_section": null,
+    "policy_section": "consultation",
+    "venue": null,
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "consult_ThirdPartyData2025",
+    "order": 555,
+    "title": "Submission to HMRC 'Better Use of New and Improved Third-Party Data' Consultation",
+    "title_url": "https://centax.org.uk/wp-content/uploads/2026/05/AdvaniSummers_ThirdPartyData.pdf",
+    "authors": "A. Advani and A. Summers",
+    "year": 2025,
+    "abstract": null,
+    "pages": [
+      "policy"
+    ],
+    "topics": [],
+    "research_section": null,
+    "policy_section": "consultation",
+    "venue": null,
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "consult_HMRCStats2025",
+    "order": 554,
+    "title": "Submission to HMRC 'Changes to HMRC Statistics Publications' Consultation",
+    "title_url": "https://centax.org.uk/wp-content/uploads/2026/05/AdvaniSummers_ChangesHMRCStatistics.pdf",
+    "authors": "A. Advani and A. Summers",
+    "year": 2025,
+    "abstract": null,
+    "pages": [
+      "policy"
+    ],
+    "topics": [],
+    "research_section": null,
+    "policy_section": "consultation",
+    "venue": null,
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "consult_OffshoreAntiAvoidance2025",
+    "order": 553,
+    "title": "Submission to HMRC 'Personal Tax Offshore Anti-Avoidance Legislation' Call for Evidence",
+    "title_url": "https://centax.org.uk/wp-content/uploads/2026/05/AdvaniBomareGazmuribarkerSummers2025_PersonalTaxOffshore.pdf",
+    "authors": "A. Advani, J. Bomare, S. Gazmuri-Barker and A. Summers",
+    "year": 2025,
+    "abstract": null,
+    "pages": [
+      "policy"
+    ],
+    "topics": [],
+    "research_section": null,
+    "policy_section": "consultation",
+    "venue": null,
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "consult_IHTPensions2025",
+    "order": 552,
+    "title": "Submission to HMRC 'Inheritance Tax on Pensions: Liability, Reporting and Payment' Consultation",
+    "title_url": "https://centax.org.uk/wp-content/uploads/2026/05/AdvaniGazmuribarkerForresterSummers2025_IHTPensions.pdf",
+    "authors": "A. Advani, S. Gazmuri-Barker, J. Forrester and A. Summers",
+    "year": 2025,
+    "abstract": null,
+    "pages": [
+      "policy"
+    ],
+    "topics": [],
+    "research_section": null,
+    "policy_section": "consultation",
+    "venue": null,
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
+    "id": "consult_CarriedInterest2025",
+    "order": 551,
+    "title": "Submission to HMT 'The Tax Treatment of Carried Interest' Call for Evidence",
+    "title_url": "https://centax.org.uk/wp-content/uploads/2026/05/AdvaniGazmuribarkerPouxSummers2025_CarriedInterest.pdf",
+    "authors": "A. Advani, S. Gazmuri-Barker, C. Poux and A. Summers",
+    "year": 2025,
+    "abstract": null,
+    "pages": [
+      "policy"
+    ],
+    "topics": [],
+    "research_section": null,
+    "policy_section": "consultation",
+    "venue": null,
+    "venue_detail": null,
+    "doi": null,
+    "ungated_url": null,
+    "award": null,
+    "invited": false,
+    "data": null,
+    "links": [],
+    "media": []
+  },
+  {
     "id": "RegulationOfPoliticalDonations",
     "order": 550,
     "title": "The Regulation of Political Donations: Transparency, Foreign Interference and Tax Benefits",
@@ -30,6 +529,10 @@
       {
         "outlet": "Guardian",
         "url": "https://www.theguardian.com/politics/2026/mar/19/corporate-donations-uk-political-parties-foreign-interference-bill-loopholes-centax"
+      },
+      {
+        "outlet": "Financial Times",
+        "url": "https://www.ft.com/content/93298ddb-3060-486c-8f5f-d48eabe4ab8d"
       }
     ]
   },
@@ -57,7 +560,8 @@
     "invited": false,
     "data": null,
     "links": [],
-    "media": []
+    "media": [],
+    "hidden": true
   },
   {
     "id": "SuperrichMigration",
@@ -398,7 +902,7 @@
     "research_section": "published",
     "policy_section": null,
     "venue": "Review of Economics and Statistics",
-    "venue_detail": "107(4), pp. 1–13",
+    "venue_detail": "107(4), pp. 1123–1135",
     "doi": "10.1162/rest_a_01408",
     "ungated_url": "papers/AdvaniKoenigPessinaSummers2022_ImmigrationAndTheTop1Percent.pdf",
     "award": null,
@@ -453,7 +957,7 @@
     "research_section": "published",
     "policy_section": null,
     "venue": "Economica",
-    "venue_detail": "93, 403–438",
+    "venue_detail": "93, pp. 403–438",
     "doi": "10.1111/ecca.70022",
     "ungated_url": null,
     "award": null,
@@ -479,7 +983,7 @@
     "research_section": "published",
     "policy_section": null,
     "venue": "Advances in Economics and Econometrics: Twelfth World Congress",
-    "venue_detail": "Chapter 9, Cambridge University Press, pp. 262–281. Eds: Chernozhukov, Hörner, La Ferrara, and Werning",
+    "venue_detail": "Chapter 9, pp. 262–281",
     "doi": "10.1017/9781009589888.014",
     "ungated_url": null,
     "award": null,
@@ -798,7 +1302,7 @@
     "research_section": "published",
     "policy_section": null,
     "venue": "Fiscal Studies",
-    "venue_detail": "42(3-4), pp. 389–395",
+    "venue_detail": "42(3–4), pp. 389–395",
     "doi": "10.1111/1475-5890.12289",
     "ungated_url": null,
     "award": null,
@@ -826,7 +1330,7 @@
     "research_section": "published",
     "policy_section": null,
     "venue": "Fiscal Studies",
-    "venue_detail": "42(3-4), pp. 699–736",
+    "venue_detail": "42(3–4), pp. 699–736",
     "doi": "10.1111/1475-5890.12280",
     "ungated_url": null,
     "award": null,
@@ -867,7 +1371,7 @@
     "research_section": "published",
     "policy_section": null,
     "venue": "Fiscal Studies",
-    "venue_detail": "42(3-4), pp. 509–537",
+    "venue_detail": "42(3–4), pp. 509–537",
     "doi": "10.1111/1475-5890.12283",
     "ungated_url": null,
     "award": null,
@@ -899,7 +1403,7 @@
     "research_section": "published",
     "policy_section": null,
     "venue": "Fiscal Studies",
-    "venue_detail": "42(3-4), pp. 397–430",
+    "venue_detail": "42(3–4), pp. 397–430",
     "doi": "10.1111/1475-5890.12286",
     "ungated_url": null,
     "award": null,
@@ -1110,7 +1614,12 @@
     "invited": false,
     "data": null,
     "links": [],
-    "media": []
+    "media": [
+      {
+        "outlet": "Guardian",
+        "url": "https://www.theguardian.com/commentisfree/2025/nov/26/rachel-reeves-budget-panel-chancellor"
+      }
+    ]
   },
   {
     "id": "TaxReformsForGrowth",
@@ -1136,7 +1645,24 @@
     "invited": false,
     "data": null,
     "links": [],
-    "media": []
+    "media": [
+      {
+        "outlet": "Guardian",
+        "url": "https://www.theguardian.com/uk-news/2025/nov/05/thinktanks-urge-rachel-reeves-to-overhaul-broken-tax-system"
+      },
+      {
+        "outlet": "City AM",
+        "url": "https://www.cityam.com/left-and-rightwing-think-tanks-join-to-call-for-pro-growth-tax-reform/"
+      },
+      {
+        "outlet": "Telegraph",
+        "url": "https://www.telegraph.co.uk/business/2025/11/05/raise-income-tax-by-10p-for-top-earners-to-plug-black-hole/"
+      },
+      {
+        "outlet": "Politico",
+        "url": "https://www.politico.eu/newsletter/london-playbook/rush-to-the-mini-break/"
+      }
+    ]
   },
   {
     "id": "PartnershipNICs",
@@ -1165,7 +1691,12 @@
       "url": "data/AdvaniGazmuribarkerLonsdaleSummers_PartnershipNICs_data.xlsx"
     },
     "links": [],
-    "media": []
+    "media": [
+      {
+        "outlet": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2025-09-03/uk-partnership-tax-could-give-reeves-1-9-billion-study-says"
+      }
+    ]
   },
   {
     "id": "IHT_farm",
@@ -1249,7 +1780,12 @@
     "invited": false,
     "data": null,
     "links": [],
-    "media": []
+    "media": [
+      {
+        "outlet": "Financial Times",
+        "url": "https://www.ft.com/content/d20b67f2-9d2b-42ea-bbb8-9680d9f716d3"
+      }
+    ]
   },
   {
     "id": "IHT_reliefs",
@@ -1562,7 +2098,8 @@
       "policy"
     ],
     "topics": [
-      "TaxCompliance", "Transparency"
+      "TaxCompliance",
+      "Transparency"
     ],
     "research_section": null,
     "policy_section": "policy_paper",

@@ -41,6 +41,7 @@ TOPIC_ORDER = [
     "Environment",
     "Development",
     "Econometrics",
+    "DataInfrastructure",
 ]
 
 
@@ -117,7 +118,8 @@ def build():
 
     # Load and prepare all entries
     raw_entries = load_papers()
-    entries = [prepare_entry(e) for e in raw_entries]
+    # Entries with "hidden": true are kept in the JSON but not rendered
+    entries = [prepare_entry(e) for e in raw_entries if not e.get("hidden")]
 
     # --- research.html ---
     research_template = env.get_template("research.html")

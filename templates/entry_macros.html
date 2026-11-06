@@ -11,7 +11,7 @@
                 {% endfor %}
               </div>
               <div class="pAuthors">
-                {{ paper.authors }}{% if paper.year %} ({{ paper.year }}){% endif %}{% if paper.venue %}, {{ paper.venue }}{% elif paper.venue_detail %}, {{ paper.venue_detail }}{% endif %}
+                {{ paper.authors }}{% if paper.year %} ({{ paper.year }}){% endif %}{% if paper.venue %}, {{ paper.venue }}{% endif %}{% if paper.venue_detail %}, {{ paper.venue_detail }}{% endif %}
                 {% if paper.doi %}
                 <div class="altmetric-embed"
                   data-badge-type="1"
