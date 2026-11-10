@@ -572,11 +572,11 @@
   {
     "id": "SuperrichMigration",
     "order": 520,
-    "title": "Taxation and migration by the super-rich",
-    "title_url": "papers/AdvaniBurgherrSummers2025_TaxationAndMigrationByTheSuperRich.pdf",
+    "title": "Taxation and Migration by the Super-rich",
+    "title_url": "https://centax.org.uk/wp-content/uploads/2026/11/AdvaniBurgherrSummers2026_Taxation-and-Migration-by-the-Super-rich.pdf",
     "authors": "A. Advani, D. Burgherr, and A. Summers",
-    "year": 2025,
-    "abstract": "Using administrative data on the globally connected super-rich in the UK, we study the effect of a large tax reform on migration behaviour. Prior to 2017, offshore investment returns for 'non-doms' – individuals tax-resident in the UK but with connections to other countries – were untaxed. People making use of that tax status are strongly concentrated at the top of the income distribution: 86% are in the UK top 1% and 29% in the top 0.1% once overseas investment income is taken into account. A reform in 2017 brought long-stayers, who had been in the UK for at least 15 of the last 20 years, into the standard tax system, reducing their effective net-of-average-tax rate by 18%. We find that emigration responses were modest: our central estimate is that the emigration rate increases by 0.26 percentage points for a 1% decline in the net-of-tax rate, and we can rule out increases larger than 0.4 percentage points. Dispelling fears that the targeted taxpayers were able to circumvent the tax hike, we find large average increases in income reported and tax paid in the UK of more than 150%.",
+    "year": 2026,
+    "abstract": "We use UK administrative data to study how taxes affect emigration among the super-rich and its economic and fiscal consequences. Our difference-in-differences approach exploits a reform removing access to a preferential tax regime for wealthy foreigners based on years of UK residence, comparing individuals with similar income and wealth. The reform lowers affected individuals’ net-of-tax rate by 19%. Emigration rates increase sharply but temporarily. Overall, a 1% net-of-tax rate decline reduces the number of super-rich in the UK by 0.4%. These changes in tax residence often reflect partial adjustments to physical presence. Although UK income and tax fall after emigration, many emigrants still spend substantial time in the UK, receive income, and pay taxes there three years later. Emigration nevertheless generates negative spillovers. Firms scale back after top managers leave, and workers lose income, suggesting some super-rich supply hard-to-replace human capital. However, these externalities reduce revenue raised by only 5%.",
     "pages": [
       "research"
     ],
@@ -586,7 +586,7 @@
     "research_section": "working_paper",
     "policy_section": null,
     "venue": null,
-    "venue_detail": "CESifo Working Paper 11870",
+    "venue_detail": null,
     "doi": null,
     "ungated_url": null,
     "award": "IIPF Young Economist Award 2023",

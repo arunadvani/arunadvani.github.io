@@ -43,13 +43,13 @@
                 Media coverage in
                 {% for item in paper.media.coverage %}
                 <a href="{{ item.url }}">{{ item.outlet }}</a>{% if not loop.last %}{% if loop.length == 2 %} and{% elif loop.revindex == 2 %}, and{% else %},{% endif %}{% endif %}
-                {% endfor %}.
+                {%- endfor %}.
                 {% endif %}
                 {% if paper.media.opeds %}
                 Op-ed{{ "s" if paper.media.opeds | length > 1 else "" }} in
                 {% for item in paper.media.opeds %}
                 <a href="{{ item.url }}">{{ item.outlet }}</a>{% if not loop.last %}{% if loop.length == 2 %} and{% elif loop.revindex == 2 %}, and{% else %},{% endif %}{% endif %}
-                {% endfor %}.
+                {%- endfor %}.
                 {% endif %}
               </div>
               {% endif %}
